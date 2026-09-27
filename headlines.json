@@ -32,6 +32,14 @@
         "category": "বিশ্ব সংবাদ"
     },
     {
+        "title": "চ্যাটজিপিটিতে আপলোড করা ছবি গোপনে অন্য ওয়েবসাইটে পাঠিয়েছে এআই এজেন্ট",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-08-19\/57s4sexf\/chatgpt.-reuters.png",
+        "source": "Prothom Alo",
+        "time": "2026-09-27 10:20:04",
+        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/artificial-intelligence\/o44dssza2q",
+        "category": "এআই"
+    },
+    {
         "title": "মধুচন্দ্রিমায় গ্রিসে গিয়ে ভবন ধসে নবদম্পতি নিহত",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/09\/27\/93eaceeeb96df2706e3c71cef512d47a-6ab8ed1eb3c62.jpg?jadewits_media_id=313400",
         "source": "Ittefaq",
@@ -46,6 +54,30 @@
         "time": "2026-09-27 10:15:58",
         "newsUrl": "https:\/\/www.ittefaq.com.bd\/811865\/%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A6%AC%E0%A6%A8%E0%A7%87-%E0%A7%A8%E0%A7%A7-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%85%E0%A6%AA%E0%A6%B9%E0%A6%B0%E0%A6%A3",
         "category": "সারাদেশ"
+    },
+    {
+        "title": "মা হওয়ার পর শরীর নিয়ে কটাক্ষ, ‘মোটি’ লেখা ব্লাউজ পরে নায়িকার প্রতিবাদ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-27\/83671mmt\/23ouj3pswara625x30027September26.webp",
+        "source": "Prothom Alo",
+        "time": "2026-09-27 10:15:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/bollywood\/m9qviv28fi",
+        "category": "বলিউড"
+    },
+    {
+        "title": "প্রধানমন্ত্রীর তিন দেশ সফরের প্রস্তুতি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-27\/lscfscda\/PM_attends_dinner.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-09-27 10:12:36",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/prdhaanmntriir-tin-desh-sphrer-prstuti",
+        "category": "বাংলাদেশ"
+    },
+    {
+        "title": "নান্দনিক লাইফস্টাইল পণ্য আর ক্র্যাফট ওয়ার্কশপে প্রাণবন্ত ‘আবারও’ মেলা, ঘরোয়া ও ছিমছাম আয়োজনের প্রতি বাড়ছে আগ্রহ ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-27\/mgm8drxo\/abaro9963.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-09-27 10:12:19",
+        "newsUrl": "https:\/\/www.haal.fashion\/arrangement\/event\/jcab8ltknv",
+        "category": "ইভেন্ট"
     },
     {
         "title": "বাংলাদেশের স্বার্থকে সর্বোচ্চ প্রাধান্য দিয়েই বোয়িং কেনার চুক্তি হয়েছে: মাহদী আমিন",
@@ -112,7 +144,7 @@
         "category": "জেলা"
     },
     {
-        "title": "প্রাথমিক শিক্ষক নিয়োগ: বাদ পড়া প্রার্থীদের প্রতিনিধিদল সচিবালয়ে, রাজশাহীতে দ্বিতীয় দফায় নিয়োগপত্র",
+        "title": "সচিবালয়ে বৈঠকে প্রাথমিক শিক্ষক নিয়োগে বাদ পড়া প্রার্থীদের প্রতিনিধিদল, শাহবাগে অবস্থানে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-27\/6trpp2oi\/1.jpeg",
         "source": "Prothom Alo",
         "time": "2026-09-27 09:58:31",
@@ -120,7 +152,7 @@
         "category": "খবর"
     },
     {
-        "title": "মুকেশ আম্বানির ছেলে অনন্তকে নিউক্যাসেলের অধ্যাপক নিয়োগ, যে কারণে সমালোচনা",
+        "title": "মুকেশ আম্বানির ছেলে অনন্তকে নিউক্যাসলের অধ্যাপক নিয়োগ, যে কারণে সমালোচনা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-27\/48lwe45o\/Anant-Amabani.jpg",
         "source": "Prothom Alo",
         "time": "2026-09-27 09:57:44",
@@ -582,46 +614,6 @@
         "time": "2026-09-27 06:23:02",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/mgdsr80ru1",
         "category": "জেলা"
-    },
-    {
-        "title": "বিদেশি আইনজীবী নিয়োগে আনিসুল-সালমানের আবেদন ১০ মাসেও নিষ্পত্তি হয়নি, নিয়ম ও অতীত অভিজ্ঞতা কী",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2025-05-28\/k0ydvd1r\/Untitled-1.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-09-27 06:17:54",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/1c8mepwrij",
-        "category": "বাংলাদেশ"
-    },
-    {
-        "title": "হিটলার কি তাঁর ভাগনিকে খুন করেছিলেন, ৯৫ বছর পর উঠল প্রশ্ন ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-27\/0lxinw02\/Hitler.avif",
-        "source": "Prothom Alo",
-        "time": "2026-09-27 06:16:54",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/europe\/zf3cu8fwdc",
-        "category": "ইউরোপ"
-    },
-    {
-        "title": "এআইয়ে পাওয়া যায় হোটেল–খরচা– ভ্রমণের সব তথ্য, কতটা কাজে লাগায় বাংলাদেশ ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-26\/609scfez\/Capture.PNG",
-        "source": "Prothom Alo",
-        "time": "2026-09-27 06:16:27",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/z6b9ztnkky",
-        "category": "বাংলাদেশ"
-    },
-    {
-        "title": "‘আধ্যাত্মিক চুরি’ কেন বুদ্ধিবৃত্তিক চুরির চেয়েও ভয়াবহ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-27\/23uow4xj\/219927-01-02.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-09-27 06:15:01",
-        "newsUrl": "https:\/\/www.prothomalo.com\/religion\/islam\/a9c4u56dt8",
-        "category": "ইসলাম"
-    },
-    {
-        "title": "১৫ হাজারের পথে কোহলি, পথের ধারে টেন্ডুলকারের আরও কিছু রেকর্ড",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2025-03-05\/vsoxszc8\/5.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-09-27 06:11:11",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/410lhj7mbh",
-        "category": "ক্রিকেট"
     },
     {
         "title": "সালমান মুক্তাদিরের স্টুডিওতে হামলা: হাসনাত- আসিফ-পাটওয়ারী কার কী প্রতিক্রিয়া  ",
