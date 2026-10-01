@@ -16,12 +16,28 @@
         "category": "জাতীয়"
     },
     {
+        "title": "নারীকে একা দেখলেই ইমিগ্রেশনে কেন এত প্রশ্ন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/lo0wdyz0\/woman-travels.png",
+        "source": "Prothom Alo",
+        "time": "2026-10-01 14:20:04",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/ojdq76uwoy",
+        "category": "বাংলাদেশ"
+    },
+    {
         "title": "সংরক্ষিত আসন যে দলের বরাদ্দ তারই থাকবে: ইসি",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/10\/01\/3a747c1226e3fb8dccd50cb27705449a-6abe6b1d1ea51.jpg?jadewits_media_id=314200",
         "source": "Ittefaq",
         "time": "2026-10-01 14:17:46",
         "newsUrl": "https:\/\/www.ittefaq.com.bd\/812639\/%E0%A6%B8%E0%A6%82%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A4-%E0%A6%86%E0%A6%B8%E0%A6%A8-%E0%A6%AF%E0%A7%87-%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%A6-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%87-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%87%E0%A6%B8%E0%A6%BF",
         "category": "রাজনীতি"
+    },
+    {
+        "title": "আবাসনে নতুন প্রজন্মের চাহিদা: কেমন বাড়ি তরুণদের পছন্দ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/6qvv3g4u\/Online-Abashon-MelaSpecial-Article09.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-01 14:14:11",
+        "newsUrl": "https:\/\/www.prothomalo.com\/business\/2e4gtus2ke",
+        "category": "বাণিজ্য"
     },
     {
         "title": "টানা চার মাস প্রবাসী আয় ৩০০ কোটি ডলারের নিচে, সেপ্টেম্বরে এসেছে ২৭৬ কোটি ডলার",
@@ -57,7 +73,7 @@
     },
     {
         "title": "সাড়ে চার হাজারের বেশি সদস্য নিয়ে পুলিশের স্বতন্ত্র ইউনিট হচ্ছে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/mn644kin\/Home-Minister%E2%80%931.jpeg",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/q1jjx6nj\/Home-mInister-01.jpeg",
         "source": "Prothom Alo",
         "time": "2026-10-01 14:05:23",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/ewvxgshh2h",
@@ -344,20 +360,20 @@
         "category": "অর্থনীতি"
     },
     {
-        "title": " ককপিটে কতজন পাইলট থাকেন, সেখানে কে কী করেন",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/mtr3gaan\/cockpit.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-01 12:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/middle-east\/2qfi8y4s84",
-        "category": "মধ্যপ্রাচ্য"
-    },
-    {
         "title": "অচেনা টম ক্রুজ থেকে বেঁচে থাকার গল্প, ঢাকায় আসছে আলোচিত দুই সিনেমা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/25gctdeu\/e78fae1c-e14f-49a9-94cb-f27f933f55a3.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-01 12:30:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/hollywood\/kvnq54s9nn",
         "category": "হলিউড"
+    },
+    {
+        "title": " ককপিটে কতজন পাইলট থাকেন, সেখানে কে কী করেন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/mtr3gaan\/cockpit.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-01 12:30:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/world\/middle-east\/2qfi8y4s84",
+        "category": "মধ্যপ্রাচ্য"
     },
     {
         "title": "গাজী নজরুলের দ্বিতীয় স্ত্রীর মামা ওবায়দুর রহমান রিমান্ডে",
@@ -448,7 +464,7 @@
         "category": "প্রযুক্তি"
     },
     {
-        "title": "আসিয়ান কাপ: গোলের খোঁজে মরিয়া ইন্দোনেশিয়া",
+        "title": "আসিয়ান কাপ: ৬ গোলের পরও আরও পেতে মরিয়া ইন্দোনেশিয়া",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/4ab37xi2\/WhatsApp-Image-2026-10-01-at-7.25.56-PM.jpeg",
         "source": "Prothom Alo",
         "time": "2026-10-01 11:44:47",
@@ -656,22 +672,6 @@
         "category": "রাজনীতি"
     },
     {
-        "title": "স্থানীয় সরকার নির্বাচন নিয়ে কোনো কলঙ্ক বিএনপি নেবে না: শাহে আলম",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/xwldquyy\/gaibandhadh059920261001gaibandha-01-4.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-01 10:17:04",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/g30aq7ski9",
-        "category": "জেলা"
-    },
-    {
-        "title": "গ্রামীণ বাণিজ্যের ঐতিহ্য টিকে আছে যে হাটে ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/322hpahd\/Hat.PNG",
-        "source": "Prothom Alo",
-        "time": "2026-10-01 09:59:38",
-        "newsUrl": "https:\/\/www.prothomalo.com\/business\/6b6sdibb9u",
-        "category": "বাণিজ্য"
-    },
-    {
         "title": "ঐশ্বরিয়া রাই, প্যারিস ফ্যাশন উইক মাতালেন আরও যেসব তারকা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/gejfypwf\/1.-FASHION-FRANCE-WOMEN-CHRISTIANDIOR-135608.jpg",
         "source": "Prothom Alo",
@@ -702,14 +702,6 @@
         "time": "2026-10-01 03:47:04",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/capital\/j8b4erke0w",
         "category": "রাজধানী"
-    },
-    {
-        "title": "মোস্তাফিজের ২ ওভারে ৪১, পাকিস্তানের কাছে হারে সোনার স্বপ্ন শেষ বাংলাদেশের",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2025-07-20\/tn1u8sx7\/Mustafizur_reacts_during_match__2.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-01 03:41:33",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/hxcmf6ykpz",
-        "category": "ক্রিকেট"
     },
     {
         "title": "মিরপুরে মিলেমিশে চাঁদাবাজি",
