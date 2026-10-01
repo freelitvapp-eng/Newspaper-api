@@ -360,14 +360,6 @@
         "category": "বাংলাদেশ"
     },
     {
-        "title": "শরতের বৃষ্টিতে ফুটল যে রং",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/mj7kbnsw\/1__rangamati_autumn_rain_flowers_supriyo_palo_01102026.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-01 04:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/i169uzs9kn",
-        "category": "bangladesh"
-    },
-    {
         "title": "হালকা-হালকা রসিক হাওয়া",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-30\/qp3nuinx\/WhatsApp-Image-2026-09-30-at-10.25.46-PM.jpeg",
         "source": "Prothom Alo",
@@ -398,6 +390,14 @@
         "time": "2026-10-01 04:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/k27typlbtw",
         "category": "জেলা"
+    },
+    {
+        "title": "শরতের বৃষ্টিতে ফুটল যে রং",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/mj7kbnsw\/1__rangamati_autumn_rain_flowers_supriyo_palo_01102026.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-01 04:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/i169uzs9kn",
+        "category": "bangladesh"
     },
     {
         "title": "বিশ্বের তৃতীয় সর্বোচ্চ স্থাপনা থেকে নদীদর্শন",
@@ -448,20 +448,20 @@
         "category": "মধ্যপ্রাচ্য"
     },
     {
-        "title": "ভারতের একের পর এক শুল্কচাপে বাংলাদেশের পাট খাত",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2021-06\/95f4b73b-553e-40fd-9fac-16269f661a12\/prothomalo_bangla_2020_12_e4929e32_be35_4654_9484_e3db3e89296b_Khulna_Pat_kol_14__1_.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-01 03:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/business\/economics\/ehjcinp412",
-        "category": "অর্থনীতি"
-    },
-    {
         "title": "৮৭ টাকায় আনা মাল্টা বাজারে কেন ৫২০ টাকা কেজি",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-30\/ptwz4ow8\/WhatsApp-Image-2026-09-30-at-10.41.21-PM.jpeg",
         "source": "Prothom Alo",
         "time": "2026-10-01 03:30:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/5yirf64g0e",
         "category": "জেলা"
+    },
+    {
+        "title": "ভারতের একের পর এক শুল্কচাপে বাংলাদেশের পাট খাত",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2021-06\/95f4b73b-553e-40fd-9fac-16269f661a12\/prothomalo_bangla_2020_12_e4929e32_be35_4654_9484_e3db3e89296b_Khulna_Pat_kol_14__1_.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-01 03:30:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/business\/economics\/ehjcinp412",
+        "category": "অর্থনীতি"
     },
     {
         "title": "সকালেই পড়ুন আলোচিত ৫ খবর",
@@ -504,20 +504,20 @@
         "category": "সম্পাদকীয়"
     },
     {
-        "title": "‘আমি বুঝি না দলে গ্রুপিং বলতে আসলে কী বোঝায়’",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-30\/0754pea2\/Bangladesh-Womens-cricket-team-Captain-Nigar-Sultana-Joti4.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-01 03:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/sports-interview\/9z79e7q1zv",
-        "category": "সাক্ষাৎকার"
-    },
-    {
         "title": "নিউইয়র্ক থেকে লোহিত সাগর—কোথায় দাঁড়িয়ে বাংলাদেশ",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-30\/5mqbom1d\/WEB.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-01 03:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/xiwrbyvr4j",
         "category": "bangladesh"
+    },
+    {
+        "title": "‘আমি বুঝি না দলে গ্রুপিং বলতে আসলে কী বোঝায়’",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-30\/0754pea2\/Bangladesh-Womens-cricket-team-Captain-Nigar-Sultana-Joti4.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-01 03:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/sports-interview\/9z79e7q1zv",
+        "category": "সাক্ষাৎকার"
     },
     {
         "title": "বিউটি পাল: সাইবার হয়রানির বিরুদ্ধে শিল্পের জয়",
