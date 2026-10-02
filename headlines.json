@@ -72,20 +72,20 @@
         "category": "জেলা"
     },
     {
-        "title": "পান্ডা, মাও আর পুরোনো গলির গল্প",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/am1zkm3a\/pan-2.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-02 06:00:00",
-        "newsUrl": "https:\/\/www.haal.fashion\/travel\/abroad\/08wtwyy7kb",
-        "category": "বিদেশ"
-    },
-    {
         "title": "দেখুন পটোল চিংড়ির দোলমার রেসিপি ",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-30\/yvaxsraz\/040A9598.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-02 06:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/recipe\/vdkwsng4ph",
         "category": "রসনা"
+    },
+    {
+        "title": "পান্ডা, মাও আর পুরোনো গলির গল্প",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/am1zkm3a\/pan-2.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-02 06:00:00",
+        "newsUrl": "https:\/\/www.haal.fashion\/travel\/abroad\/08wtwyy7kb",
+        "category": "বিদেশ"
     },
     {
         "title": "ফসলরক্ষার বাঁধ নির্মাণের সময় কৃষকদের ওপর হামলা, তিনজন আহত",
@@ -336,14 +336,6 @@
         "category": "অন্য খেলা"
     },
     {
-        "title": "দুনিয়ায় থেকেও যেভাবে পরকালের পথিক হব",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/8fsoj81a\/fantastic-mosque-architecture-islamic-new-year-celebration-2.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-02 04:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/religion\/islam\/a72uvnvcbr",
-        "category": "ইসলাম"
-    },
-    {
         "title": "জাতীয় সংস্কৃতির কল্পনা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/8lgvwu6d\/WhatsApp-Image-2026-10-01-at-1.44.01-PM.jpeg",
         "source": "Prothom Alo",
@@ -374,6 +366,14 @@
         "time": "2026-10-02 04:00:00",
         "newsUrl": "https:\/\/www.kishoralo.com\/feature\/j1l1ngykc1",
         "category": "feature"
+    },
+    {
+        "title": "দুনিয়ায় থেকেও যেভাবে পরকালের পথিক হব",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/8fsoj81a\/fantastic-mosque-architecture-islamic-new-year-celebration-2.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-02 04:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/religion\/islam\/a72uvnvcbr",
+        "category": "ইসলাম"
     },
     {
         "title": "৩৬ কোটি টাকায় নির্মাণ শেষে তালাবদ্ধ সুনামগঞ্জের ইনস্টিটিউট অব হেলথ টেকনোলজি",
@@ -432,14 +432,6 @@
         "category": "রাজনীতি"
     },
     {
-        "title": "কিশোর গ্যাংয়ের ভয়ে আতঙ্কিত মা–বাবা, সন্তানদের নিয়ে কী ভাবছেন তাঁরা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/as6qnee3\/WEB.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-02 03:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/7mq7sill6x",
-        "category": "bangladesh"
-    },
-    {
         "title": "দেখে নিন ২০২৭ ওয়ানডে বিশ্বকাপের গ্রুপ পর্বের সূচি",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-07-31\/xo5jfpkw\/CRICKET-IND-WIS-ODI-1316953890157541695389074212.webp",
         "source": "Prothom Alo",
@@ -462,6 +454,14 @@
         "time": "2026-10-02 03:00:00",
         "newsUrl": "https:\/\/www.bigganchinta.com\/biology\/4ftgssergx",
         "category": "biology"
+    },
+    {
+        "title": "কিশোর গ্যাংয়ের ভয়ে আতঙ্কিত মা–বাবা, সন্তানদের নিয়ে কী ভাবছেন তাঁরা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/as6qnee3\/WEB.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-02 03:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/7mq7sill6x",
+        "category": "bangladesh"
     },
     {
         "title": "ডাহুক পাখির শ্বাস",
@@ -510,30 +510,6 @@
         "time": "2026-10-02 02:32:01",
         "newsUrl": "https:\/\/www.prothomalo.com\/education\/scholarship\/g7b91t10hv",
         "category": "বৃত্তি"
-    },
-    {
-        "title": "সপ্তাহের সেরা ১০ চাকরি: জেনে নিন ১২৭৩ পদের বিবরণ (২৫ সেপ্টেম্বর—১ অক্টোবর) ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-02-07\/5uyal8i7\/prothomaloimportmedia20141121a3a8fe58beadd52e259458a9ef6e7bf6-9.avif",
-        "source": "Prothom Alo",
-        "time": "2026-10-02 02:30:39",
-        "newsUrl": "https:\/\/www.prothomalo.com\/chakri\/chakri-news\/advqpd8ghk",
-        "category": "খবর"
-    },
-    {
-        "title": "বগালেক, কেওক্রাডং ও সুনসাংপাড়া—পাহাড়ি রাস্তা, মেঘ আর সবুজের গল্প",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/gulhri3b\/6.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-02 02:28:18",
-        "newsUrl": "https:\/\/nagorik.prothomalo.com\/travel\/2ueqe9wwj4",
-        "category": "ভ্রমণ"
-    },
-    {
-        "title": "৪৯তম বিসিএসে বাদ পড়া ৪৬ জনের নিয়োগের প্রজ্ঞাপন সোমবার: স্বরাষ্ট্রমন্ত্রী",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-01\/lluvdia3\/image-346178-1790850826.webp",
-        "source": "Prothom Alo",
-        "time": "2026-10-01 10:48:01",
-        "newsUrl": "https:\/\/www.prothomalo.com\/chakri\/chakri-news\/uu55afbshf",
-        "category": "খবর"
     },
     {
         "title": "আড্ডা চলে ২০২৫: চলছে জম্পেশ আড্ডা আর জমজমাট কেনাকাটা",
