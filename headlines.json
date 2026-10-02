@@ -40,19 +40,19 @@
         "category": "আলোর পাঠশালা"
     },
     {
-        "title": "দ্য প্রিমিয়াম হোমস: আধুনিকতা ও প্রকৃতির যুগলবন্দীতে স্বপ্নের আবাসন",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-02\/yqpb2dov\/The-Premium-Homes.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-02 11:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/business\/jjr9k3ge2c",
-        "category": "বাণিজ্য"
-    },
-    {
         "title": "পরিকল্পিত আবাসন ও আধুনিক সেবায় নর্থ সাউথ গ্রুপ",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-02\/y2uqqmb4\/North-South-Group.jpeg",
         "source": "Prothom Alo",
         "time": "2026-10-02 11:30:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/business\/cb205dh03e",
+        "category": "বাণিজ্য"
+    },
+    {
+        "title": "দ্য প্রিমিয়াম হোমস: আধুনিকতা ও প্রকৃতির যুগলবন্দীতে স্বপ্নের আবাসন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-02\/yqpb2dov\/The-Premium-Homes.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-02 11:30:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/business\/jjr9k3ge2c",
         "category": "বাণিজ্য"
     },
     {
@@ -280,12 +280,12 @@
         "category": "বাংলাদেশ"
     },
     {
-        "title": "পূর্বাচল রিজেন্ট টাউন: আজকের প্লট, আগামী দিনের ঠিকানা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-02\/b63fa31c\/Purbachol-Rigent-Town-1.jpeg",
+        "title": "মিথিলা এবার কলাম্বিয়া বিশ্ববিদ্যালয়ে ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2025-02-15\/bxpcdwsg\/190518495_10159951496376614_6587691342762295307_n.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-02 10:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/business\/mqw068q2zm",
-        "category": "বাণিজ্য"
+        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/tv\/vmbggxqxar",
+        "category": "টেলিভিশন"
     },
     {
         "title": "দিনাজপুর বন্ধুসভার পাঠচক্রে বঙ্কিমচন্দ্র চট্টোপাধ্যায়ের ‘ফুলের বিবাহ’",
@@ -296,12 +296,12 @@
         "category": "activities"
     },
     {
-        "title": "মিথিলা এবার কলাম্বিয়া বিশ্ববিদ্যালয়ে ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2025-02-15\/bxpcdwsg\/190518495_10159951496376614_6587691342762295307_n.jpg",
+        "title": "পূর্বাচল রিজেন্ট টাউন: আজকের প্লট, আগামী দিনের ঠিকানা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-02\/b63fa31c\/Purbachol-Rigent-Town-1.jpeg",
         "source": "Prothom Alo",
         "time": "2026-10-02 10:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/tv\/vmbggxqxar",
-        "category": "টেলিভিশন"
+        "newsUrl": "https:\/\/www.prothomalo.com\/business\/mqw068q2zm",
+        "category": "বাণিজ্য"
     },
     {
         "title": "উড়োজাহাজে হামলার ঘটনাকে কীভাবে নির্বাচনের হাতিয়ার বানাচ্ছেন নেতানিয়াহু",
@@ -600,14 +600,6 @@
         "category": "প্রযুক্তি"
     },
     {
-        "title": "বিয়ের সাজের অনুপ্রেরণা হতে পারে নুসরাতের এই লেহেঙ্গা লুক",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-02\/m5iqa4nd\/nusrat555234.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-02 08:00:00",
-        "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/bownv36tc0",
-        "category": "লুক"
-    },
-    {
         "title": "‘চিলেকোঠার সেপাই’ কেন পাঠকের ভাবনা ওলটপালট করে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-02\/rbay2vyg\/Bengali-Literary-Book-in-Golden-Light.png",
         "source": "Prothom Alo",
@@ -622,6 +614,14 @@
         "time": "2026-10-02 08:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/health\/vrgz7s0nen",
         "category": " সুস্থতা"
+    },
+    {
+        "title": "বিয়ের সাজের অনুপ্রেরণা হতে পারে নুসরাতের এই লেহেঙ্গা লুক",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-02\/m5iqa4nd\/nusrat555234.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-02 08:00:00",
+        "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/bownv36tc0",
+        "category": "লুক"
     },
     {
         "title": "১ বিলিয়ন ডলার বিনিয়োগ আনার ঘোষণা \nদিল আহসান মনসুরের এম ক্যাপিটাল",
