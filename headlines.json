@@ -72,14 +72,6 @@
         "category": "বাংলাদেশ"
     },
     {
-        "title": "ময়ূরাক্ষী যখন ভাসে টাঙ্গুয়ার হাওরে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-03\/8ice3g3g\/haw-2.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-03 06:00:00",
-        "newsUrl": "https:\/\/www.haal.fashion\/travel\/domestic\/5ttjtd4c7f",
-        "category": "দেশ"
-    },
-    {
         "title": "১ মিনিটেরও কম সময়ে পৌঁছে গেলাম ১১৮ তলায়, সেখান থেকেই দেখলাম সাংহাই",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-03\/e76q07yy\/af0733ed-2dd1-4f32-bcee-f17244a30406.jpg",
         "source": "Prothom Alo",
@@ -94,6 +86,14 @@
         "time": "2026-10-03 06:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/world\/usa\/u8nnwhacqd",
         "category": "যুক্তরাষ্ট্র"
+    },
+    {
+        "title": "ময়ূরাক্ষী যখন ভাসে টাঙ্গুয়ার হাওরে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-03\/8ice3g3g\/haw-2.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-03 06:00:00",
+        "newsUrl": "https:\/\/www.haal.fashion\/travel\/domestic\/5ttjtd4c7f",
+        "category": "দেশ"
     },
     {
         "title": "ন্যাশনাল বুক অ্যাওয়ার্ডের দীর্ঘ তালিকা",
@@ -376,20 +376,20 @@
         "category": "bangladesh"
     },
     {
-        "title": "একাত্তরে মায়ের কোলে যুদ্ধ থেকে বেঁচেছিলাম, এবার নিজের চোখে দেখলাম আরেক ধরনের যুদ্ধ ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-28\/tkf7a4xc\/১.PNG",
-        "source": "Prothom Alo",
-        "time": "2026-10-03 04:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/dlvohlw2dm",
-        "category": "জীবনযাপন"
-    },
-    {
         "title": "কুকুর কেন মাথা হেলিয়ে তাকায়",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-02\/6ruqiaaf\/WEB.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-03 04:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/video\/hyg1qusm0s",
         "category": "ভিডিও"
+    },
+    {
+        "title": "একাত্তরে মায়ের কোলে যুদ্ধ থেকে বেঁচেছিলাম, এবার নিজের চোখে দেখলাম আরেক ধরনের যুদ্ধ ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-28\/tkf7a4xc\/১.PNG",
+        "source": "Prothom Alo",
+        "time": "2026-10-03 04:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/dlvohlw2dm",
+        "category": "জীবনযাপন"
     },
     {
         "title": "বজ্রপাতে চোখের সামনে ছেলের বন্ধুর মৃত্যু, পরে ২১ হাজার তালবীজ রোপণ করেছেন ছবুর",
@@ -480,20 +480,20 @@
         "category": "বলিউড"
     },
     {
-        "title": "দহন ও প্রেমের আত্মচরিত",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-02\/pfsdo0tc\/WhatsApp-Image-2026-10-01-at-3.17.53-PM-1.jpeg",
-        "source": "Prothom Alo",
-        "time": "2026-10-03 03:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/onnoalo\/books\/97uc43xe6s",
-        "category": "books"
-    },
-    {
         "title": "ঘাস নাকি গোলাপির সমুদ্র? দক্ষিণ কোরিয়ার এই স্থানে কেন ছুটছে হাজারো মানুষ!",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-02\/ctwbttir\/web.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-03 03:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/a9acmspj3w",
         "category": "International"
+    },
+    {
+        "title": "দহন ও প্রেমের আত্মচরিত",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-02\/pfsdo0tc\/WhatsApp-Image-2026-10-01-at-3.17.53-PM-1.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-10-03 03:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/onnoalo\/books\/97uc43xe6s",
+        "category": "books"
     },
     {
         "title": "মিথিলার ফ্যাশন মানেই ব্যক্তিত্ব ও আকর্ষণের পারফেক্ট মিশেল, দেখুন ১২টি ছবি ",
