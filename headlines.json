@@ -1,5 +1,21 @@
 [
     {
+        "title": "যারা মুক্তিযোদ্ধাকে কাঠগড়ায় ওঠায়, তাদের কাছে কোনো ইনসাফ নাই: জামায়াত নেতা গোলাম পরওয়ার",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/arnl5bxs\/Jamat-Secretary-01.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-10-04 16:07:39",
+        "newsUrl": "https:\/\/www.prothomalo.com\/politics\/0xteq8oy2r",
+        "category": "রাজনীতি"
+    },
+    {
+        "title": "দেশে চালু হলো এআইভিত্তিক চাকরির সাক্ষাৎকার প্ল্যাটফর্ম ‘হাইপো এআই’",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/dfynio5b\/hipo.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-10-04 16:06:29",
+        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/artificial-intelligence\/6fw49p4zhr",
+        "category": "এআই"
+    },
+    {
         "title": "আসামি শাওন বিদেশে, আদালতে জামিন নিলেন অন্য ‘শাওন’",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/10\/04\/babcbb8324035dd6205264f27b8a9b2b-6ac277af04748.jpg?jadewits_media_id=314751",
         "source": "Ittefaq",
@@ -112,20 +128,12 @@
         "category": "রাজধানী"
     },
     {
-        "title": "ভবিষ্যতে বেকার ভাতা চালুর বিষয়টি বিবেচনা করা হবে: মাহদী আমিন",
+        "title": "চাকরিদাতা–চাকরিপ্রার্থীকে এক প্ল্যাটফর্মে আনছে সরকার, শুরু ডিসেম্বরে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/7iifgrxg\/Mahdi-Amin-1.jpeg",
         "source": "Prothom Alo",
         "time": "2026-10-04 15:37:58",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/capital\/421jna5osw",
         "category": "রাজধানী"
-    },
-    {
-        "title": "পুরো জনপদ ধ্বংসস্তূপে পরিণত হয়েছে, গাজার বর্তমান পরিস্থিতি নিয়ে অ্যাঞ্জেলিনা জোলি",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2023-10\/8d6da1b6-cdef-492e-bd70-ca481cb37f88\/jolle_reaters.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-04 15:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/hollywood\/t0md1saner",
-        "category": "হলিউড"
     },
     {
         "title": "বাংলাদেশ থেকে বছরে ৭৫ কোটি ডলারের পোশাক কেনে এলপিপি",
@@ -134,6 +142,14 @@
         "time": "2026-10-04 15:30:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/business\/industry\/486vccyvfb",
         "category": "শিল্প"
+    },
+    {
+        "title": "পুরো জনপদ ধ্বংসস্তূপে পরিণত হয়েছে, গাজার বর্তমান পরিস্থিতি নিয়ে অ্যাঞ্জেলিনা জোলি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2023-10\/8d6da1b6-cdef-492e-bd70-ca481cb37f88\/jolle_reaters.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-04 15:30:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/hollywood\/t0md1saner",
+        "category": "হলিউড"
     },
     {
         "title": "কুষ্টিয়ায় নাসীরুদ্দীন পাটওয়ারীর ওপর হামলা, গাড়ি ভাঙচুর",
@@ -368,14 +384,6 @@
         "category": "আয়োজন"
     },
     {
-        "title": "গানটি হোক নারী ফুটবলারদের জন্য শক্তি আর অনুপ্রেরণা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/3r6unlrl\/WEB.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-04 13:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/cafelive\/sorj6rawkp",
-        "category": "Cafelive"
-    },
-    {
         "title": "মৃত্যুর তিন দিন পরে যিনি নোবেল পেয়েছিলেন",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/cdxihxc1\/STEINMAN-obit-jumbo.avif",
         "source": "Prothom Alo",
@@ -390,6 +398,14 @@
         "time": "2026-10-04 13:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/education\/campus\/lxyp0fxdgx",
         "category": "ক্যাম্পাস"
+    },
+    {
+        "title": "গানটি হোক নারী ফুটবলারদের জন্য শক্তি আর অনুপ্রেরণা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/3r6unlrl\/WEB.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-04 13:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/cafelive\/sorj6rawkp",
+        "category": "Cafelive"
     },
     {
         "title": "শিক্ষাপ্রতিষ্ঠানের প্রধান নিয়োগে ভাইভার সংশোধিত শিডিউল প্রকাশ",
@@ -606,54 +622,6 @@
         "time": "2026-10-04 12:12:11",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/uhuxsz8hfg",
         "category": "বাংলাদেশ"
-    },
-    {
-        "title": "বাংলাদেশে ইন্দোনেশিয়ার বিনিয়োগ বাড়ানোর আহ্বান",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/8jmphjdt\/Business.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-04 12:08:21",
-        "newsUrl": "https:\/\/www.prothomalo.com\/business\/economics\/t2yeih00gn",
-        "category": "অর্থনীতি"
-    },
-    {
-        "title": "হাতে–কলমে মহাকাশবিজ্ঞান ও স্পেস রোবোটিকস সম্পর্কে জানল শিশুরা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/5bj1whlw\/pic2.png",
-        "source": "Prothom Alo",
-        "time": "2026-10-04 12:07:11",
-        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/science\/mqahdwlfim",
-        "category": "বিজ্ঞান"
-    },
-    {
-        "title": "মুম্বাইয়ে সিইসি জ্ঞানেশবিরোধী মিছিল, কেরলমে পুরোনো দুর্নীতির ফাইল",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/czdp82at\/Untitled-1.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-04 12:05:58",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/india\/tnww89z2b1",
-        "category": "ভারত"
-    },
-    {
-        "title": "ঢাকার বৃত্তাকার সড়ক নির্মাণকাজের গতি বাড়ানোর নির্দেশ প্রধানমন্ত্রীর",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/njj551yy\/BS.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-04 12:05:55",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/fihsdy86s9",
-        "category": "bangladesh"
-    },
-    {
-        "title": " প্রবাসে একটুকরো বাংলা: সুইজারল্যান্ডে বাংলাদেশিদের দুর্গাপূজা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/udxaucrg\/7.jpeg",
-        "source": "Prothom Alo",
-        "time": "2026-10-04 12:01:18",
-        "newsUrl": "https:\/\/nagorik.prothomalo.com\/durporobash\/2cgh8ym3wg",
-        "category": "দূর পরবাস"
-    },
-    {
-        "title": "শ্যামলীতে টাকা ছিনিয়ে নিতে যুবককে ছুরিকাঘাতে হত্যা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-07-09\/rdle97jl\/1.avif",
-        "source": "Prothom Alo",
-        "time": "2026-10-04 12:00:34",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/crime\/j8opfa5hi5",
-        "category": "অপরাধ"
     },
     {
         "title": "নামের মিলে ১০ মাস ধরে কারাগারে, প্রকৃত আসামি কে তদন্তের নির্দেশ ",
