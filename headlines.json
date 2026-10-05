@@ -1,5 +1,13 @@
 [
     {
+        "title": "দেশের বাজারে কমছে স্বর্ণের দাম",
+        "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/02\/17\/8e802f5bae5666f8196665874abdc30d-69943c6dad2cd.jpg?jadewits_media_id=273604",
+        "source": "Ittefaq",
+        "time": "2026-10-05 05:32:07",
+        "newsUrl": "https:\/\/www.ittefaq.com.bd\/813224\/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A6%AE%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE",
+        "category": "অর্থনীতি"
+    },
+    {
         "title": "রাজধানীতে ডিএমপির ২৪ ঘণ্টার বিশেষ অভিযান, গ্রেপ্তার ৪১৪",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/10\/03\/2bb0d55a75a35c9752b689314a03fd27-6ac11f0054086.jpg?jadewits_media_id=314532",
         "source": "Ittefaq",
@@ -46,14 +54,6 @@
         "time": "2026-10-05 05:08:47",
         "newsUrl": "https:\/\/www.prothomalo.com\/sports\/football\/xwddz0lodp",
         "category": "ফুটবল"
-    },
-    {
-        "title": "রাবিতে ছাত্রদলের হামলার ঘটনায় সাংবাদিকদের তিন দফা দাবি",
-        "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/10\/05\/777ebd2d65823a1e99433d21046883da-6ac32a268bcef.jpg?jadewits_media_id=314810",
-        "source": "Ittefaq",
-        "time": "2026-10-05 05:05:07",
-        "newsUrl": "https:\/\/www.ittefaq.com.bd\/813214\/%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%BE%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A6%AB%E0%A6%BE",
-        "category": "ক্যাম্পাস"
     },
     {
         "title": "২৫০ শয্যার নেত্রকোনা জেলা সদর হাসপাতালে চিকিৎসক আছেন ৩০ জন",
@@ -288,20 +288,20 @@
         "category": "ফুটবল"
     },
     {
-        "title": "মা-বাবা, সাদিক ডেকে ডেকে মাতিয়ে রাখে শালিকজোড়া",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/9888wvqm\/WEB-Recovered.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-05 03:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/c0jf4418q6",
-        "category": "bangladesh"
-    },
-    {
         "title": "সৃষ্টিজগতের যে ৮ নিদর্শন সংশয়বাদীকেও ভাবতে বাধ্য করে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/2oj98jl5\/GeminiGeneratedImageuirfyquirfyquirf.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-05 03:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/religion\/islam\/uugixwh2k5",
         "category": "ইসলাম"
+    },
+    {
+        "title": "মা-বাবা, সাদিক ডেকে ডেকে মাতিয়ে রাখে শালিকজোড়া",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/9888wvqm\/WEB-Recovered.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-05 03:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/c0jf4418q6",
+        "category": "bangladesh"
     },
     {
         "title": "নামহীন দুর্গ; চাঁদপুরের সাহেবগঞ্জের অজানা ইতিহাস",
@@ -376,20 +376,12 @@
         "category": "bangladesh"
     },
     {
-        "title": "বায়ুদূষণ ও জনস্বাস্থ্য সংকট সমাধানে কী ধরনের কৌশল ও নীতিমালা প্রয়োজন",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/gag3wm2u\/Group.JPG",
+        "title": "একসময় স্কুলের বেতন দিতে পারেননি, এখন ৩ হাজার কোটি রুপির মালিক সালমান খান",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/4hh9zbvz\/3c30ebc3-93b3-43c1-b61c-a1b6877167f9.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-05 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/roundtable\/ub0tibr5sx",
-        "category": "গোলটেবিল"
-    },
-    {
-        "title": "চাঁদাবাজের বর্ণ পরিচয়",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-03\/l1yqhl56\/2-page-comic-temp.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-05 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/kdnfiunl2l",
-        "category": "রস+আলো"
+        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/bollywood\/s1bstpi1s0",
+        "category": "বলিউড"
     },
     {
         "title": "অ্যান্ড্রয়েড স্মার্টফোনে মুখের কথায় পাঠানো যাবে জরুরি বিপদ বার্তা",
@@ -400,12 +392,20 @@
         "category": "প্রযুক্তি"
     },
     {
-        "title": "একসময় স্কুলের বেতন দিতে পারেননি, এখন ৩ হাজার কোটি রুপির মালিক সালমান খান",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/4hh9zbvz\/3c30ebc3-93b3-43c1-b61c-a1b6877167f9.jpg",
+        "title": "চাঁদাবাজের বর্ণ পরিচয়",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-03\/l1yqhl56\/2-page-comic-temp.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-05 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/bollywood\/s1bstpi1s0",
-        "category": "বলিউড"
+        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/kdnfiunl2l",
+        "category": "রস+আলো"
+    },
+    {
+        "title": "বায়ুদূষণ ও জনস্বাস্থ্য সংকট সমাধানে কী ধরনের কৌশল ও নীতিমালা প্রয়োজন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/gag3wm2u\/Group.JPG",
+        "source": "Prothom Alo",
+        "time": "2026-10-05 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/roundtable\/ub0tibr5sx",
+        "category": "গোলটেবিল"
     },
     {
         "title": "ভালোবাসি তাই বশ্যতা স্বীকার করতে দ্বিধা নাই",
@@ -414,22 +414,6 @@
         "time": "2026-10-05 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/onnoalo\/poem\/m7i4oyur7b",
         "category": "poem"
-    },
-    {
-        "title": "দেশি মাছের ‘আঁতুড়ঘর’ গোসাঁইয়ের দহে এখন কচুরিপানা, নেই মাছ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/mptz85qa\/SherpurDoho-1.JPG",
-        "source": "Prothom Alo",
-        "time": "2026-10-05 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/teuzfz3pl5",
-        "category": "জেলা"
-    },
-    {
-        "title": "ছাত্রাবস্থায় জার্মানিতে কত টাকা আয় করা যায়",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/cthvud2v\/web.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-05 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/vg58nar2p3",
-        "category": "International"
     },
     {
         "title": "তারকাদের বিচ্ছেদে আমাদের এত মন খারাপ হয় কেন",
@@ -454,6 +438,22 @@
         "time": "2026-10-05 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/sports\/football\/o36v0k8nap",
         "category": "ফুটবল"
+    },
+    {
+        "title": "দেশি মাছের ‘আঁতুড়ঘর’ গোসাঁইয়ের দহে এখন কচুরিপানা, নেই মাছ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/mptz85qa\/SherpurDoho-1.JPG",
+        "source": "Prothom Alo",
+        "time": "2026-10-05 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/teuzfz3pl5",
+        "category": "জেলা"
+    },
+    {
+        "title": "ছাত্রাবস্থায় জার্মানিতে কত টাকা আয় করা যায়",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-04\/cthvud2v\/web.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-05 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/vg58nar2p3",
+        "category": "International"
     },
     {
         "title": "সরকার বদলায়, শিক্ষকদের দলাদলি থেকে যায়, হেনস্তা নতুন মাত্রায়",
