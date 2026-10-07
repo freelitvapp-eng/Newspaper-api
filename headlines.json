@@ -96,30 +96,6 @@
         "category": "প্রযুক্তি"
     },
     {
-        "title": "ড্রোন হামলা ঠেকাতে পাকিস্তানের অস্ত্র এখন মাছ ধরার জাল",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-06\/j0tobxbo\/fishing-nets.jfif",
-        "source": "Prothom Alo",
-        "time": "2026-10-07 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/pakistan\/4nnyk4xmru",
-        "category": "পাকিস্তান"
-    },
-    {
-        "title": "২৮০ টাকায় কেনা সাইকেলটি ৬০ বছর পরও সামাদের সঙ্গী",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-06\/38lzfkih\/RAJSHAHIBicycle-1.JPG",
-        "source": "Prothom Alo",
-        "time": "2026-10-07 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/noox9rge4h",
-        "category": "জেলা"
-    },
-    {
-        "title": "সাধারণ মৌসুমি ফ্লুও যেভাবে হয়ে উঠতে পারে বড় বিপদ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-06\/krxjt27b\/KBRH5280.JPG",
-        "source": "Prothom Alo",
-        "time": "2026-10-07 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/health\/orsdw1r2ia",
-        "category": " সুস্থতা"
-    },
-    {
         "title": "মধ্যপ্রাচ্য থেকে যুক্তরাষ্ট্রকে তাড়াতে ইরানের কৌশল",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-06\/jbrci5p3\/E2EKDUN7FVPUDBHAGGQTKBAQAY.avif",
         "source": "Prothom Alo",
@@ -150,6 +126,30 @@
         "time": "2026-10-07 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/tv\/psqo0nd62u",
         "category": "টেলিভিশন"
+    },
+    {
+        "title": "ড্রোন হামলা ঠেকাতে পাকিস্তানের অস্ত্র এখন মাছ ধরার জাল",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-06\/j0tobxbo\/fishing-nets.jfif",
+        "source": "Prothom Alo",
+        "time": "2026-10-07 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/world\/pakistan\/4nnyk4xmru",
+        "category": "পাকিস্তান"
+    },
+    {
+        "title": "২৮০ টাকায় কেনা সাইকেলটি ৬০ বছর পরও সামাদের সঙ্গী",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-06\/38lzfkih\/RAJSHAHIBicycle-1.JPG",
+        "source": "Prothom Alo",
+        "time": "2026-10-07 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/noox9rge4h",
+        "category": "জেলা"
+    },
+    {
+        "title": "সাধারণ মৌসুমি ফ্লুও যেভাবে হয়ে উঠতে পারে বড় বিপদ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-06\/krxjt27b\/KBRH5280.JPG",
+        "source": "Prothom Alo",
+        "time": "2026-10-07 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/health\/orsdw1r2ia",
+        "category": " সুস্থতা"
     },
     {
         "title": "অর্থনৈতিক প্রবৃদ্ধি শ্লথ, বাড়ছে দারিদ্র্য, স্থবির কর্মসংস্থান: বিশ্বব্যাংক",
@@ -262,6 +262,14 @@
         "time": "2026-10-06 18:37:41",
         "newsUrl": "https:\/\/www.prothomalo.com\/sports\/football\/qinzue311r",
         "category": "ফুটবল"
+    },
+    {
+        "title": "১০ অক্টোবর ঢাকায় ‘রিয়েল এস্টেট কানেক্ট বাংলাদেশ’, চলছে নিবন্ধন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-06\/6y8da95z\/Hero-ImageReal-Estate-Connect-Bangladesh.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-10-06 17:41:16",
+        "newsUrl": "https:\/\/www.prothomalo.com\/business\/pvlf3r09t9",
+        "category": "বাণিজ্য"
     },
     {
         "title": "শূন্যগর্ভ ও অন্যান্য কবিতা ",
