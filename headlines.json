@@ -288,20 +288,20 @@
         "category": "রস+আলো"
     },
     {
-        "title": "পাঁচ হাজার বছরের নীরবতা পেরিয়ে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-07\/v0jvxknf\/hero.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-08 06:00:00",
-        "newsUrl": "https:\/\/www.haal.fashion\/travel\/abroad\/u6f5k9xqlt",
-        "category": "বিদেশ"
-    },
-    {
         "title": "চ্যাটজিপিটি দিয়ে লেখা শনাক্তে নতুন সুবিধা চালু করছে ওপেনএআই",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-06-25\/adl9h9bq\/ChatGPT.avif",
         "source": "Prothom Alo",
         "time": "2026-10-08 06:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/technology\/artificial-intelligence\/j5zka8ue7d",
         "category": "এআই"
+    },
+    {
+        "title": "পাঁচ হাজার বছরের নীরবতা পেরিয়ে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-07\/v0jvxknf\/hero.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-08 06:00:00",
+        "newsUrl": "https:\/\/www.haal.fashion\/travel\/abroad\/u6f5k9xqlt",
+        "category": "বিদেশ"
     },
     {
         "title": "যতটা ভাবছেন, আপনি হয়তো তার চেয়েও বেশি মানসিকভাবে শক্তিশালী, মিলিয়ে নিন ১০টি লক্ষণ",
@@ -400,6 +400,14 @@
         "category": "বলিউড"
     },
     {
+        "title": "আন্তর্জাতিক গণিত ও বিজ্ঞান অলিম্পিয়াডে বাংলাদেশের প্রথম স্বর্ণ জয়, মোট পদক ১৫টি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-07\/yh7mztrp\/All-Bd-Team.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-10-08 05:00:00",
+        "newsUrl": "https:\/\/www.bigganchinta.com\/events\/jogyw9sz31",
+        "category": "events"
+    },
+    {
         "title": "শক্তিশালী ব্যাটারির এই স্মার্টফোনে একবার চার্জে ২০ ঘণ্টা ভিডিও দেখা যায়",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-07\/vg61v1dr\/layout-1600x1067-6.png",
         "source": "Prothom Alo",
@@ -414,14 +422,6 @@
         "time": "2026-10-08 05:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/xbk2ay0noj",
         "category": "bangladesh"
-    },
-    {
-        "title": "আন্তর্জাতিক গণিত ও বিজ্ঞান অলিম্পিয়াডে বাংলাদেশের প্রথম স্বর্ণ জয়, মোট পদক ১৫টি",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-07\/yh7mztrp\/All-Bd-Team.jpeg",
-        "source": "Prothom Alo",
-        "time": "2026-10-08 05:00:00",
-        "newsUrl": "https:\/\/www.bigganchinta.com\/events\/jogyw9sz31",
-        "category": "events"
     },
     {
         "title": "ঢাকায় এক ব্যক্তিকে হাতকড়া পরিয়ে নেওয়ার ঘটনায় পুনর্বাসন কেন্দ্রের দুই কর্মী আটক",
