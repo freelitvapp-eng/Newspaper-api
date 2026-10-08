@@ -16,6 +16,14 @@
         "category": "বিশ্ব সংবাদ"
     },
     {
+        "title": "নানা পাটেকর আয়ের ৯০ শতাংশ বিলিয়ে দিতেন, কাটাতেন সাদাসিধে জীবন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-08\/qr1u3enj\/WhatsApp-Image-2026-10-08-at-10.00.30-AM-1.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-10-08 05:04:46",
+        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/bollywood\/nw8a3o5ywf",
+        "category": "বলিউড"
+    },
+    {
         "title": "লেবাননের হিজবুল্লাহকে ২০০ মিলিয়ন ডলার দিলো ইরান",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/09\/08\/f1d35e580637f83af1911fb8abbb7d24-6a9f6c7b39b14.jpg?jadewits_media_id=309803",
         "source": "Ittefaq",
@@ -272,20 +280,20 @@
         "category": "ইউরোপ"
     },
     {
-        "title": "‘ময়মনসিংহ শহরের যে দিকে যাই, সেদিকেই যানজট’",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-07\/opp4bk1f\/MYMENSINGHDH169420261006WHATSAPP-IMAGE-2026-10-06-AT-11.55.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-08 03:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/5l4z8phbh7",
-        "category": "জেলা"
-    },
-    {
         "title": "১২ বছরে ৭ বারই লোকসান, এবারও আলু নিয়ে বিপাকে রংপুরের কৃষক",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-07\/wuiqarnk\/WhatsApp-Image-2026-10-07-at-10.29.50-PM.jpeg",
         "source": "Prothom Alo",
         "time": "2026-10-08 03:30:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/business\/economics\/4rmmtgjv9c",
         "category": "অর্থনীতি"
+    },
+    {
+        "title": "‘ময়মনসিংহ শহরের যে দিকে যাই, সেদিকেই যানজট’",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-07\/opp4bk1f\/MYMENSINGHDH169420261006WHATSAPP-IMAGE-2026-10-06-AT-11.55.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-08 03:30:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/5l4z8phbh7",
+        "category": "জেলা"
     },
     {
         "title": "আর্জেন্টিনার হয়ে তুমি যা জিতেছ, তার প্রতি শ্রদ্ধা—মেসিকে রোনালদো",
@@ -392,14 +400,6 @@
         "category": "দূর পরবাস"
     },
     {
-        "title": "কম্পিউটার বাজারে বেড়েই চলেছে র‍্যামের দাম",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-07\/hd4xisa3\/Bazardor.palo.png",
-        "source": "Prothom Alo",
-        "time": "2026-10-08 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/swfs94rqc3",
-        "category": "প্রযুক্তি"
-    },
-    {
         "title": "পানি নিরাপত্তা ও সমন্বিত পানিসম্পদ ব্যবস্থাপনা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-07\/6qgkqsxr\/Group.JPG",
         "source": "Prothom Alo",
@@ -408,28 +408,12 @@
         "category": "গোলটেবিল"
     },
     {
-        "title": "পাথর আর কাশফুলে শরতের জাফলং",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-07\/m08rjkqw\/2.-Sylhet-stone-Kash-flowers-Jaflong-tourist-beauty08102026.JPG",
+        "title": "কম্পিউটার বাজারে বেড়েই চলেছে র‍্যামের দাম",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-07\/hd4xisa3\/Bazardor.palo.png",
         "source": "Prothom Alo",
         "time": "2026-10-08 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/raft4t3b9i",
-        "category": "bangladesh"
-    },
-    {
-        "title": "বাঁধাধরা চাকরিতে মন টেকেনি, এখন আরিফুলের মাসে আয় ২ লাখ টাকা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-06\/q8z0cwgq\/Kurigram3.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-08 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/t9ms4leh3e",
-        "category": "জেলা"
-    },
-    {
-        "title": "অর্থনৈতিক চাপের মুখে কোন পথে যাবে ইরান",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-07\/rgglkjhv\/iranwarmarketafp.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-08 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/3imq5871kt",
-        "category": "কলাম"
+        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/swfs94rqc3",
+        "category": "প্রযুক্তি"
     },
     {
         "title": "হুতিদের বিরুদ্ধে সৌদি আরবের অভিযান: পাকিস্তান কি শেষ পর্যন্ত যুদ্ধে জড়াবে",
@@ -470,6 +454,30 @@
         "time": "2026-10-08 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/relation\/9chwwghd7e",
         "category": "সম্পর্ক"
+    },
+    {
+        "title": "বাঁধাধরা চাকরিতে মন টেকেনি, এখন আরিফুলের মাসে আয় ২ লাখ টাকা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-06\/q8z0cwgq\/Kurigram3.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-08 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/t9ms4leh3e",
+        "category": "জেলা"
+    },
+    {
+        "title": "অর্থনৈতিক চাপের মুখে কোন পথে যাবে ইরান",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-07\/rgglkjhv\/iranwarmarketafp.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-08 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/3imq5871kt",
+        "category": "কলাম"
+    },
+    {
+        "title": "পাথর আর কাশফুলে শরতের জাফলং",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-07\/m08rjkqw\/2.-Sylhet-stone-Kash-flowers-Jaflong-tourist-beauty08102026.JPG",
+        "source": "Prothom Alo",
+        "time": "2026-10-08 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/raft4t3b9i",
+        "category": "bangladesh"
     },
     {
         "title": "ছিনতাইকারী ধরে তরুণদের দল, আছে পোশাক, চালায় অভিযান",
