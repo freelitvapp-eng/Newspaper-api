@@ -32,6 +32,30 @@
         "category": "বিশ্ব সংবাদ"
     },
     {
+        "title": "মশার লার্ভা মরছে না, ওষুধ ফেরত দিচ্ছে খুলনা সিটি করপোরেশন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-13\/tzm450m7\/KhulnaDH054920261013Khulna-city-corporation-1.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-13 13:26:39",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/bnb4gfzwag",
+        "category": "জেলা"
+    },
+    {
+        "title": "স্বামী, স্ত্রীর নেতৃত্বে চোর চক্র, মন্দিরে ঘুরে ঘুরে করতেন সোনা চুরি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2022-03\/1ab44985-c4d6-49d1-b19f-f132389c0341\/ramana.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-13 13:24:10",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/crime\/dg6f0s6c6b",
+        "category": "অপরাধ"
+    },
+    {
+        "title": "৩০ ঘণ্টা পর অবরুদ্ধ ভবন থেকে চুয়েট উপাচার্যকে বের করে আনলেন ডিসি–এসপি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-13\/wbeidmx1\/VC.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-13 13:22:27",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/2f5wzg83n5",
+        "category": "জেলা"
+    },
+    {
         "title": "পূজার সাজে ৪ ব্লাউজ, দেখে নিন ছবিতে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-13\/sx4x1bsv\/KBRH8376.JPG",
         "source": "Prothom Alo",
@@ -624,28 +648,12 @@
         "category": "রাজনীতি"
     },
     {
-        "title": "ট্রেনের কোচ সংস্কারে অবহেলা, মন্ত্রীর প্রশ্ন—‘নিজের বাড়ির জানালার কাজ হলে কি এভাবে করতেন’",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-13\/gix7u5rn\/nilphamaridh058520261013whatsapp-image-2026-10-13-at-1.26.59-pm.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-13 09:29:22",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/v8kbk0tqrn",
-        "category": "জেলা"
-    },
-    {
         "title": "সৌদি আরবে হুতি বিদ্রোহীদের একের পর এক হামলা, পরিস্থিতি কোন দিকে যাচ্ছে?",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-13\/a698rk0l\/WEB.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-13 09:23:10",
         "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/jd4jkiq35h",
         "category": "International"
-    },
-    {
-        "title": "কাজ পেতে নগ্ন দৃশ্যকে না বলতে পারেননি এই অভিনেত্রী",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-11\/a290oz6y\/MV5BNzg1Mzg4OTA5NV5BMl5BanBnXkFtZTgwODgwNjcwODM.V1.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-13 09:20:52",
-        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/hollywood\/4ohjwy6jsa",
-        "category": "হলিউড"
     },
     {
         "title": "জিয়াউল আহসানকে ট্রাইব্যুনালে আনা হবে না, কারাগার থেকে অংশ নেবেন ভার্চ্যুয়ালি: প্রসিকিউটর",
@@ -728,14 +736,6 @@
         "category": "ভারত"
     },
     {
-        "title": "খাইবার পাখতুনখাওয়ায় গভর্নর শাসনের অর্থ কী, চলতে পারে কত দিন",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-13\/57w2mf50\/Police-guard.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-13 05:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/pakistan\/dch104aybw",
-        "category": "পাকিস্তান"
-    },
-    {
         "title": "চলতি অর্থবছরে বাংলাদেশে মূল্যস্ফীতি বেড়ে প্রায় ১১% হতে পারে, আইএমএফের পূর্বাভাস  ",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-05-28\/avflmuth\/prothomalo-IMF.avif",
         "source": "Prothom Alo",
@@ -750,22 +750,6 @@
         "time": "2026-10-13 01:00:00",
         "newsUrl": "https:\/\/www.kishoralo.com\/feature\/islo8dbfrn",
         "category": "feature"
-    },
-    {
-        "title": "সারের ডিলার হয়েছেন এমপির ছেলে, ভগ্নিপতি ও ভাগিনার স্ত্রী",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-12\/ypq5jxtl\/Untitled-1.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-12 15:32:52",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/l0oybhtcvj",
-        "category": "জেলা"
-    },
-    {
-        "title": "ঢাকায় আন্তর্জাতিক বাণিজ্যিক স্থাপত্য গড়ছে শান্তা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-10\/9slfcpb2\/F6A6381.JPG",
-        "source": "Prothom Alo",
-        "time": "2026-10-11 04:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/business\/gm7jx2tqzl",
-        "category": "বাণিজ্য"
     },
     {
         "title": "পারল না বাংলাদেশ, জয়ের সমান ড্র করল আফগানিস্তান",
