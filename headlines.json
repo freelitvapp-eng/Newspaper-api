@@ -1,5 +1,13 @@
 [
     {
+        "title": "তথ্য ফাঁসকারীদের ‘গুলি করে মারা’ উচিত: ট্রাম্প",
+        "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/08\/17\/d8a62e7f8f1168872096dbde53370743-6a829cc7b6532.jpg?jadewits_media_id=305767",
+        "source": "Ittefaq",
+        "time": "2026-10-15 02:51:13",
+        "newsUrl": "https:\/\/www.ittefaq.com.bd\/815256\/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%AB%E0%A6%BE%E0%A6%81%E0%A6%B8%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E2%80%98%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BE%E2%80%99-%E0%A6%89%E0%A6%9A%E0%A6%BF%E0%A6%A4-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA",
+        "category": "বিশ্ব সংবাদ"
+    },
+    {
         "title": "বিবাহবিচ্ছেদের সুযোগ নেই ফিলিপাইন ও ভ্যাটিকান সিটিতে!",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/10\/15\/af628c1a9a4b83cd598c18b12a7f825d-6ad03cda1b807.jpg?jadewits_media_id=316880",
         "source": "Ittefaq",
@@ -72,14 +80,6 @@
         "category": "শিক্ষা"
     },
     {
-        "title": "এআই ব্যবহার করে ভিডিও তৈরির অভিযোগে প্রতিযোগিতার প্রথম পুরস্কার বাতিল",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-14\/anh148ka\/AI.-Reuters1.png",
-        "source": "Prothom Alo",
-        "time": "2026-10-15 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/artificial-intelligence\/xpbywvu3at",
-        "category": "এআই"
-    },
-    {
         "title": "ভোরের আলোয় কাঞ্চনজঙ্ঘার শুভ্রতা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-14\/1mdphmw6\/1.-Panchagarh-Tetulia-Mount-Kanchenjunga-breathtaking-view15102026.jpeg",
         "source": "Prothom Alo",
@@ -88,20 +88,20 @@
         "category": "bangladesh"
     },
     {
-        "title": "এই দুই দেশে বিবাহবিচ্ছেদের সুযোগ নেই, তাহলে?",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-14\/rqe55e88\/pexels-photo-7528519.avif",
-        "source": "Prothom Alo",
-        "time": "2026-10-15 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/relation\/gnf6mdjm0z",
-        "category": "সম্পর্ক"
-    },
-    {
         "title": "শারদপ্রাতে কেমব্রিজ দেখা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-14\/utapccyf\/1.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-15 02:00:00",
         "newsUrl": "https:\/\/nagorik.prothomalo.com\/durporobash\/s46c994lay",
         "category": "দূর পরবাস"
+    },
+    {
+        "title": "এআই ব্যবহার করে ভিডিও তৈরির অভিযোগে প্রতিযোগিতার প্রথম পুরস্কার বাতিল",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-14\/anh148ka\/AI.-Reuters1.png",
+        "source": "Prothom Alo",
+        "time": "2026-10-15 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/artificial-intelligence\/xpbywvu3at",
+        "category": "এআই"
     },
     {
         "title": "মধ্যপ্রাচ্যে শিয়া-সুন্নি সংঘাত কেন উসকে দিচ্ছেন ট্রাম্প",
@@ -152,6 +152,14 @@
         "category": "জেলা"
     },
     {
+        "title": "এই দুই দেশে বিবাহবিচ্ছেদের সুযোগ নেই, তাহলে?",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-14\/rqe55e88\/pexels-photo-7528519.avif",
+        "source": "Prothom Alo",
+        "time": "2026-10-15 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/relation\/gnf6mdjm0z",
+        "category": "সম্পর্ক"
+    },
+    {
         "title": "কমছে সঞ্চয়, বাড়ছে ব্যয়, আরও চাপে নিম্নবিত্ত-মধ্যবিত্ত",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/10\/15\/a6010e9d5b6952531a0cd6694a845e19-6ad01186ae5e3.jpg?jadewits_media_id=316877",
         "source": "Ittefaq",
@@ -176,12 +184,12 @@
         "category": "রাজধানী"
     },
     {
-        "title": "ভালো স্কুলের দাবিতে ফ্রান্সের রাস্তায় শিক্ষার্থীরা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-14\/55m9o00m\/paris.jpg",
+        "title": "আজ টিভিতে যা দেখবেন (১৫ অক্টোবর ২০২৬)",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-14\/vli690pv\/WhatsApp-Image-2025-09-07-at-18.46.345cffd0da.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-15 01:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/fwk7ld7mq2",
-        "category": "International"
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/n19bfzt4jv",
+        "category": "খেলা"
     },
     {
         "title": "আমিনার ১০ বছরের অপেক্ষা, সতীত্ব নিয়ে নছরের সংশয়",
@@ -192,14 +200,6 @@
         "category": "নাটক"
     },
     {
-        "title": "আজ টিভিতে যা দেখবেন (১৫ অক্টোবর ২০২৬)",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-14\/vli690pv\/WhatsApp-Image-2025-09-07-at-18.46.345cffd0da.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-15 01:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/n19bfzt4jv",
-        "category": "খেলা"
-    },
-    {
         "title": "মাটির প্লেটে খাবার খেলে স্বাদ অন্য রকম লাগে কেন",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-14\/15z46pmp\/pngtree-traditional-pohela-boishakh-meal-with-panta-ilish-on-clay-plates-image21612234.webp",
         "source": "Prothom Alo",
@@ -208,12 +208,12 @@
         "category": "physics"
     },
     {
-        "title": "আইএমএফে ইন্টার্নশিপ, ১০–১২ সপ্তাহ ওয়াশিংটনে কাজের সুযোগ\n",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-03-07\/1od1pklx\/17___adb_intership_eligibility.jpg",
+        "title": "ভালো স্কুলের দাবিতে ফ্রান্সের রাস্তায় শিক্ষার্থীরা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-14\/55m9o00m\/paris.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-15 01:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/education\/scholarship\/6dhoxcrugb",
-        "category": "বৃত্তি"
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/fwk7ld7mq2",
+        "category": "International"
     },
     {
         "title": "১৯৬০ সালে বিজ্ঞানীরা ভবিষ্যদ্বাণী করেছিলেন ২০২৬ সালের ১৩ নভেম্বর পৃথিবী ধ্বংস হয়ে যাবে",
@@ -222,6 +222,14 @@
         "time": "2026-10-15 01:00:00",
         "newsUrl": "https:\/\/www.kishoralo.com\/feature\/dozkpx3kn0",
         "category": "feature"
+    },
+    {
+        "title": "আইএমএফে ইন্টার্নশিপ, ১০–১২ সপ্তাহ ওয়াশিংটনে কাজের সুযোগ\n",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-03-07\/1od1pklx\/17___adb_intership_eligibility.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-15 01:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/education\/scholarship\/6dhoxcrugb",
+        "category": "বৃত্তি"
     },
     {
         "title": "২৬ মামলায় শেখ হাসিনাসহ ৩২৮ আসামির বিচার চলছে",
@@ -240,35 +248,11 @@
         "category": "ক্যাম্পাস"
     },
     {
-        "title": "ইরানের হাতে আরও উন্নত অস্ত্র",
-        "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/10\/15\/1ef8d6070a2e91144de7ef403a27fc22-6acffdcc25d39.jpg?jadewits_media_id=316873",
-        "source": "Ittefaq",
-        "time": "2026-10-14 23:51:11",
-        "newsUrl": "https:\/\/www.ittefaq.com.bd\/815246\/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A7%B0",
-        "category": "বিশ্ব সংবাদ"
-    },
-    {
         "title": "লিভার ক্যানসারে আক্রান্ত ইয়াসিনের সহায়তা দরকার",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-13\/kk47cy1e\/00-1.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-14 23:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/b9qjqo6fo8",
         "category": "বাংলাদেশ"
-    },
-    {
-        "title": "চার ম্যাচ নিষিদ্ধ ভিনিসিয়ুস, খেলতে পারবেন না এল ক্লাসিকোতে ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-11\/myre82xx\/2026-10-10T201803Z1084228147UP1EMAA1KE1X9RTRMADP3SOCCER-SPAIN-RMA-VIL.JPG",
-        "source": "Prothom Alo",
-        "time": "2026-10-14 22:37:11",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/football\/gyodozes63",
-        "category": "ফুটবল"
-    },
-    {
-        "title": "৭ মিনিটের ঝড়ে ৭ গোলের ম্যাচে রিয়ালের অবিশ্বাস্য জয়",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-14\/kg8yvg8i\/asromavrealmadridc.f.-uefachampionsleague202627leaguephasemd2.webp",
-        "source": "Prothom Alo",
-        "time": "2026-10-14 21:03:42",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/football\/j4e7ql2pto",
-        "category": "ফুটবল"
     }
 ]
