@@ -1,5 +1,29 @@
 [
     {
+        "title": "রাশিয়ায় বিদেশি শিক্ষার্থী ও স্কুলপড়ুয়াদের জন্য অনলাইন আইন অলিম্পিয়াড",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-17\/yy826o9j\/layout-1600x1067.png",
+        "source": "Prothom Alo",
+        "time": "2026-10-18 02:09:59",
+        "newsUrl": "https:\/\/www.prothomalo.com\/education\/scholarship\/1rnw141wi3",
+        "category": "বৃত্তি"
+    },
+    {
+        "title": "সরকারি ব্যাংকে সিনিয়র অফিসার নিয়োগ: ফিন্যান্সিয়াল অ্যান্ড ব্যাংকিং নলেজ প্রস্তুতিতে করণীয়",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-03-03\/8am7aj6m\/thakurgaon_dh0597_20260302_thakurgaon_study_group_cc.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-18 02:08:08",
+        "newsUrl": "https:\/\/www.prothomalo.com\/chakri\/chakri-suggestion\/jzcvkd42ul",
+        "category": "পরামর্শ"
+    },
+    {
+        "title": "পোশাকে রঙের ঝড়, চোখে স্মোকি মেকআপ: কৌশানীর সাজে কোন ১০ বিষয় নজর কাড়ল",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-17\/zoby6gk0\/koushani-W.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-18 02:00:00",
+        "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/5oimbvss02",
+        "category": "লুক"
+    },
+    {
         "title": "নতুন এআই মডেলে গতি, নাকি নিরাপত্তা, কোনটা আগে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-17\/tiysd1b6\/AI.png",
         "source": "Prothom Alo",
@@ -14,30 +38,6 @@
         "time": "2026-10-18 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/gwcccuzjcg",
         "category": "bangladesh"
-    },
-    {
-        "title": "অস্ট্রেলিয়ায় পড়তে যাওয়ার পথ কি সত্যিই বন্ধ হয়ে যাচ্ছে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-15\/uoqzmtjn\/pexels-delot-16420235.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-18 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/xswfrq4luj",
-        "category": "জীবনযাপন"
-    },
-    {
-        "title": "গ্রামের হাটে সপ্তাহে ৫০-৫৫ কোটি টাকার মসলা ও তেলবীজ বেচাকেনা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-17\/c48us69f\/WhatsApp_Image_2026_10_17_at_22_52_06.jpeg",
-        "source": "Prothom Alo",
-        "time": "2026-10-18 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/i7kzlxwk1u",
-        "category": "জেলা"
-    },
-    {
-        "title": "পোশাকে রঙের ঝড়, চোখে স্মোকি মেকআপ: কৌশানীর সাজে কোন ১০ বিষয় নজর কাড়ল",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-17\/zoby6gk0\/koushani-W.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-18 02:00:00",
-        "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/5oimbvss02",
-        "category": "লুক"
     },
     {
         "title": "সারা দিন কোনো বিক্রি নাই, সন্ধ্যায় ৩৭টি, তবে...",
@@ -62,6 +62,22 @@
         "time": "2026-10-18 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/5fe64xr3iw",
         "category": "কলাম"
+    },
+    {
+        "title": "অস্ট্রেলিয়ায় পড়তে যাওয়ার পথ কি সত্যিই বন্ধ হয়ে যাচ্ছে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-15\/uoqzmtjn\/pexels-delot-16420235.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-18 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/xswfrq4luj",
+        "category": "জীবনযাপন"
+    },
+    {
+        "title": "গ্রামের হাটে সপ্তাহে ৫০-৫৫ কোটি টাকার মসলা ও তেলবীজ বেচাকেনা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-17\/c48us69f\/WhatsApp_Image_2026_10_17_at_22_52_06.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-10-18 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/i7kzlxwk1u",
+        "category": "জেলা"
     },
     {
         "title": "ইরানে পারমাণু বোমা ব্যবহার না করলেও হামলা চালানোর ইঙ্গিত দিয়ে রাখলেন ট্রাম্প, কী বোমা মারবেন তিনি",
