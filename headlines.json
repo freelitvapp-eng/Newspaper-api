@@ -1,5 +1,13 @@
 [
     {
+        "title": "দুর্নীতি বন্ধ করতে হলে আগে রাজনৈতিক নেতাদের দুর্নীতিমুক্ত হতে হবে: আইনমন্ত্রী",
+        "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/10\/21\/cd4ed805126531b8de5103f721940a51-6ad8724a1b85e.jpg?jadewits_media_id=318102",
+        "source": "Ittefaq",
+        "time": "2026-10-21 08:07:00",
+        "newsUrl": "https:\/\/www.ittefaq.com.bd\/816432\/%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0",
+        "category": "জাতীয়"
+    },
+    {
         "title": "সোনালি ধানের আড়ালে জুমিয়াদের শঙ্কা",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/10\/21\/2103aea6954fcedcad0a35c4e1e27dce-6ad86ff293b57.jpg?jadewits_media_id=318099",
         "source": "Ittefaq",
@@ -150,14 +158,6 @@
         "time": "2026-10-21 07:15:32",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/coq7sb9l9o",
         "category": "বাংলাদেশ"
-    },
-    {
-        "title": "পূজা, আরতি ও পুষ্পাঞ্জলির মধ্য দিয়ে এগিয়ে চলছে সমাপনপর্ব",
-        "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/10\/21\/e4ec48c505aa1471a7734ebf3cba59c4-6ad865742eb22.jpg?jadewits_media_id=318093",
-        "source": "Ittefaq",
-        "time": "2026-10-21 07:10:54",
-        "newsUrl": "https:\/\/www.ittefaq.com.bd\/816422\/%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE-%E0%A6%86%E0%A6%B0%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%AA%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%8F%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A6%9B%E0%A7%87",
-        "category": "ধর্ম"
     },
     {
         "title": "মরদেহ গোসল করানোর সময় দেখা গেল মাথার পেছনে ‘গুলির’ ক্ষত",
@@ -408,20 +408,20 @@
         "category": "feature"
     },
     {
-        "title": "রিয়াজুল, তুমি করিয়াছ ভুল",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-17\/8oarvxuk\/rommo.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-21 05:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/s5aevbjngs",
-        "category": "রস+আলো"
-    },
-    {
         "title": "দুই দশক পরও আবাসন ও শিক্ষকসংকটে কবি নজরুল বিশ্ববিদ্যালয়",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-20\/vbqkx6dt\/WEB.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-21 05:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/y9vp8ypq7u",
         "category": "bangladesh"
+    },
+    {
+        "title": "রিয়াজুল, তুমি করিয়াছ ভুল",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-17\/8oarvxuk\/rommo.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-21 05:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/s5aevbjngs",
+        "category": "রস+আলো"
     },
     {
         "title": "ফ্রান্সে সেনা মোতায়েন হচ্ছে, সহিংসতা ঠেকাতে ব্যর্থতার কথা স্বীকার সরকারের",
@@ -528,6 +528,14 @@
         "category": "bangladesh"
     },
     {
+        "title": "পুচির মা প্রথমবার বানালেন যে পদ, দেখুন রেসিপি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-19\/iu66wleb\/000-LABL3577-1.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-21 04:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/recipe\/gdniqvm2e9",
+        "category": "রসনা"
+    },
+    {
         "title": "কাঁটা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-20\/vnnm804k\/WhatsApp-Image-2026-10-20-at-10.11.41-PM.jpeg",
         "source": "Prothom Alo",
@@ -558,14 +566,6 @@
         "time": "2026-10-21 04:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/352jxyoudv",
         "category": "ক্রিকেট"
-    },
-    {
-        "title": "পুচির মা প্রথমবার বানালেন যে পদ, দেখুন রেসিপি",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-19\/iu66wleb\/000-LABL3577-1.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-21 04:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/recipe\/gdniqvm2e9",
-        "category": "রসনা"
     },
     {
         "title": "শারদীয় সাজে লাল বেনারসিতে নজর কাড়লেন স্বস্তিকা",
@@ -616,20 +616,20 @@
         "category": "bangladesh"
     },
     {
-        "title": "সাকিব–তামিমরা যে ‘রোগ’ সারিয়েছিলেন, সেটিই আবার ফিরছে বাংলাদেশ দলে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-21\/4hu7s5wr\/8083cf8d-8772-4931-848e-2541110c8b95.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-21 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/aep3mkjepo",
-        "category": "ক্রিকেট"
-    },
-    {
         "title": "কিশোর-কিশোরীর স্বাস্থ্যসমতা নিশ্চিতকরণ",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-20\/ifxm0ebp\/Group-Pic.JPG",
         "source": "Prothom Alo",
         "time": "2026-10-21 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/roundtable\/c4kabhdl29",
         "category": "গোলটেবিল"
+    },
+    {
+        "title": "সাকিব–তামিমরা যে ‘রোগ’ সারিয়েছিলেন, সেটিই আবার ফিরছে বাংলাদেশ দলে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-21\/4hu7s5wr\/8083cf8d-8772-4931-848e-2541110c8b95.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-21 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/aep3mkjepo",
+        "category": "ক্রিকেট"
     },
     {
         "title": "‘দুনিয়ায় দেখা না হলে দেখা হবে হাশরের মাঠে’, রাশিয়ায় নিহত বাংলাদেশিদের লাশও দেশে আসে না",
