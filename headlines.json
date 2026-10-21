@@ -16,14 +16,6 @@
         "category": " সুস্থতা"
     },
     {
-        "title": "সাকিব–তামিমরা যে ‘রোগ’ সারিয়েছিলেন, সেটিই আবার ফিরছে বাংলাদেশ দলে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-20\/kdkftcrl\/3cf20207-a20a-47ea-b99a-060c10b8083c.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-21 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/aep3mkjepo",
-        "category": "ক্রিকেট"
-    },
-    {
         "title": "হেমন্তে হাওরের চেনা দৃশ্য",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-20\/75a2eo1w\/Sylhe-Photo-1.JPG",
         "source": "Prothom Alo",
@@ -38,14 +30,6 @@
         "time": "2026-10-21 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/vb6s68ihud",
         "category": "International"
-    },
-    {
-        "title": "জ্ঞানেশ কুমারকে সরালেও বিপদ, রাখলেও বিপদ—নিজের পাতা ফাঁদে নিজেই পড়ল মোদি সরকার",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-20\/gs0mhtak\/india-001.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-21 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/india\/rk3bcq8pgi",
-        "category": "ভারত"
     },
     {
         "title": "শারদীয় আবহে সাদা শাড়িতে স্নিগ্ধ ভাবনা",
@@ -72,14 +56,6 @@
         "category": "গ্যাজেট"
     },
     {
-        "title": "ইরান-যুক্তরাষ্ট্র আলোচনা কেন বারবার ব্যর্থ হচ্ছে ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-19\/3j7z8kgb\/Q6RXV4NEYZJ6NKHJU7NFUINKP4-1.avif",
-        "source": "Prothom Alo",
-        "time": "2026-10-21 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/3cbfwox2x5",
-        "category": "কলাম"
-    },
-    {
         "title": "কিশোর-কিশোরীর স্বাস্থ্যসমতা নিশ্চিতকরণ",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-20\/ifxm0ebp\/Group-Pic.JPG",
         "source": "Prothom Alo",
@@ -94,6 +70,30 @@
         "time": "2026-10-21 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/ott\/cca6k1d8uj",
         "category": "ওটিটি"
+    },
+    {
+        "title": "ইরান-যুক্তরাষ্ট্র আলোচনা কেন বারবার ব্যর্থ হচ্ছে ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-19\/3j7z8kgb\/Q6RXV4NEYZJ6NKHJU7NFUINKP4-1.avif",
+        "source": "Prothom Alo",
+        "time": "2026-10-21 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/3cbfwox2x5",
+        "category": "কলাম"
+    },
+    {
+        "title": "সাকিব–তামিমরা যে ‘রোগ’ সারিয়েছিলেন, সেটিই আবার ফিরছে বাংলাদেশ দলে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-20\/kdkftcrl\/3cf20207-a20a-47ea-b99a-060c10b8083c.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-21 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/aep3mkjepo",
+        "category": "ক্রিকেট"
+    },
+    {
+        "title": "জ্ঞানেশ কুমারকে সরালেও বিপদ, রাখলেও বিপদ—নিজের পাতা ফাঁদে নিজেই পড়ল মোদি সরকার",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-20\/gs0mhtak\/india-001.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-21 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/world\/india\/rk3bcq8pgi",
+        "category": "ভারত"
     },
     {
         "title": "উদ্দেশ্য ভালো হলেও ক্ষমতার দাপট ও বাড়াবাড়ি অগ্রহণীয়",
