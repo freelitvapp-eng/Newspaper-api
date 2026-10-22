@@ -312,20 +312,20 @@
         "category": "ভারত"
     },
     {
-        "title": "আপনি আমাদের ‘ফুফু’, দীপাকে লিখলেন ভক্তরা, অভিনেত্রী কী লিখলেন",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/ogr6261j\/857997254_4582432482077199_4716639403516630512_n.jfif",
-        "source": "Prothom Alo",
-        "time": "2026-10-22 14:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/tv\/uq8dfvzynr",
-        "category": "টেলিভিশন"
-    },
-    {
         "title": "রামেন নুডলসের রেসিপি",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/4gshsqza\/prothomaloimportmedia202006165f1f0b040372dd6d316c83444b98cc1e-5ee83e96dcd65.webp",
         "source": "Prothom Alo",
         "time": "2026-10-22 14:30:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/recipe\/49uo9kk2c1",
         "category": "রসনা"
+    },
+    {
+        "title": "আপনি আমাদের ‘ফুফু’, দীপাকে লিখলেন ভক্তরা, অভিনেত্রী কী লিখলেন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/ogr6261j\/857997254_4582432482077199_4716639403516630512_n.jfif",
+        "source": "Prothom Alo",
+        "time": "2026-10-22 14:30:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/tv\/uq8dfvzynr",
+        "category": "টেলিভিশন"
     },
     {
         "title": "খাগড়াছড়ি ও রাঙামাটিতে শনিবার অর্ধদিবস সড়ক অবরোধ",
@@ -424,38 +424,6 @@
         "category": "জেলা"
     },
     {
-        "title": "সৌদি আরবে হুতিদের ক্ষেপণাস্ত্র হামলায় নিহত শাহেদের মরদেহ আসছে কাল",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-10\/leja8mrw\/Attack-on-Saudi-airport-1.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-22 13:33:25",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/2pm7jzxc0m",
-        "category": "বাংলাদেশ"
-    },
-    {
-        "title": "সন্দেহজনক বোলিং অ্যাকশনে অভিযুক্ত বাংলাদেশি স্পিনার আলিস আল ইসলাম",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/4ymyx000\/web.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-22 13:28:11",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/sports\/nbslfjr4zl",
-        "category": "Sports"
-    },
-    {
-        "title": "নিরাপত্তা বাহিনীর পাহারায় সাজেক থেকে ফিরেছেন পর্যটকেরা, হোটেল না পেয়ে ভোগান্তি",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/x0eywzoa\/Sajek-1.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-22 13:23:56",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/8mm1k10ebd",
-        "category": "জেলা"
-    },
-    {
-        "title": "১১৪ বলে ডাবল সেঞ্চুরি, ওয়ানডেতে বিশ্ব রেকর্ড ব্রুকের",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/jm9v6zh6\/2026-10-22T115656Z153395660UP1EMAM0X6UESRTRMADP3CRICKET-ODI-ENG-LKA.JPG",
-        "source": "Prothom Alo",
-        "time": "2026-10-22 12:56:03",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/yz12963ypo",
-        "category": "ক্রিকেট"
-    },
-    {
         "title": "প্রধানমন্ত্রীর সঙ্গে করমর্দনে বিভাগীয় কমিশনার যে ভুল করলেন, সরকারি চাকরিতে রাষ্ট্রাচার ও শিষ্টাচার কী",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/7yhg5138\/Yousuf-Ali.PNG",
         "source": "Prothom Alo",
@@ -494,13 +462,5 @@
         "time": "2026-06-29 10:38:55",
         "newsUrl": "https:\/\/www.bondhushava.com\/sports\/jeyp4ph39b",
         "category": "sports"
-    },
-    {
-        "title": "‘ওরে নীল দরিয়া’সহ আলম খানের জনপ্রিয় গানের গল্প",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo\/import\/media\/2020\/07\/08\/c7ba38398a677dc11b97a649b1ebf3c5-5f058f5ea8197.jpg",
-        "source": "Prothom Alo",
-        "time": "2023-07-08 13:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/song\/45tw1wfdvl",
-        "category": "গান"
     }
 ]
