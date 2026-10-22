@@ -312,20 +312,20 @@
         "category": "ভারত"
     },
     {
-        "title": "রামেন নুডলসের রেসিপি",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/4gshsqza\/prothomaloimportmedia202006165f1f0b040372dd6d316c83444b98cc1e-5ee83e96dcd65.webp",
-        "source": "Prothom Alo",
-        "time": "2026-10-22 14:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/recipe\/49uo9kk2c1",
-        "category": "রসনা"
-    },
-    {
         "title": "আপনি আমাদের ‘ফুফু’, দীপাকে লিখলেন ভক্তরা, অভিনেত্রী কী লিখলেন",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/ogr6261j\/857997254_4582432482077199_4716639403516630512_n.jfif",
         "source": "Prothom Alo",
         "time": "2026-10-22 14:30:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/tv\/uq8dfvzynr",
         "category": "টেলিভিশন"
+    },
+    {
+        "title": "রামেন নুডলসের রেসিপি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/4gshsqza\/prothomaloimportmedia202006165f1f0b040372dd6d316c83444b98cc1e-5ee83e96dcd65.webp",
+        "source": "Prothom Alo",
+        "time": "2026-10-22 14:30:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/recipe\/49uo9kk2c1",
+        "category": "রসনা"
     },
     {
         "title": "খাগড়াছড়ি ও রাঙামাটিতে শনিবার অর্ধদিবস সড়ক অবরোধ",
@@ -392,28 +392,12 @@
         "category": "রসনা"
     },
     {
-        "title": "এবার আজীবন সম্মাননায় ভূষিত হচ্ছেন জনপ্রিয় হলিউড তারকা টম ক্রুজ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/21eui32j\/web.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-22 13:45:22",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/entertainment\/yin0lr7krl",
-        "category": "Entertainment"
-    },
-    {
         "title": "পিএইচপির ত্রুটি ঠিক করতে বিশ্বজুড়ে দৌড়ঝাঁপ, লাখ লাখ হ্যাকিংয়ের চেষ্টা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/i51bk11m\/PHP-3.PNG",
         "source": "Prothom Alo",
         "time": "2026-10-22 13:44:15",
         "newsUrl": "https:\/\/www.prothomalo.com\/world\/vt0owxi65w",
         "category": "বিশ্ব"
-    },
-    {
-        "title": "দীর্ঘ জীবন পেতে মানুষকে সহায়তা করতে পারে ১৯৪ বছর বয়সী কচ্ছপ!",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/r3jutb9m\/Jonathan.avif",
-        "source": "Prothom Alo",
-        "time": "2026-10-22 13:41:26",
-        "newsUrl": "https:\/\/www.bondhushava.com\/feature\/vyb6ei60y9",
-        "category": "feature"
     },
     {
         "title": "চতুর্থ শ্রেণিতে পড়া মেয়ের হঠাৎ পেটব্যথা, গর্ভপাতের পর মা জানলেন ধর্ষণের কথা",
@@ -438,14 +422,6 @@
         "time": "2026-10-22 11:54:35",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/8ga0jjawxo",
         "category": "বাংলাদেশ"
-    },
-    {
-        "title": "হাঁটুব্যথায় রেডিও ফ্রিকোয়েন্সি অ্যাবলেশন কী, কতটা উপকারী ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/31acw0ud\/2757936.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-22 10:14:02",
-        "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/health\/riaabiazi9",
-        "category": " সুস্থতা"
     },
     {
         "title": "মেহজাবীনের প্রশ্ন, ‘অন্যের অসম্মান কবে থেকে আমাদের আয়ের উৎস হলো?’",
