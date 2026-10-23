@@ -1,5 +1,21 @@
 [
     {
+        "title": "সকালেই পড়ুন আলোচিত ৫ খবর",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-21\/oicrp2wa\/Capture.PNG",
+        "source": "Prothom Alo",
+        "time": "2026-10-23 03:37:28",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/dvktz9ib77",
+        "category": "বাংলাদেশ"
+    },
+    {
+        "title": "হুতি হামলায় অস্থির মধ্যপ্রাচ্য, বিপাকে সৌদি আরব",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-23\/cki1frmk\/Houthi.jfif",
+        "source": "Prothom Alo",
+        "time": "2026-10-23 03:34:50",
+        "newsUrl": "https:\/\/www.prothomalo.com\/world\/middle-east\/huti-haamlaayy-asthir-mdhypraacy-bipaake-saudi-aarb",
+        "category": "মধ্যপ্রাচ্য"
+    },
+    {
         "title": "মায়ের সামনে মেয়েকে গুলি ও কুপিয়ে হত্যা, লোমহর্ষক বর্ণনা দিলেন মা",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/10\/23\/1f0ea381e235d2b436989785b2ee99fa-6adad49523730.jpg?jadewits_media_id=318431",
         "source": "Ittefaq",
@@ -120,22 +136,6 @@
         "category": "বিশ্ব সংবাদ"
     },
     {
-        "title": "পৃথিবীর একটি মাত্র দেশ নিজেদের সব খাবার নিজেরাই উৎপাদন করে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/04m5gu26\/Self-sufficient-food.png",
-        "source": "Prothom Alo",
-        "time": "2026-10-23 03:00:00",
-        "newsUrl": "https:\/\/www.bigganchinta.com\/biology\/xtfke696qy",
-        "category": "biology"
-    },
-    {
-        "title": "হেমন্তের ভোরে শীতের পদধ্বনি",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/hj3u65az\/1bde1370b5f5faabf2fa3b1683671926f4cc7f88.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-23 03:00:00",
-        "newsUrl": "https:\/\/www.bondhushava.com\/feature\/knejpqv99k",
-        "category": "feature"
-    },
-    {
         "title": "লালনের সন্ধানে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/ilpsep84\/WhatsApp-Image-2026-10-21-at-8.49.28-PM.jpeg",
         "source": "Prothom Alo",
@@ -160,12 +160,20 @@
         "category": "দূর পরবাস"
     },
     {
-        "title": "রিসোর্টে আগুনের যে কারণ জানাল পুলিশ-তদন্ত কমিটি",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/a29dd5bd\/WhatsApp-Image-2026-10-22-at-11.13.09-PM.jpeg",
+        "title": "পৃথিবীর একটি মাত্র দেশ নিজেদের সব খাবার নিজেরাই উৎপাদন করে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/04m5gu26\/Self-sufficient-food.png",
         "source": "Prothom Alo",
         "time": "2026-10-23 03:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/jeia6ruyet",
-        "category": "জেলা"
+        "newsUrl": "https:\/\/www.bigganchinta.com\/biology\/xtfke696qy",
+        "category": "biology"
+    },
+    {
+        "title": "হেমন্তের ভোরে শীতের পদধ্বনি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/hj3u65az\/1bde1370b5f5faabf2fa3b1683671926f4cc7f88.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-23 03:00:00",
+        "newsUrl": "https:\/\/www.bondhushava.com\/feature\/knejpqv99k",
+        "category": "feature"
     },
     {
         "title": "রসচিঠি",
@@ -174,6 +182,14 @@
         "time": "2026-10-23 03:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/fun\/d4fl17cod8",
         "category": "রস+আলো"
+    },
+    {
+        "title": "রিসোর্টে আগুনের যে কারণ জানাল পুলিশ-তদন্ত কমিটি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/a29dd5bd\/WhatsApp-Image-2026-10-22-at-11.13.09-PM.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-10-23 03:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/jeia6ruyet",
+        "category": "জেলা"
     },
     {
         "title": "শেরপুরে ড্রামের ভেতর থেকে উদ্ধার হওয়া নারীর পরিচয় মিলেছে",
@@ -232,28 +248,12 @@
         "category": "খবর"
     },
     {
-        "title": "ফল ফ্যাশনে মিথিলার চমক, নিউইয়র্কের রাস্তায় উষ্ণতা ছড়ালেন দুই লুকে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/h24ll00f\/Mithila-LL.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-23 02:00:00",
-        "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/3v4a7n67bh",
-        "category": "লুক"
-    },
-    {
         "title": "পছন্দের বেল্ট, মাপমতো",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/5b3kb5jf\/1.-United-StatesNew-Yorkbeltartisanclothing-accessorylifestyle23102026.JPG",
         "source": "Prothom Alo",
         "time": "2026-10-23 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/photo\/international\/nt0tzs8etl",
         "category": "international"
-    },
-    {
-        "title": "মিয়ানমার সরকারের সঙ্গে যোগাযোগ বাড়াচ্ছে ট্রাম্প প্রশাসন, কিসের ইঙ্গিত?",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/su1km6h6\/WEB.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-23 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/mr0r83jx02",
-        "category": "International"
     },
     {
         "title": "রাষ্ট্রের কবিতা, কবিতার রাষ্ট্র",
@@ -272,20 +272,28 @@
         "category": "জীবনযাপন"
     },
     {
-        "title": "স্যাম অল্টম্যান কোন উদ্যোগের সঙ্গে জড়িত, জানেন কি",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/rjsv3jvw\/sam02.jpg",
+        "title": "ফল ফ্যাশনে মিথিলার চমক, নিউইয়র্কের রাস্তায় উষ্ণতা ছড়ালেন দুই লুকে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/h24ll00f\/Mithila-LL.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-23 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/1x1v4z8t4x",
-        "category": "প্রযুক্তি"
+        "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/3v4a7n67bh",
+        "category": "লুক"
     },
     {
-        "title": "হুতিদের ভান্ডারে কতটা ভয়ংকর অস্ত্র আছে, কোথা থেকে আসছে, সৌদি আরব কেন হামলা ঠেকাতে পারছে না",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/h0x6fj95\/Houthi.jfif",
+        "title": "মিয়ানমার সরকারের সঙ্গে যোগাযোগ বাড়াচ্ছে ট্রাম্প প্রশাসন, কিসের ইঙ্গিত?",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/su1km6h6\/WEB.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-23 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/middle-east\/qz2eycnuzw",
-        "category": "মধ্যপ্রাচ্য"
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/mr0r83jx02",
+        "category": "International"
+    },
+    {
+        "title": "ট্রাম্প কেন ইসলামাবাদকে ‘ধন্যবাদ পাকিস্তান’ বার্তা পাঠাচ্ছেন ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/bzm1r31t\/C1.png",
+        "source": "Prothom Alo",
+        "time": "2026-10-23 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/5qau9rctbf",
+        "category": "কলাম"
     },
     {
         "title": "কবে আসবে ভিকির সিনেমা, নিশো–মেহজাবীন কি থাকবেন",
@@ -304,20 +312,20 @@
         "category": "ক্রিকেট"
     },
     {
-        "title": "ট্রাম্প কেন ইসলামাবাদকে ‘ধন্যবাদ পাকিস্তান’ বার্তা পাঠাচ্ছেন ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/bzm1r31t\/C1.png",
+        "title": "স্যাম অল্টম্যান কোন উদ্যোগের সঙ্গে জড়িত, জানেন কি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/rjsv3jvw\/sam02.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-23 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/5qau9rctbf",
-        "category": "কলাম"
+        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/1x1v4z8t4x",
+        "category": "প্রযুক্তি"
     },
     {
-        "title": "ডায়েট করেও ওজন কমছে না? যে ৯টি ভুল হতে পারে কারণ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/g1o999mg\/diet-3.jpg",
+        "title": "হুতিদের ভান্ডারে কতটা ভয়ংকর অস্ত্র আছে, কোথা থেকে আসছে, সৌদি আরব কেন হামলা ঠেকাতে পারছে না",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/h0x6fj95\/Houthi.jfif",
         "source": "Prothom Alo",
-        "time": "2026-10-23 01:00:00",
-        "newsUrl": "https:\/\/www.haal.fashion\/lifestyle\/well-being\/9ybr8h7e7f",
-        "category": "কুশল"
+        "time": "2026-10-23 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/world\/middle-east\/qz2eycnuzw",
+        "category": "মধ্যপ্রাচ্য"
     },
     {
         "title": "আজ টিভিতে যা দেখবেন (২৩ অক্টোবর ২০২৬)",
@@ -328,6 +336,14 @@
         "category": "খেলা"
     },
     {
+        "title": "মাছের শিদল কীভাবে বানায়",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo\/import\/media\/2019\/05\/09\/6a2c6c8c21c5ab0820e1b7de3997476e-5cd3bc61a5db0.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-23 01:00:00",
+        "newsUrl": "https:\/\/www.kishoralo.com\/feature\/mjfxcwa3sk",
+        "category": "feature"
+    },
+    {
         "title": "মিমির সিনেমা, ওটিটিতে আরও যা দেখবেন",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/nbqck3be\/Alaap-Movie-1.jpg",
         "source": "Prothom Alo",
@@ -336,12 +352,12 @@
         "category": "ওটিটি"
     },
     {
-        "title": "মাছের শিদল কীভাবে বানায়",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo\/import\/media\/2019\/05\/09\/6a2c6c8c21c5ab0820e1b7de3997476e-5cd3bc61a5db0.jpg",
+        "title": "ডায়েট করেও ওজন কমছে না? যে ৯টি ভুল হতে পারে কারণ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/g1o999mg\/diet-3.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-23 01:00:00",
-        "newsUrl": "https:\/\/www.kishoralo.com\/feature\/mjfxcwa3sk",
-        "category": "feature"
+        "newsUrl": "https:\/\/www.haal.fashion\/lifestyle\/well-being\/9ybr8h7e7f",
+        "category": "কুশল"
     },
     {
         "title": "ইরানে একা ইসরায়েল আসলে কী করতে পারবে, তেহরানের সক্ষমতা কোথায়",
