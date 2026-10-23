@@ -32,6 +32,14 @@
         "category": "জাতীয়"
     },
     {
+        "title": "স্রোতে ভাসে অপরাধের চিহ্ন, পচন ধরায় জটিল হয় হত্যার তদন্ত",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/10t7x37a\/Capture.PNG",
+        "source": "Prothom Alo",
+        "time": "2026-10-23 04:20:22",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/crime\/7kinm3l7ev",
+        "category": "অপরাধ"
+    },
+    {
         "title": "তিব্বতে ভূমিকম্পে নিহত ১৬, শত শত বাড়ি ক্ষতিগ্রস্ত, তাইওয়ানেও ধেয়ে আসছে সুপার টাইফুন",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-23\/hlnqi38j\/Disaster-1.jpg",
         "source": "Prothom Alo",
@@ -112,14 +120,6 @@
         "category": "ক্রিকেট"
     },
     {
-        "title": "বিপুল অর্থ ব্যয়ে ১৪ বছর ধরে চলে গাজীপুরের বিআরটি প্রকল্প, শেষ মুহূর্তে বাতিল ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/32nqzd54\/WEB.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-23 04:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/tehh5affi1",
-        "category": "bangladesh"
-    },
-    {
         "title": "সামনে–পেছনে দুটি পর্দা রয়েছে এই স্মার্টফোনে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/1wpo3qhx\/itel-A300.2.png",
         "source": "Prothom Alo",
@@ -166,6 +166,14 @@
         "time": "2026-10-23 04:00:00",
         "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/s7a9x3q28z",
         "category": "লুক"
+    },
+    {
+        "title": "বিপুল অর্থ ব্যয়ে ১৪ বছর ধরে চলে গাজীপুরের বিআরটি প্রকল্প, শেষ মুহূর্তে বাতিল ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/32nqzd54\/WEB.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-23 04:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/tehh5affi1",
+        "category": "bangladesh"
     },
     {
         "title": "অপ্রতিম হত্যায় আদালতে অভিযোগপত্র দাখিল, চার আসামির মধ্যে দুজন কিশোর",
@@ -320,20 +328,20 @@
         "category": "দূর পরবাস"
     },
     {
-        "title": "রসচিঠি",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-17\/i8v7h1u2\/Untitled_1_08144.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-23 03:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/d4fl17cod8",
-        "category": "রস+আলো"
-    },
-    {
         "title": "রিসোর্টে আগুনের যে কারণ জানাল পুলিশ-তদন্ত কমিটি ",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-22\/a29dd5bd\/WhatsApp-Image-2026-10-22-at-11.13.09-PM.jpeg",
         "source": "Prothom Alo",
         "time": "2026-10-23 03:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/jeia6ruyet",
         "category": "জেলা"
+    },
+    {
+        "title": "রসচিঠি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-17\/i8v7h1u2\/Untitled_1_08144.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-23 03:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/d4fl17cod8",
+        "category": "রস+আলো"
     },
     {
         "title": "প্রাথমিকের বই ছাপায় গতি \nভালো, মাধ্যমিকে পিছিয়ে, নতুন ৪ বইয়ের অনুমোদন রোববার ",
