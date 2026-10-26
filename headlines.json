@@ -48,20 +48,20 @@
         "category": "কলাম"
     },
     {
-        "title": "ইউরোপজুড়ে তরুণদের বিক্ষোভ, কেন ফুঁসছে জেন–জি?",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-25\/87gneyer\/WEB.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-26 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/1tlkcz5fz2",
-        "category": "International"
-    },
-    {
         "title": "মধ্যপ্রাচ্যে ভেতরে-ভেতরে ‘লিবারেল বিপ্লব’",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-25\/4mei8zi2\/2026-03-23T091738Z635286987RC27AKAFPM28RTRMADP3IRAN-CRISIS.JPG.webp",
         "source": "Prothom Alo",
         "time": "2026-10-26 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/31i3i83n0o",
         "category": "কলাম"
+    },
+    {
+        "title": "ইউরোপজুড়ে তরুণদের বিক্ষোভ, কেন ফুঁসছে জেন–জি?",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-25\/87gneyer\/WEB.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-26 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/1tlkcz5fz2",
+        "category": "International"
     },
     {
         "title": "হোয়াটসঅ্যাপ অ্যাকাউন্ট হ্যাকড হলে উদ্ধার করবেন যেভাব",
@@ -112,6 +112,22 @@
         "category": "প্রজন্ম"
     },
     {
+        "title": "পদত্যাগ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-25\/tb1d8fdu\/podo.jpg.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-10-26 01:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/q829iguvy3",
+        "category": "রস+আলো"
+    },
+    {
+        "title": "আজ টিভিতে যা দেখবেন (২৬ অক্টোবর ২০২৬)",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-25\/v4k3yzan\/WhatsApp-Image-2025-09-07-at-18.49.56e919fcaf.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-26 01:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/tdfldsjk8q",
+        "category": "খেলা"
+    },
+    {
         "title": "পুঁটি মাছের গায়ে বর্ষাকালে লাল রং আসে কেন",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-24\/9ajtx1oi\/medium.jpg",
         "source": "Prothom Alo",
@@ -134,22 +150,6 @@
         "time": "2026-10-26 01:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/style\/tdn4ndw8cm",
         "category": "স্টাইল"
-    },
-    {
-        "title": "পদত্যাগ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-25\/tb1d8fdu\/podo.jpg.jpeg",
-        "source": "Prothom Alo",
-        "time": "2026-10-26 01:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/q829iguvy3",
-        "category": "রস+আলো"
-    },
-    {
-        "title": "আজ টিভিতে যা দেখবেন (২৬ অক্টোবর ২০২৬)",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-25\/v4k3yzan\/WhatsApp-Image-2025-09-07-at-18.49.56e919fcaf.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-26 01:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/tdfldsjk8q",
-        "category": "খেলা"
     },
     {
         "title": "নিষিদ্ধ হয়েছিল নাটকটি, স্তালিন দেখেছিলেন ১৪ বার",
