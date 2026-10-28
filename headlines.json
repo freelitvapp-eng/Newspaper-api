@@ -1,5 +1,13 @@
 [
     {
+        "title": "‘ইসলাম পরিপন্থি’ হওয়ায় চোখের কর্নিয়া প্রতিস্থাপন নিষিদ্ধ করল আফগানিস্তান",
+        "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/10\/28\/1824a8b669ddaba4e1b89c716fdc0a08-6ae1992af1614.jpg?jadewits_media_id=319450",
+        "source": "Ittefaq",
+        "time": "2026-10-28 06:42:52",
+        "newsUrl": "https:\/\/www.ittefaq.com.bd\/817739\/%E2%80%98%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A5%E0%A6%BF%E2%80%99-%E0%A6%B9%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%9A%E0%A7%8B%E0%A6%96%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE",
+        "category": "বিশ্ব সংবাদ"
+    },
+    {
         "title": "নাগরিক না হয়েও নির্বাচনে ভোট দেওয়ায় যুক্তরাষ্ট্রে বাংলাদেশি যুবকের বিরুদ্ধে মামলা",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/10\/28\/097a2a82306979dd81413653f845ac9f-6ae1977dad9db.jpg?jadewits_media_id=319449",
         "source": "Ittefaq",
@@ -142,14 +150,6 @@
         "time": "2026-10-28 05:41:00",
         "newsUrl": "https:\/\/trust.prothomalo.com\/activities\/drug-abuse\/wvsitxnck7",
         "category": "মাদকবিরোধী আন্দোলন"
-    },
-    {
-        "title": "নারী দায়িত্ব নিলে কম ব্যথা পায় পুরুষ",
-        "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/10\/28\/43d4495483495d11a5fbbe8920dafd93-6ae1896522771.jpg?jadewits_media_id=319439",
-        "source": "Ittefaq",
-        "time": "2026-10-28 05:40:07",
-        "newsUrl": "https:\/\/www.ittefaq.com.bd\/817729\/%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%A8%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%95%E0%A6%AE-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%A5%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B7",
-        "category": "অন্যান্য"
     },
     {
         "title": "প্রধানমন্ত্রীর সঙ্গে জেবিআইসির গভর্নরের বৈঠক, ঢাকায় কার্যালয় খোলার প্রস্তাব",
@@ -344,14 +344,6 @@
         "category": "feature"
     },
     {
-        "title": "পুলিশের পোশাক পরে বসে আছে বিড়াল, জাদুঘরে ভিড়",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-27\/5u7bdmsj\/web.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-28 04:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/a3as33wue0",
-        "category": "International"
-    },
-    {
         "title": "লোঅফিশিয়াল আরবের ফটোশুটে নিজের গয়নায় আভিজাত্য ছড়ালেন প্রীতি জিনতা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-27\/0cgkoap7\/865911700183492717282690137261576642441945624n.jpg",
         "source": "Prothom Alo",
@@ -366,6 +358,14 @@
         "time": "2026-10-28 04:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/onnoalo\/books\/n15ycnp5a8",
         "category": "books"
+    },
+    {
+        "title": "পুলিশের পোশাক পরে বসে আছে বিড়াল, জাদুঘরে ভিড়",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-27\/5u7bdmsj\/web.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-28 04:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/a3as33wue0",
+        "category": "International"
     },
     {
         "title": "‘মোটু’, ‘অপয়া’, ‘দুর্ভাগা’ থেকে ব্যালন ডি’অরজয়ী হ্যারি কেইন",
@@ -440,20 +440,12 @@
         "category": "হলিউড"
     },
     {
-        "title": "২ উইকেটে ৯৬ রান নিয়ে লাঞ্চে বাংলাদেশ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/cj6vw5ty\/e2c71d6d-2255-42d5-a11a-b1c6a3d25eff.jpg",
+        "title": "সাদমান–নাজমুলে বাংলাদেশের রান ১০০ ছাড়াল",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/1mwriqhr\/a7f6bdc5-5e63-42e9-a92c-05988f90c5c9.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-28 03:05:34",
         "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/havs08wgsy",
         "category": "ক্রিকেট"
-    },
-    {
-        "title": "অসুখ হলে চিকিৎসা না নেওয়া কি পাপ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-26\/n967q3ps\/pexels-cottonbro-6756086.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-28 03:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/religion\/islam\/zghoxydtfm",
-        "category": "ইসলাম"
     },
     {
         "title": "চট্টগ্রাম বন্ধুসভার বন্ধুদের ফুটবল রোমাঞ্চ আর একরাশ স্মৃতি",
@@ -478,6 +470,14 @@
         "time": "2026-10-28 03:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/tnf087ilpg",
         "category": "bangladesh"
+    },
+    {
+        "title": "অসুখ হলে চিকিৎসা না নেওয়া কি পাপ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-26\/n967q3ps\/pexels-cottonbro-6756086.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-28 03:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/religion\/islam\/zghoxydtfm",
+        "category": "ইসলাম"
     },
     {
         "title": "রাজধানীতে বৈচিত্র্যময় আসবাব মেলা",
@@ -520,14 +520,6 @@
         "category": "উচ্চশিক্ষা"
     },
     {
-        "title": "এআই দিয়ে লেখা বইয়ের জন্য সাহিত্য পুরস্কার",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-27\/exhewk6l\/WhatsApp-Image-2026-10-27-at-10.27.30-PM.jpeg",
-        "source": "Prothom Alo",
-        "time": "2026-10-28 02:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/onnoalo\/books\/ypb2ri1fa4",
-        "category": "books"
-    },
-    {
         "title": "যে সঞ্চয়পত্র সবাই কিনতে পারেন, তিন মাস পরপর মুনাফার টাকা তোলা যায়",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-08-30\/xfjvo32c\/1ddf51043e62594fc32dc6e5ee3c9537_5b6a833aa718b.jpg",
         "source": "Prothom Alo",
@@ -558,14 +550,6 @@
         "time": "2026-10-28 00:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/sports\/thwvs1fn8c",
         "category": "খেলা"
-    },
-    {
-        "title": "পদুচেরি উপকূলে আঘাত হেনেছে ঘূর্ণিঝড় ‘অর্ণব’, পূর্ব ভারতে ভারী বৃষ্টি",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-27\/8epzutqh\/Cyclone%E2%80%93Arnab.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-27 23:31:43",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/india\/48mwe7kfnj",
-        "category": "ভারত"
     },
     {
         "title": "টিকিট না কিনে কর্মচারীদের টাকা দিয়ে  রেলভ্রমণ কি বৈধ হবে",
