@@ -8,54 +8,6 @@
         "category": "বিশ্ব সংবাদ"
     },
     {
-        "title": "‘সন্তানের দায়িত্ব আমরা ৫০-৫০ ভাগ করে নিয়েছি’",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/wj29re2m\/parineetichopra171240425833402114777777525641524907135.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-29 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/bollywood\/x98uj8ih79",
-        "category": "বলিউড"
-    },
-    {
-        "title": " কম্পিউটার বাজারে প্রযুক্তিপণ্যের দামে কোনো পরিবর্তন নেই",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/vhrdiwaq\/Bazardor.palo.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-29 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/9thf1u5cud",
-        "category": "প্রযুক্তি"
-    },
-    {
-        "title": "ভাঙন অব্যবস্থাপনায় ম্লান সাগরকন্যা কুয়াকাটা ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/doolbo5z\/1.-KuakataDaughter-of-the-Seamismanagement29102026.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-29 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/ztcwzztkbh",
-        "category": "bangladesh"
-    },
-    {
-        "title": "রাস্তার খানাখন্দ খুঁজে বের করতে এআই টুল বানিয়েছেন এক ইঞ্জিনিয়ার",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/kyrj5yjp\/web.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-29 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/gmyasu69qz",
-        "category": "International"
-    },
-    {
-        "title": "গালিভারস ট্রাভেলসের ৩০০ বছর, বইটি আজও কেন প্রাসঙ্গিক",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/ked1546n\/Untitled-7.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-29 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/hsctcyrsha",
-        "category": "বিশ্ব"
-    },
-    {
-        "title": "হার্ভার্ডে পড়া ‘ড্রপআউট’ তরুণ কম্পিউটার পৌঁছে দিলেন দুনিয়ার ঘরে ঘরে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/5p4stjep\/Bill-Gates-1.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-29 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/usa\/soc637py68",
-        "category": "যুক্তরাষ্ট্র"
-    },
-    {
         "title": "আলভারেজ না পাজ—আর্জেন্টিনার ১০ নম্বর জার্সি কার",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/4fn75jj3\/New-Phototastic-Collage.jpg",
         "source": "Prothom Alo",
@@ -96,6 +48,54 @@
         "category": "international"
     },
     {
+        "title": "রাস্তার খানাখন্দ খুঁজে বের করতে এআই টুল বানিয়েছেন এক ইঞ্জিনিয়ার",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/kyrj5yjp\/web.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-29 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/gmyasu69qz",
+        "category": "International"
+    },
+    {
+        "title": "ভাঙন অব্যবস্থাপনায় ম্লান সাগরকন্যা কুয়াকাটা ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/doolbo5z\/1.-KuakataDaughter-of-the-Seamismanagement29102026.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-29 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/ztcwzztkbh",
+        "category": "bangladesh"
+    },
+    {
+        "title": "গালিভারস ট্রাভেলসের ৩০০ বছর, বইটি আজও কেন প্রাসঙ্গিক",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/ked1546n\/Untitled-7.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-29 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/world\/hsctcyrsha",
+        "category": "বিশ্ব"
+    },
+    {
+        "title": "‘সন্তানের দায়িত্ব আমরা ৫০-৫০ ভাগ করে নিয়েছি’",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/wj29re2m\/parineetichopra171240425833402114777777525641524907135.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-29 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/bollywood\/x98uj8ih79",
+        "category": "বলিউড"
+    },
+    {
+        "title": " কম্পিউটার বাজারে প্রযুক্তিপণ্যের দামে কোনো পরিবর্তন নেই",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/vhrdiwaq\/Bazardor.palo.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-29 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/9thf1u5cud",
+        "category": "প্রযুক্তি"
+    },
+    {
+        "title": "হার্ভার্ডে পড়া ‘ড্রপআউট’ তরুণ কম্পিউটার পৌঁছে দিলেন দুনিয়ার ঘরে ঘরে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/5p4stjep\/Bill-Gates-1.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-29 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/world\/usa\/soc637py68",
+        "category": "যুক্তরাষ্ট্র"
+    },
+    {
         "title": "বৈশ্বিক পণ্যের দাম ২৩ শতাংশ বৃদ্ধির পূর্বাভাস বিশ্বব্যাংকের",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/10\/29\/abb73bf763566be62facae57797951fe-6ae2562c86604.jpg?jadewits_media_id=319591",
         "source": "Ittefaq",
@@ -120,22 +120,6 @@
         "category": "জেলা"
     },
     {
-        "title": "ডেঙ্গু জ্বর হলে ব্যথানাশক ওষুধ খাওয়া নিষেধ কেন",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/8pvg4hrl\/dengue.png",
-        "source": "Prothom Alo",
-        "time": "2026-10-29 01:00:00",
-        "newsUrl": "https:\/\/www.bigganchinta.com\/biology\/490izaa5mn",
-        "category": "biology"
-    },
-    {
-        "title": "ধানখেতের বাসিন্দা খলশে মাছ কোথায় গেল",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo\/import\/media\/2018\/07\/16\/6af059493a46ec444d89e7ea2ed60932-5b4c36107c3c9.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-29 01:00:00",
-        "newsUrl": "https:\/\/www.kishoralo.com\/feature\/k6zh3fd3tp",
-        "category": "feature"
-    },
-    {
         "title": "ছিনতাইকারীর কবলে এক রাত",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/wr8kk0og\/apurbo-dipto.jpg.jpeg",
         "source": "Prothom Alo",
@@ -150,6 +134,22 @@
         "time": "2026-10-29 01:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/sports\/jr0ndykadh",
         "category": "খেলা"
+    },
+    {
+        "title": "ডেঙ্গু জ্বর হলে ব্যথানাশক ওষুধ খাওয়া নিষেধ কেন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/8pvg4hrl\/dengue.png",
+        "source": "Prothom Alo",
+        "time": "2026-10-29 01:00:00",
+        "newsUrl": "https:\/\/www.bigganchinta.com\/biology\/490izaa5mn",
+        "category": "biology"
+    },
+    {
+        "title": "ধানখেতের বাসিন্দা খলশে মাছ কোথায় গেল",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo\/import\/media\/2018\/07\/16\/6af059493a46ec444d89e7ea2ed60932-5b4c36107c3c9.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-29 01:00:00",
+        "newsUrl": "https:\/\/www.kishoralo.com\/feature\/k6zh3fd3tp",
+        "category": "feature"
     },
     {
         "title": "বৃষ্টি উপেক্ষা করে টোকিওতে তারকার মেলা, কী হচ্ছে উৎসবে",
@@ -230,6 +230,14 @@
         "time": "2026-10-28 21:49:11",
         "newsUrl": "https:\/\/www.ittefaq.com.bd\/817884\/%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A7%87-%E0%A7%AF-%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE",
         "category": "সারাদেশ"
+    },
+    {
+        "title": "মাও সে–তুংকে নিয়ে রসিকতা, এমবাপ্পের জন্য চীনের কাছে ক্ষমা চাইল রিয়াল",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-28\/akv2nqds\/2026-10-14T184118Z1610286748UP1EMAE1FWSJMRTRMADP3SOCCER-CHAMPIONS-ROM-RMA.JPG",
+        "source": "Prothom Alo",
+        "time": "2026-10-28 18:15:29",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/football\/j2phld4rvy",
+        "category": "ফুটবল"
     },
     {
         "title": "স্পেনে দ্রুতগতির দুই ট্রেনের সংঘর্ষে নিহতের সংখ্যা বেড়ে ৬৮",
