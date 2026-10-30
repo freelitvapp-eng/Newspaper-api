@@ -8,6 +8,14 @@
         "category": "বিশ্ব সংবাদ"
     },
     {
+        "title": "শিশুর মানসিক বিকাশ: অভিভাবকদের করণীয় ও পরামর্শ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-29\/qxtri261\/Dr.-Mohit-Kamal-3.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-10-30 05:49:54",
+        "newsUrl": "https:\/\/trust.prothomalo.com\/activities\/drug-abuse\/78roye3xsi",
+        "category": "মাদকবিরোধী আন্দোলন"
+    },
+    {
         "title": "ঠাকুরগাঁও-১ উপনির্বাচনে জামানত হারালেন ইসলামী আন্দোলনের প্রার্থীসহ ৩ জন",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/10\/30\/1406fbcad1635c09eaec77311b037201-6ae42e66cb823.jpg?jadewits_media_id=319830",
         "source": "Ittefaq",
@@ -120,20 +128,20 @@
         "category": "বিনোদন"
     },
     {
-        "title": "ভৈরব বন্ধুসভার মাদকবিরোধী প্রীতি ফুটবল ম্যাচ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-29\/8pvvwlko\/Bhairab-bs-football.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-30 05:00:00",
-        "newsUrl": "https:\/\/www.bondhushava.com\/sports\/7kpu4k3i1p",
-        "category": "sports"
-    },
-    {
         "title": "৯ মাসে ২,১২১ কোটি টাকার রেকর্ড মুনাফা অর্জন ব্র্যাক ব্যাংকের",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-09-15\/lp10rf29\/Untitled-4.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-30 05:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/business\/market\/6bn1w47p19",
         "category": "শেয়ারবাজার"
+    },
+    {
+        "title": "ভৈরব বন্ধুসভার মাদকবিরোধী প্রীতি ফুটবল ম্যাচ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-29\/8pvvwlko\/Bhairab-bs-football.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-30 05:00:00",
+        "newsUrl": "https:\/\/www.bondhushava.com\/sports\/7kpu4k3i1p",
+        "category": "sports"
     },
     {
         "title": " পর্যটন মেলায় ভ্রমণে নানা ছাড় ",
@@ -328,22 +336,6 @@
         "category": "অর্থনীতি"
     },
     {
-        "title": "ঘরে বসে ইসলাম শিক্ষা: কী পড়বেন, কীভাবে পড়বেন",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-26\/oz037v7t\/pexels-mohamed-hamdi-510308652-16197216.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-30 03:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/religion\/islam\/nw3cb6fb5t",
-        "category": "ইসলাম"
-    },
-    {
-        "title": "মাদারীপুরে ২০০ শিক্ষার্থীর হাতে চারা গাছ তুলে দিল বন্ধুসভা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-29\/mgurqkjd\/Madaripur-Tree-Program-Pic-01.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-30 03:00:00",
-        "newsUrl": "https:\/\/www.bondhushava.com\/activities\/z9xwhl4bvr",
-        "category": "activities"
-    },
-    {
         "title": "পাঙাশ মাছের গায়ে আঁশ নেই কেন",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-29\/2287scoo\/331488c157b144f5bcbdef4bb88d4df6.png",
         "source": "Prothom Alo",
@@ -390,6 +382,22 @@
         "time": "2026-10-30 03:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/ixwodahvjw",
         "category": "bangladesh"
+    },
+    {
+        "title": "ঘরে বসে ইসলাম শিক্ষা: কী পড়বেন, কীভাবে পড়বেন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-26\/oz037v7t\/pexels-mohamed-hamdi-510308652-16197216.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-30 03:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/religion\/islam\/nw3cb6fb5t",
+        "category": "ইসলাম"
+    },
+    {
+        "title": "মাদারীপুরে ২০০ শিক্ষার্থীর হাতে চারা গাছ তুলে দিল বন্ধুসভা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-29\/mgurqkjd\/Madaripur-Tree-Program-Pic-01.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-30 03:00:00",
+        "newsUrl": "https:\/\/www.bondhushava.com\/activities\/z9xwhl4bvr",
+        "category": "activities"
     },
     {
         "title": "কক্সবাজারে ৫ কোটি টাকার শুঁটকি নিয়ে কেন বিপাকে বিক্রেতারা",
@@ -472,6 +480,14 @@
         "category": "হলিউড"
     },
     {
+        "title": "আলোচিত ‘অবসেশন’, ওটিটিতে আরও যা দেখবেন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-07-04\/9tan838r\/87876713-7f42-41c2-bacf-3f03f8c2351b.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-30 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/azay6hpeik",
+        "category": "বিনোদন"
+    },
+    {
         "title": "৯ বছর পর খুলে দেওয়া ওসমানী উদ্যানে দর্শনার্থীদের জন্য কী কী আছে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-29\/ivosj3h7\/040A4015.jpg",
         "source": "Prothom Alo",
@@ -488,12 +504,12 @@
         "category": "ফুটবল"
     },
     {
-        "title": "আলোচিত ‘অবসেশন’, ওটিটিতে আরও যা দেখবেন",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-07-04\/9tan838r\/87876713-7f42-41c2-bacf-3f03f8c2351b.jpg",
+        "title": "ইরান কি বিদেশে মার্কিনদের ওপর  হামলার পরিকল্পনা করছে, হাতে কী কী ভয়ংকর অস্ত্র",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-29\/pl3tzdj3\/israel-attack.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-30 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/azay6hpeik",
-        "category": "বিনোদন"
+        "newsUrl": "https:\/\/www.prothomalo.com\/world\/middle-east\/zbupd9st4z",
+        "category": "মধ্যপ্রাচ্য"
     },
     {
         "title": "কুড়িয়ে পাওয়া বকটি জসিমের মায়ায় ফিরে আসে বারবার",
@@ -510,14 +526,6 @@
         "time": "2026-10-30 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/sr8qr2azyb",
         "category": "কলাম"
-    },
-    {
-        "title": "ইরান কি বিদেশে মার্কিনদের ওপর  হামলার পরিকল্পনা করছে, হাতে কী কী ভয়ংকর অস্ত্র",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-29\/pl3tzdj3\/israel-attack.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-30 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/middle-east\/zbupd9st4z",
-        "category": "মধ্যপ্রাচ্য"
     },
     {
         "title": "জমির নিবন্ধনে ‘মান্ধাতা-প্রীতি’ আর কতদিন, এতে কার লাভ?",
@@ -568,8 +576,8 @@
         "category": "জেলা"
     },
     {
-        "title": "মিরপুর টেস্ট: সেই নাঈমই উইকেট এনে দিলেন",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-30\/iiw0it9a\/f8e7b93a-6e9d-40f2-a990-5e3f94cb9eb7.jpg",
+        "title": "মিরপুর টেস্ট: নাঈম উইকেট পাওয়ার পরই লাঞ্চে বাংলাদেশ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-30\/787w8dt1\/67514e8f-941f-4589-842a-e89968193df6.jpg",
         "source": "Prothom Alo",
         "time": "2026-10-28 03:05:34",
         "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/havs08wgsy",
