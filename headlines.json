@@ -1,29 +1,5 @@
 [
     {
-        "title": "একজন এআই লেখক ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-29\/i0rphk0j\/ai-web.jpg.jpeg",
-        "source": "Prothom Alo",
-        "time": "2026-10-31 01:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/zghw7l6ydu",
-        "category": "রস+আলো"
-    },
-    {
-        "title": "আজ টিভিতে যা দেখবেন (৩১ অক্টোবর ২০২৬)",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-30\/zz3fgu47\/WhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-31 01:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/u09m2hsc2b",
-        "category": "খেলা"
-    },
-    {
-        "title": "ব্যাথা পেলে বরফ দেব না গরম সেঁক",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-29\/fgn0dxtp\/8fff757e262770a2a8f2cb06f01a10c2bb28d0b5-2121x1414.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-10-31 01:00:00",
-        "newsUrl": "https:\/\/www.bigganchinta.com\/cause\/vy0q69n6ch",
-        "category": "cause"
-    },
-    {
         "title": "শেষ পর্যন্ত যখন আপনি চূড়ায় উঠবেন, সেই আনন্দের তুলনা নেই...",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-30\/kc36gj8m\/c40620bd-a834-420a-82cb-8d2d18086a7b.jpg",
         "source": "Prothom Alo",
@@ -46,6 +22,30 @@
         "time": "2026-10-31 01:00:00",
         "newsUrl": "https:\/\/www.haal.fashion\/lifestyle\/sclqp8334z",
         "category": "যাপন"
+    },
+    {
+        "title": "একজন এআই লেখক ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-29\/i0rphk0j\/ai-web.jpg.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-10-31 01:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/zghw7l6ydu",
+        "category": "রস+আলো"
+    },
+    {
+        "title": "আজ টিভিতে যা দেখবেন (৩১ অক্টোবর ২০২৬)",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-30\/zz3fgu47\/WhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-31 01:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/u09m2hsc2b",
+        "category": "খেলা"
+    },
+    {
+        "title": "ব্যাথা পেলে বরফ দেব না গরম সেঁক",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-29\/fgn0dxtp\/8fff757e262770a2a8f2cb06f01a10c2bb28d0b5-2121x1414.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-10-31 01:00:00",
+        "newsUrl": "https:\/\/www.bigganchinta.com\/cause\/vy0q69n6ch",
+        "category": "cause"
     },
     {
         "title": "পুলিশের ওপর বারবার হামলা",
