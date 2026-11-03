@@ -280,14 +280,6 @@
         "category": "জেলা"
     },
     {
-        "title": "অধরা সাংস্কৃতিক ঐতিহ্য সংরক্ষণে স্থানীয় জনগোষ্ঠীর অংশগ্রহণের ওপর গুরুত্ব",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/piywpcsd\/bnm-2.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-03 07:00:00",
-        "newsUrl": "https:\/\/www.haal.fashion\/arrangement\/haal-khobor\/d8wq86x7ny",
-        "category": "হাল খবর"
-    },
-    {
         "title": "একঝলক (৩ নভেম্বর ২০২৬)",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/lfxmfxl5\/1.-Khulna-bee.JPG",
         "source": "Prothom Alo",
@@ -302,6 +294,14 @@
         "time": "2026-11-03 07:00:00",
         "newsUrl": "https:\/\/www.kishoralo.com\/other\/4e87ha95ey",
         "category": "other"
+    },
+    {
+        "title": "অধরা সাংস্কৃতিক ঐতিহ্য সংরক্ষণে স্থানীয় জনগোষ্ঠীর অংশগ্রহণের ওপর গুরুত্ব",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/piywpcsd\/bnm-2.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-03 07:00:00",
+        "newsUrl": "https:\/\/www.haal.fashion\/arrangement\/haal-khobor\/d8wq86x7ny",
+        "category": "হাল খবর"
     },
     {
         "title": "নারায়ণগঞ্জে গ্যারেজে রাখা বাসে আগুন, নাশকতা কি না খতিয়ে দেখছে পুলিশ",
@@ -560,6 +560,14 @@
         "category": "ইউরোপ"
     },
     {
+        "title": "যে ক্যাফেতে কফি খেতে বসতে হয় মুরগির সঙ্গে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/9lubdwjq\/web.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-03 05:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/9kern5rry3",
+        "category": "International"
+    },
+    {
         "title": "বাংলাদেশের আকাশে দেখা যাবে টাওরিড উল্কাবৃষ্টি ও গ্রহের মেলা, কবে ও কখন",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/4jba8zyp\/Night-Sky.-Pexels.jpg",
         "source": "Prothom Alo",
@@ -574,14 +582,6 @@
         "time": "2026-11-03 05:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/sports\/football\/43lo1q3lke",
         "category": "ফুটবল"
-    },
-    {
-        "title": "যে ক্যাফেতে কফি খেতে বসতে হয় মুরগির সঙ্গে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/9lubdwjq\/web.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-03 05:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/9kern5rry3",
-        "category": "International"
     },
     {
         "title": "বাংলাদেশের হাতে সময় ১৯ বছর, এরপর কমবে জনমিতিক সুবিধা ",
@@ -720,20 +720,20 @@
         "category": "অর্থনীতি"
     },
     {
-        "title": "আর্জেন্টিনাকে ‘মিথ্যা’ বলেছে মেসির পা–জোড়া",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/84lutbzk\/796356-01-02.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-03 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/football\/hawmog8hp7",
-        "category": "ফুটবল"
-    },
-    {
         "title": "ডানপন্থী ফাঁদে রাজনীতি, বাম ও লিবারেলরা কী করবে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/l4ipeuck\/drrohojatra.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-03 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/zp93tdcbtz",
         "category": "কলাম"
+    },
+    {
+        "title": "আর্জেন্টিনাকে ‘মিথ্যা’ বলেছে মেসির পা–জোড়া",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/84lutbzk\/796356-01-02.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-03 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/football\/hawmog8hp7",
+        "category": "ফুটবল"
     },
     {
         "title": "মেইন সমস্যা",
@@ -744,20 +744,20 @@
         "category": "রস+আলো"
     },
     {
-        "title": "ধনকুবেররা কিনছেন দ্বীপ, বানাচ্ছেন বাংকার, কিসের আশঙ্কা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/un999x2g\/1t80n03EfLljWJbPOTSix2w.webp",
-        "source": "Prothom Alo",
-        "time": "2026-11-03 01:00:00",
-        "newsUrl": "https:\/\/www.kishoralo.com\/feature\/pbwztaqnq2",
-        "category": "feature"
-    },
-    {
         "title": "মানুষ কেন মাংস খেতে এত পছন্দ করে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/4s86nid4\/1536752780-cover-image-l.webp",
         "source": "Prothom Alo",
         "time": "2026-11-03 01:00:00",
         "newsUrl": "https:\/\/www.bigganchinta.com\/others\/brq1ccmlir",
         "category": "others"
+    },
+    {
+        "title": "ধনকুবেররা কিনছেন দ্বীপ, বানাচ্ছেন বাংকার, কিসের আশঙ্কা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/un999x2g\/1t80n03EfLljWJbPOTSix2w.webp",
+        "source": "Prothom Alo",
+        "time": "2026-11-03 01:00:00",
+        "newsUrl": "https:\/\/www.kishoralo.com\/feature\/pbwztaqnq2",
+        "category": "feature"
     },
     {
         "title": "পর্তুগালে সফটওয়্যার কোয়ালিটি ও টেস্টিংয়ের গ্লোবাল মঞ্চে বাংলাদেশ  ",
