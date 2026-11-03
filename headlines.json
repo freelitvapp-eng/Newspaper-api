@@ -24,20 +24,20 @@
         "category": "বিশ্ব সংবাদ"
     },
     {
-        "title": "যেখানে সারা বছর ৬০০ টাকায় বাটার জুতা কেনা যায়, বছরে বিক্রি ১ লাখ জোড়া",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/857yufxy\/WhatsApp-Image-2026-11-02-at-7.46.39-PM.jpeg",
-        "source": "Prothom Alo",
-        "time": "2026-11-03 02:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/business\/economics\/8rkr5ddk66",
-        "category": "অর্থনীতি"
-    },
-    {
         "title": "জানালা ও জলের ক্ষুধা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/2gaukc4f\/WhatsApp-Image-2026-11-02-at-11.16.53-PM.jpeg",
         "source": "Prothom Alo",
         "time": "2026-11-03 02:30:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/onnoalo\/poem\/gq8u9p0msr",
         "category": "poem"
+    },
+    {
+        "title": "যেখানে সারা বছর ৬০০ টাকায় বাটার জুতা কেনা যায়, বছরে বিক্রি ১ লাখ জোড়া",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/857yufxy\/WhatsApp-Image-2026-11-02-at-7.46.39-PM.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-11-03 02:30:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/business\/economics\/8rkr5ddk66",
+        "category": "অর্থনীতি"
     },
     {
         "title": "নতুন করে ইরানে দফায় দফায় হামলা শুরু যুক্তরাষ্ট্রের",
@@ -72,22 +72,6 @@
         "category": "বিশ্ব সংবাদ"
     },
     {
-        "title": "চ্যাটজিপিটির ভুল পরামর্শে মৃত্যুর ঘটনায় ওপেনএআইয়ের বিরুদ্ধে মামলা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-01-20\/p2590vnx\/chatgpt.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-03 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/artificial-intelligence\/js6aiaxtcr",
-        "category": "এআই"
-    },
-    {
-        "title": "বিচ্ছেদের ছয় বছর পর আবার বিয়ে করছেন গায়িকা, বললেন, ‘স্বামী কোটিপতি নন’",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/xpo9xy3l\/rimitomy178946667739866526235939238035805507690.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-03 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/bollywood\/3hl1xhwhpc",
-        "category": "বলিউড"
-    },
-    {
         "title": "ই-রিকশার নিবন্ধন কীভাবে, কারা পাবেন, আয় কেমন হতে পারে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2025-06-27\/ze3m3ec2\/Buet-Rikshaw-01.jpeg",
         "source": "Prothom Alo",
@@ -102,6 +86,14 @@
         "time": "2026-11-03 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/zp93tdcbtz",
         "category": "কলাম"
+    },
+    {
+        "title": "কেন নিজেদের সরকারের বিরুদ্ধে রাজপথে ইউরোপের মানুষ?",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/o2ahypmt\/images.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-03 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/79aqlu5zl9",
+        "category": "International"
     },
     {
         "title": "ছিল ঘিয়ের ব্যবসা, এখন তৈরি করে ১৮৫ রকম মিষ্টি, চার প্রজন্মের গল্পে বিক্রমপুর মিষ্টান্ন ভান্ডার",
@@ -120,20 +112,20 @@
         "category": "ফুটবল"
     },
     {
-        "title": "কেন নিজেদের সরকারের বিরুদ্ধে রাজপথে ইউরোপের মানুষ?",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/o2ahypmt\/images.jpg",
+        "title": "চ্যাটজিপিটির ভুল পরামর্শে মৃত্যুর ঘটনায় ওপেনএআইয়ের বিরুদ্ধে মামলা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-01-20\/p2590vnx\/chatgpt.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-03 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/79aqlu5zl9",
-        "category": "International"
+        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/artificial-intelligence\/js6aiaxtcr",
+        "category": "এআই"
     },
     {
-        "title": "প্লাম গাউনে মুগ্ধতা ছড়ালেন টালিউড ফ্যাশনিস্তা ঐন্দ্রিলা সেন",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/1srf26s0\/Ondrila-L.jpg",
+        "title": "বিচ্ছেদের ছয় বছর পর আবার বিয়ে করছেন গায়িকা, বললেন, ‘স্বামী কোটিপতি নন’",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/xpo9xy3l\/rimitomy178946667739866526235939238035805507690.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-03 02:00:00",
-        "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/lgxjr0vo00",
-        "category": "লুক"
+        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/bollywood\/3hl1xhwhpc",
+        "category": "বলিউড"
     },
     {
         "title": "পাতি-নেতাদের নামতা",
@@ -150,6 +142,14 @@
         "time": "2026-11-03 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/9wkdjueq4u",
         "category": "bangladesh"
+    },
+    {
+        "title": "প্লাম গাউনে মুগ্ধতা ছড়ালেন টালিউড ফ্যাশনিস্তা ঐন্দ্রিলা সেন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/1srf26s0\/Ondrila-L.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-03 02:00:00",
+        "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/lgxjr0vo00",
+        "category": "লুক"
     },
     {
         "title": "পোশাকশ্রমিকদের আন্দোলনে এবার যুক্ত হলো নারায়ণগঞ্জ",
@@ -184,22 +184,6 @@
         "category": "জাতীয়"
     },
     {
-        "title": "ধনকুবেরা কিনছেন দ্বীপ, বানাচ্ছেন বাংকার, কিসের আশঙ্কা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/un999x2g\/1t80n03EfLljWJbPOTSix2w.webp",
-        "source": "Prothom Alo",
-        "time": "2026-11-03 01:00:00",
-        "newsUrl": "https:\/\/www.kishoralo.com\/feature\/pbwztaqnq2",
-        "category": "feature"
-    },
-    {
-        "title": "জেলহত্যা দিবস আজ ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/3y7kwa95\/Capture.PNG",
-        "source": "Prothom Alo",
-        "time": "2026-11-03 01:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/ap6iwcx8vx",
-        "category": "বাংলাদেশ"
-    },
-    {
         "title": "আজ টিভিতে যা দেখবেন (৩ নভেম্বর ২০২৬)",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/2tzq61p7\/WhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg",
         "source": "Prothom Alo",
@@ -224,20 +208,36 @@
         "category": "রস+আলো"
     },
     {
-        "title": "তরুণদের টাইপ ২ ডায়াবেটিসে আশার আলো, ছয় মাসে রেমিশন ৫৪ শতাংশের ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/8um24nd5\/pexels-artempodrez-6823399.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-03 01:00:00",
-        "newsUrl": "https:\/\/www.haal.fashion\/lifestyle\/well-being\/lqhs6l0176",
-        "category": "কুশল"
-    },
-    {
         "title": "মানুষ কেন মাংস খেতে এত পছন্দ করে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/4s86nid4\/1536752780-cover-image-l.webp",
         "source": "Prothom Alo",
         "time": "2026-11-03 01:00:00",
         "newsUrl": "https:\/\/www.bigganchinta.com\/others\/brq1ccmlir",
         "category": "others"
+    },
+    {
+        "title": "ধনকুবেরা কিনছেন দ্বীপ, বানাচ্ছেন বাংকার, কিসের আশঙ্কা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/un999x2g\/1t80n03EfLljWJbPOTSix2w.webp",
+        "source": "Prothom Alo",
+        "time": "2026-11-03 01:00:00",
+        "newsUrl": "https:\/\/www.kishoralo.com\/feature\/pbwztaqnq2",
+        "category": "feature"
+    },
+    {
+        "title": "জেলহত্যা দিবস আজ ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/ljwlvclg\/Capture.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-03 01:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/ap6iwcx8vx",
+        "category": "বাংলাদেশ"
+    },
+    {
+        "title": "তরুণদের টাইপ ২ ডায়াবেটিসে আশার আলো, ছয় মাসে রেমিশন ৫৪ শতাংশের ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-02\/8um24nd5\/pexels-artempodrez-6823399.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-03 01:00:00",
+        "newsUrl": "https:\/\/www.haal.fashion\/lifestyle\/well-being\/lqhs6l0176",
+        "category": "কুশল"
     },
     {
         "title": "অগ্নিপরীক্ষায় ডোনাল্ড ট্রাম্প, চ্যালেঞ্জে ডেমোক্র্যাটরা",
@@ -262,5 +262,29 @@
         "time": "2026-11-03 00:00:00",
         "newsUrl": "https:\/\/www.ittefaq.com.bd\/818762\/%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%97%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%A8",
         "category": "খেলা"
+    },
+    {
+        "title": "বৃহত্তর জাতীয় সরকার গঠনের আহ্বান নেতানিয়াহুর, আজ বৈঠকে বসছেন বিরোধীরা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-10-30\/w8eh145r\/netaniahu.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-02 22:29:46",
+        "newsUrl": "https:\/\/www.prothomalo.com\/world\/middle-east\/odvw6ri9v6",
+        "category": "মধ্যপ্রাচ্য"
+    },
+    {
+        "title": "ক্ষমতাসীনেরা মধ্যবর্তী নির্বাচনে জেতে না, তবে আমরা জোর চেষ্টা চালাচ্ছি: ট্রাম্প",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/4jr9ltfp\/trump.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-02 21:38:09",
+        "newsUrl": "https:\/\/www.prothomalo.com\/world\/usa\/rrka814mu8",
+        "category": "যুক্তরাষ্ট্র"
+    },
+    {
+        "title": "দলীয় নেতার সমর্থন হারানোর দিনই আল–সাইয়েদের তহবিলে রেকর্ড অর্থ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/eu5ny6u1\/USA-ELECTION-1.webp",
+        "source": "Prothom Alo",
+        "time": "2026-11-02 20:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/world\/usa\/kzcibou7bg",
+        "category": "যুক্তরাষ্ট্র"
     }
 ]
