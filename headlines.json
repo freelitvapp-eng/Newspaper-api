@@ -80,14 +80,6 @@
         "category": "বাংলাদেশ"
     },
     {
-        "title": "ওয়াইল্ড কার্ডে এসে বিগ বসের ঘরে আলোচনায় রাজবীর দে, কে এই সেনসেশন",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/5xg8e92p\/Rajib-D-L.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-04 06:00:00",
-        "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/55kzgunw4x",
-        "category": "লুক"
-    },
-    {
         "title": "একনজরে টেস্ট ক্রিকেটে সর্বকালের সেরা ১০ কিংবদন্তি ক্রিকেটার",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/qqgjzaki\/WEB.jpg",
         "source": "Prothom Alo",
@@ -110,6 +102,14 @@
         "time": "2026-11-04 06:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/9o1fgv966g",
         "category": "জীবনযাপন"
+    },
+    {
+        "title": "ওয়াইল্ড কার্ডে এসে বিগ বসের ঘরে আলোচনায় রাজবীর দে, কে এই সেনসেশন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/5xg8e92p\/Rajib-D-L.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-04 06:00:00",
+        "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/55kzgunw4x",
+        "category": "লুক"
     },
     {
         "title": "পেনশনের টাকায় শিশুদের জন্য শিক্ষক গড়ে তুললেন ‘প্রকৃতির পাঠশালা’",
@@ -144,7 +144,7 @@
         "category": "অন্যান্য"
     },
     {
-        "title": "৯ বছর পদোন্নতি বঞ্চিত বিসিএস শিক্ষা ক্যাডার প্রভাষকেরা, প্রধানন্ত্রীর হস্তক্ষেপ কামনা",
+        "title": "৯ বছর পদোন্নতিবঞ্চিত বিসিএস শিক্ষা ক্যাডার প্রভাষকেরা, প্রধানন্ত্রীর হস্তক্ষেপ কামনা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-04\/md9ub328\/IMG-20261103-WA0114.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-04 05:46:11",
@@ -192,20 +192,36 @@
         "category": "যুক্তরাষ্ট্র"
     },
     {
-        "title": "মিমের প্রথম সম্মানী পাঁচ হাজার টাকা, এখন কত নেন",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/uu5b9m0y\/835358363_10215161880198176_8017381549395311219_n.jpg",
+        "title": "পৃথিবীর চেয়েও বাসযোগ্য গ্রহ আছে মহাবিশ্বে? কী বলছেন বিজ্ঞানীরা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/p2tvb2ne\/WEB.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-04 05:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/dhallywood\/baw3wtj4hr",
-        "category": "ঢালিউড"
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/o5c16rpf77",
+        "category": "International"
     },
     {
-        "title": "আবারও কি সর্বাত্মক যুদ্ধ, এবার কতটা ভয়াবহ হবে ইরানের জবাব",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/oirrlh64\/iran-war.jpg",
+        "title": "পাহাড়ের কোলে নবান্নের আমেজ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-04\/dhgvgjko\/1___sylhet_nabanna_paddy_fields_anis_palo_04112026.JPG",
         "source": "Prothom Alo",
         "time": "2026-11-04 05:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/middle-east\/9wy89g4px5",
-        "category": "মধ্যপ্রাচ্য"
+        "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/g19gt6xdvr",
+        "category": "bangladesh"
+    },
+    {
+        "title": "মহাকাশ গবেষণার ভবিষ্যৎ বদলে দিচ্ছেন বাংলাদেশের মাহমুদা সুলতানা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/0lxzrd70\/5641561561.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-04 05:00:00",
+        "newsUrl": "https:\/\/www.bigganchinta.com\/others\/iblsq8y454",
+        "category": "others"
+    },
+    {
+        "title": "১২ বছরের ক্রীতদাস বালকের হাতে বৈশ্বিক মসলায় পরিণত হয়েছিল ভ্যানিলা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/gir614rg\/Business-1.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-04 05:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/business\/economics\/w9awvugjyy",
+        "category": "অর্থনীতি"
     },
     {
         "title": "পৃথিবীর চেয়েও বাসযোগ্য গ্রহ আছে মহাবিশ্বে? কী বলছেন বিজ্ঞানীরা",
@@ -232,36 +248,20 @@
         "category": "এআই"
     },
     {
-        "title": "পাহাড়ের কোলে নবান্নের আমেজ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-04\/dhgvgjko\/1___sylhet_nabanna_paddy_fields_anis_palo_04112026.JPG",
+        "title": "মিমের প্রথম সম্মানী পাঁচ হাজার টাকা, এখন কত নেন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/uu5b9m0y\/835358363_10215161880198176_8017381549395311219_n.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-04 05:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/g19gt6xdvr",
-        "category": "bangladesh"
+        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/dhallywood\/baw3wtj4hr",
+        "category": "ঢালিউড"
     },
     {
-        "title": "পৃথিবীর চেয়েও বাসযোগ্য গ্রহ আছে মহাবিশ্বে? কী বলছেন বিজ্ঞানীরা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/p2tvb2ne\/WEB.jpg",
+        "title": "আবারও কি সর্বাত্মক যুদ্ধ, এবার কতটা ভয়াবহ হবে ইরানের জবাব",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/oirrlh64\/iran-war.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-04 05:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/o5c16rpf77",
-        "category": "International"
-    },
-    {
-        "title": "মহাকাশ গবেষণার ভবিষ্যৎ বদলে দিচ্ছেন বাংলাদেশের মাহমুদা সুলতানা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/0lxzrd70\/5641561561.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-04 05:00:00",
-        "newsUrl": "https:\/\/www.bigganchinta.com\/others\/iblsq8y454",
-        "category": "others"
-    },
-    {
-        "title": "১২ বছরের ক্রীতদাস বালকের হাতে বৈশ্বিক মসলায় পরিণত হয়েছিল ভ্যানিলা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/gir614rg\/Business-1.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-04 05:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/business\/economics\/w9awvugjyy",
-        "category": "অর্থনীতি"
+        "newsUrl": "https:\/\/www.prothomalo.com\/world\/middle-east\/9wy89g4px5",
+        "category": "মধ্যপ্রাচ্য"
     },
     {
         "title": "কোথায় বিনিয়োগ করবেন, কেন করবেন ",
@@ -320,22 +320,6 @@
         "category": "নিয়োগ"
     },
     {
-        "title": "ওয়ান শোল্ডার পার্টিওয়্যারে টালি সুন্দরীর নতুন ঝলক",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/e30b0j8f\/Sraboti-L.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-04 04:00:00",
-        "newsUrl": "https:\/\/www.haal.fashion\/celeb\/style\/110bcjge6k",
-        "category": "স্টাইল"
-    },
-    {
-        "title": "দেশেই ভ্যানিলার চাষ শুরু, বিশ্ববাজারে এক কেজির দাম ৩০ হাজার টাকা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/xgsnaivg\/Vanilla.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-04 04:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/business\/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE\/rvbpph5j2g",
-        "category": "উদ্যোক্তা"
-    },
-    {
         "title": "আয়কর রিটার্ন তৈরিতে ১০টি সাধারণ ভুল",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/4mzxsrw2\/WEB.jpg",
         "source": "Prothom Alo",
@@ -390,6 +374,22 @@
         "time": "2026-11-04 04:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/xlob39elcw",
         "category": "bangladesh"
+    },
+    {
+        "title": "দেশেই ভ্যানিলার চাষ শুরু, বিশ্ববাজারে এক কেজির দাম ৩০ হাজার টাকা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/xgsnaivg\/Vanilla.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-04 04:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/business\/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE\/rvbpph5j2g",
+        "category": "উদ্যোক্তা"
+    },
+    {
+        "title": "ওয়ান শোল্ডার পার্টিওয়্যারে টালি সুন্দরীর নতুন ঝলক",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/e30b0j8f\/Sraboti-L.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-04 04:00:00",
+        "newsUrl": "https:\/\/www.haal.fashion\/celeb\/style\/110bcjge6k",
+        "category": "স্টাইল"
     },
     {
         "title": "বিক্ষোভে উসকানি দেওয়ার অভিযোগে আশুলিয়ায় তিন শ্রমিক নেতাকে আটক",
@@ -448,14 +448,6 @@
         "category": "ক্রিকেট"
     },
     {
-        "title": "স্মৃতির ঘাটে আবার ভিড়ছে জলধারা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/l6xe2ijh\/River-Journey-Memories-Collage.png",
-        "source": "Prothom Alo",
-        "time": "2026-11-04 03:00:00",
-        "newsUrl": "https:\/\/www.bondhushava.com\/feature\/l8e5sgmlin",
-        "category": "feature"
-    },
-    {
         "title": "চাকরি ছেড়ে সুরভী কীভাবে ভ্রমণ করেন দেশে–বিদেশে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/0qzx1iua\/WEB.jpg",
         "source": "Prothom Alo",
@@ -472,6 +464,14 @@
         "category": "bangladesh"
     },
     {
+        "title": "বেকারত্বের মুক্তির নাম: স্টার্টআপ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/0gvvvit1\/startup.jpg.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-11-04 03:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/uq195xrtqp",
+        "category": "রস+আলো"
+    },
+    {
         "title": "গল্প-উপন্যাস পড়া কি ইসলামে নিষিদ্ধ ",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/ik9klgv9\/pexels-daneswara-eka-2157956675-36463774.jpg",
         "source": "Prothom Alo",
@@ -480,12 +480,12 @@
         "category": "ইসলাম"
     },
     {
-        "title": "বেকারত্বের মুক্তির নাম: স্টার্টআপ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/0gvvvit1\/startup.jpg.jpeg",
+        "title": "স্মৃতির ঘাটে আবার ভিড়ছে জলধারা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/l6xe2ijh\/River-Journey-Memories-Collage.png",
         "source": "Prothom Alo",
         "time": "2026-11-04 03:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/uq195xrtqp",
-        "category": "রস+আলো"
+        "newsUrl": "https:\/\/www.bondhushava.com\/feature\/l8e5sgmlin",
+        "category": "feature"
     },
     {
         "title": "ব্যস্ত ঘাটে ডানা ঝাপটায় অসংখ্য কবুতর",
@@ -574,22 +574,6 @@
         "time": "2026-11-04 01:49:13",
         "newsUrl": "https:\/\/www.prothomalo.com\/world\/usa\/y2l3t7l4bt",
         "category": "যুক্তরাষ্ট্র"
-    },
-    {
-        "title": "ইরানে আপাতত হামলার পরিকল্পনা নেই যুক্তরাষ্ট্রের: ট্রাম্প",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-04\/74mmmf8u\/2.avif",
-        "source": "Prothom Alo",
-        "time": "2026-11-04 00:50:38",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/middle-east\/66ziq8fxwp",
-        "category": "মধ্যপ্রাচ্য"
-    },
-    {
-        "title": "আন্তর্জাতিক বিচার আদালতে মিয়ানমারের বিরুদ্ধে রোহিঙ্গা গণহত্যা মামলার রায় ১৯ নভেম্বর",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-03\/ksom7i10\/icj.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-03 21:20:11",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/asia\/6nfehmma0h",
-        "category": "এশিয়া"
     },
     {
         "title": "ইউরোপের সাতটি যাত্রীবাহী উড়োজাহাজে বোমা হামলার হুমকি",
