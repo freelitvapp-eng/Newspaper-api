@@ -1,5 +1,21 @@
 [
     {
+        "title": "সুইয়ে সুতা, হাতে সংসারের হিসাব ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/vbqt2fjw\/Untitled-7.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-06 03:50:40",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/8l3074w5ng",
+        "category": "জেলা"
+    },
+    {
+        "title": "কষ্টে কাটে জীবন, তবু হাসির মুখে হাসি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/ml7jceia\/Untitled-1.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-06 03:47:45",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/s8tqbhthro",
+        "category": "বাংলাদেশ"
+    },
+    {
         "title": "হেগসেথ-রুবিওর পদত্যাগের গুঞ্জন: যা জানালো হোয়াইট হাউজ",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/11\/06\/08a307aed4501ea270358fd9a9aa8d23-6aed4daf53efe.jpg?jadewits_media_id=321085",
         "source": "Ittefaq",
@@ -24,14 +40,6 @@
         "category": "ভিডিও"
     },
     {
-        "title": "দিনমজুরের টাকায় তিন সড়কে ১১ যাত্রীছাউনি",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/s7fusmkk\/gazipurdh071620261105sreepur-kapasia-babul-sheikh-house-3.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-06 03:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/2eiihoa5n4",
-        "category": "জেলা"
-    },
-    {
         "title": "৮ হাজার কোটি টাকা মূলধন বাড়াবে ইসলামী ব্যাংক",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-08-12\/zpqkdbo2\/cc32fbee-4cb0-426c-b63c-fc05dec49951.jfif",
         "source": "Prothom Alo",
@@ -40,7 +48,15 @@
         "category": "ব্যাংক"
     },
     {
-        "title": "‘অনেকে নতুনদের নিয়ে ঝুঁকি নিতে চান না’ শাবানা–শাবনূরের ভক্ত এখন নিজেই অভিনেত্রী",
+        "title": "দিনমজুরের টাকায় তিন সড়কে ১১ যাত্রীছাউনি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/s7fusmkk\/gazipurdh071620261105sreepur-kapasia-babul-sheikh-house-3.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-06 03:30:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/2eiihoa5n4",
+        "category": "জেলা"
+    },
+    {
+        "title": "শাবানা–শাবনূরের ভক্ত এখন নিজেই অভিনেত্রী",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/k8hh8zc0\/1fc92699-a33f-456a-9246-9ea2d85147c9.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-06 03:30:00",
@@ -80,20 +96,20 @@
         "category": "বাংলাদেশ"
     },
     {
-        "title": "সরকারকে আমদানির উদ্যোগ নিতে হবে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2020-10\/1029114c-37fd-4c36-a816-595983984828\/editorial_5.png",
-        "source": "Prothom Alo",
-        "time": "2026-11-06 03:15:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/editorial\/zp2m2gi45a",
-        "category": "সম্পাদকীয়"
-    },
-    {
         "title": "উপন্যাসে বাঙালির আত্মপরিচয়",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/y4ijna76\/WhatsApp-Image-2026-11-05-at-9.02.46-PM.jpeg",
         "source": "Prothom Alo",
         "time": "2026-11-06 03:15:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/onnoalo\/books\/kwk7cw1s2p",
         "category": "books"
+    },
+    {
+        "title": "সরকারকে আমদানির উদ্যোগ নিতে হবে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2020-10\/1029114c-37fd-4c36-a816-595983984828\/editorial_5.png",
+        "source": "Prothom Alo",
+        "time": "2026-11-06 03:15:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/editorial\/zp2m2gi45a",
+        "category": "সম্পাদকীয়"
     },
     {
         "title": "মধ্যপ্রাচ্য বদলাতে গিয়ে উল্টো সংকটে যুক্তরাষ্ট্র ও ইসরায়েল: ইরান",
@@ -152,6 +168,14 @@
         "category": "খবর"
     },
     {
+        "title": "ব্ল্যাকহোল কি সত্যিই দুই ভাগে বিভক্ত হতে পারে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/76ewts4o\/black-holes-split-apart-merger.webp",
+        "source": "Prothom Alo",
+        "time": "2026-11-06 03:00:00",
+        "newsUrl": "https:\/\/www.bigganchinta.com\/space\/8eumpk1vib",
+        "category": "space"
+    },
+    {
         "title": "নজরুলবর্ষ উপলক্ষে চিত্রাঙ্কন প্রতিযোগিতা ও পুরস্কার বিতরণ",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/6wogyxvr\/sirajganj-bs-art1.jpeg",
         "source": "Prothom Alo",
@@ -165,6 +189,14 @@
         "source": "Prothom Alo",
         "time": "2026-11-06 03:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/9t6jldhh9s",
+        "category": "bangladesh"
+    },
+    {
+        "title": "বাংলাদেশের যে গ্রামে তৈরি হয় শতকোটি ভিউয়ের ভিডিও",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/iwp78m84\/WEB.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-06 03:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/olv443zrej",
         "category": "bangladesh"
     },
     {
@@ -182,22 +214,6 @@
         "time": "2026-11-06 03:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/religion\/islam\/mc2o8b2xd4",
         "category": "ইসলাম"
-    },
-    {
-        "title": "বাংলাদেশের যে গ্রামে তৈরি হয় শতকোটি ভিউয়ের ভিডিও",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/iwp78m84\/WEB.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-06 03:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/olv443zrej",
-        "category": "bangladesh"
-    },
-    {
-        "title": "ব্ল্যাকহোল কি সত্যিই দুই ভাগে বিভক্ত হতে পারে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/76ewts4o\/black-holes-split-apart-merger.webp",
-        "source": "Prothom Alo",
-        "time": "2026-11-06 03:00:00",
-        "newsUrl": "https:\/\/www.bigganchinta.com\/space\/8eumpk1vib",
-        "category": "space"
     },
     {
         "title": "বাংলাদেশের যে গ্রামে তৈরি হয় শতকোটি ভিউয়ের ভিডিও",
@@ -256,6 +272,14 @@
         "category": "বাংলাদেশ"
     },
     {
+        "title": "মৌখিক সভ্যতার প্রত্যাবর্তন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/lyok8noo\/WhatsApp-Image-2026-11-05-at-8.40.00-PM.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-11-06 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/onnoalo\/treatise\/he68vvuobb",
+        "category": "treatise"
+    },
+    {
         "title": "মানুষের মতো বক্সিং, মার্শাল আর্ট, টেবিল টেনিস খেলছে রোবট!",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/2g4rlqrc\/web.jpg",
         "source": "Prothom Alo",
@@ -280,20 +304,36 @@
         "category": "bangladesh"
     },
     {
-        "title": "মৌখিক সভ্যতার প্রত্যাবর্তন",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/lyok8noo\/WhatsApp-Image-2026-11-05-at-8.40.00-PM.jpeg",
-        "source": "Prothom Alo",
-        "time": "2026-11-06 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/onnoalo\/treatise\/he68vvuobb",
-        "category": "treatise"
-    },
-    {
         "title": "হেমন্তের শেষ রোদ্দুরে সাদিয়ার সালোয়ার-কামিজ লুক",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/gjvdqn4n\/890716937185755305160740265279483911089300454n.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-06 02:00:00",
         "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/mdg6q1uvtt",
         "category": "লুক"
+    },
+    {
+        "title": "বাঁশি যার যার, বাঁশ সবার",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-01\/5zkiza6f\/01.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-06 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/zzqd4843al",
+        "category": "রস+আলো"
+    },
+    {
+        "title": "মানুষের মতো বক্সিং, মার্শাল আর্ট, টেবিল টেনিস খেলছে রোবট!",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/2g4rlqrc\/web.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-06 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/m13y747leg",
+        "category": "International"
+    },
+    {
+        "title": "রাহুল গান্ধী কি প্রধানমন্ত্রী হওয়ার জন্য মরিয়া হয়ে উঠেছেন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-02-18\/4m4ornmi\/rahulgandhiafp.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-06 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/3kn72pqztr",
+        "category": "কলাম"
     },
     {
         "title": "রোনালদো থাকবেন ওখানেই",
@@ -318,30 +358,6 @@
         "time": "2026-11-06 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/lxqwfuse7f",
         "category": "জেলা"
-    },
-    {
-        "title": "মানুষের মতো বক্সিং, মার্শাল আর্ট, টেবিল টেনিস খেলছে রোবট!",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/2g4rlqrc\/web.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-06 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/m13y747leg",
-        "category": "International"
-    },
-    {
-        "title": "বাঁশি যার যার, বাঁশ সবার",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-01\/5zkiza6f\/01.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-06 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/zzqd4843al",
-        "category": "রস+আলো"
-    },
-    {
-        "title": "রাহুল গান্ধী কি প্রধানমন্ত্রী হওয়ার জন্য মরিয়া হয়ে উঠেছেন",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-02-18\/4m4ornmi\/rahulgandhiafp.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-06 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/3kn72pqztr",
-        "category": "কলাম"
     },
     {
         "title": "বিনা রক্তপাতে যুক্তরাষ্ট্রে ‘রেজিম চেঞ্জ’ ",
