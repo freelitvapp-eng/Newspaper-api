@@ -1,11 +1,27 @@
 [
     {
+        "title": "সকালেই পড়ুন আলোচিত ৫ খবর",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/9wa82r7u\/Live-Vidoe-1.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-07 03:32:29",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/thpbtgans0",
+        "category": "বাংলাদেশ"
+    },
+    {
         "title": "নারী ক্রিকেটারদের পূর্ণ বেতনসহ মাতৃত্বকালীন ছুটি দিতে যাচ্ছে বিসিবি",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/11\/07\/ad822847c3ef6d50e90b207c89a72a06-6aee9b7dde1dd.jpg?jadewits_media_id=321247",
         "source": "Ittefaq",
         "time": "2026-11-07 03:31:33",
         "newsUrl": "https:\/\/www.ittefaq.com.bd\/819489\/%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%AC%E0%A7%87%E0%A6%A4%E0%A6%A8%E0%A6%B8%E0%A6%B9-%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A8-%E0%A6%9B%E0%A7%81%E0%A6%9F%E0%A6%BF",
         "category": "খেলা"
+    },
+    {
+        "title": "দুই এসএমই কোম্পানির ১৭ কোটি টাকা কোথায় খরচ, তদন্তে নেমেছে বিএসইসি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2022-05\/7a54c5a0-9031-40d7-ab6e-ab85f9aa4445\/bsec_bhaban.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-07 03:30:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/business\/market\/d2qbzpgr1c",
+        "category": "শেয়ারবাজার"
     },
     {
         "title": "হোয়াইট হাউসের চিফ অব স্টাফ হিসেবে নিয়োগ পেলেন স্টিফেন মিলার",
@@ -16,12 +32,36 @@
         "category": "বিশ্ব সংবাদ"
     },
     {
+        "title": "টেস্ট ক্রিকেট ছেড়েই দিলেন শামি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2024-08-09\/k89eqp7t\/shami1.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-07 03:25:07",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/penaq1uuxi",
+        "category": "ক্রিকেট"
+    },
+    {
+        "title": "ইরানের পারমাণবিক কর্মসূচির তথ্য দিলে ২ কোটি ডলার পুরস্কার ঘোষণা যুক্তরাষ্ট্রের",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-07\/58gwfnil\/nuclear-program.avif",
+        "source": "Prothom Alo",
+        "time": "2026-11-07 03:20:13",
+        "newsUrl": "https:\/\/www.prothomalo.com\/world\/middle-east\/dsi3wia1jn",
+        "category": "মধ্যপ্রাচ্য"
+    },
+    {
         "title": "মহাকাশ বিজ্ঞান নিয়ে কোরআনের বিস্ময়কর তথ্য",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/11\/07\/13f591a0ac8e2d68180c11ee17ae35c0-6aee984d7b973.jpg?jadewits_media_id=321245",
         "source": "Ittefaq",
         "time": "2026-11-07 03:18:21",
         "newsUrl": "https:\/\/www.ittefaq.com.bd\/819485\/%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%86%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%9F%E0%A6%95%E0%A6%B0-%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF",
         "category": "ধর্ম"
+    },
+    {
+        "title": "হাত পাতবেন না বকুল আলী",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/qkp9crvz\/IMG7807.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-11-07 03:17:48",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/eftp2cwu7a",
+        "category": "বাংলাদেশ"
     },
     {
         "title": "সমন্বিত কার্যক্রম এবং আইনপ্রয়োগ জরুরি",
@@ -88,14 +128,6 @@
         "category": "bangladesh"
     },
     {
-        "title": "ঋণ করে গড়লেন নারী ফুটবল একাডেমি, জাতীয় পর্যায়ে খেলছেন অনেকে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/wehlhy7r\/WhatsApp-Image-2026-11-06-at-6.07.36-PM.jpeg",
-        "source": "Prothom Alo",
-        "time": "2026-11-07 03:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/s9b2g7a05n",
-        "category": "জেলা"
-    },
-    {
         "title": "একটি ক্রিকেট ম্যাচ, দুটি সিনেমা: সৌরভ যখন আদালতে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/7r19krxt\/834122768186379628410299907174793675448869059n.jpg",
         "source": "Prothom Alo",
@@ -110,6 +142,14 @@
         "time": "2026-11-07 03:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/ttm02sd45w",
         "category": "bangladesh"
+    },
+    {
+        "title": "ঋণ করে গড়লেন নারী ফুটবল একাডেমি, জাতীয় পর্যায়ে খেলছেন অনেকে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/wehlhy7r\/WhatsApp-Image-2026-11-06-at-6.07.36-PM.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-11-07 03:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/s9b2g7a05n",
+        "category": "জেলা"
     },
     {
         "title": "খিলগাঁও আনসার সদর দপ্তরের ভেতরে ককটেল বিস্ফোরণ",
@@ -224,38 +264,6 @@
         "category": "bangladesh"
     },
     {
-        "title": "রহস্যময় প্রেমিককে নিয়ে পার্টিতে হাজির মালাইকা, কে এই হর্ষ মেহতা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/59x29m7n\/jqvge2qsgg625x30006November26.webp",
-        "source": "Prothom Alo",
-        "time": "2026-11-07 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/38g6sduz7l",
-        "category": "বিনোদন"
-    },
-    {
-        "title": "‘ইনশাআল্লাহ’ থেকে ‘আলহামদুলিল্লাহ’: আল-সাইদের এই উত্থান কীভাবে?",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/ewhxktq6\/midtermelection.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-07 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/gb8w4skrxs",
-        "category": "কলাম"
-    },
-    {
-        "title": "অযত্ন ও অবহেলায় জৌলুশ হারিয়ে ঘাস–পাতায় ছেয়ে গেছে নকিপুর জমিদারবাড়ি",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/zrbm7b08\/Nakipur-1.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-07 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/y7ye76r92m",
-        "category": "জেলা"
-    },
-    {
-        "title": "লবণাক্ততা ও অনাবৃষ্টিতে নষ্ট হচ্ছে নোয়াখালীর আমনের খেত",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/2a0fjdi8\/WEB.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-07 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/rp8wn8f075",
-        "category": "bangladesh"
-    },
-    {
         "title": "ট্রাম্পের ভরাডুবিতে এবার কি ইরান যুদ্ধ থামবে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/gr03o5wq\/trump-mid-term-01.jpg",
         "source": "Prothom Alo",
@@ -278,6 +286,38 @@
         "time": "2026-11-07 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/vbmlm80aej",
         "category": "ক্রিকেট"
+    },
+    {
+        "title": "রহস্যময় প্রেমিককে নিয়ে পার্টিতে হাজির মালাইকা, কে এই হর্ষ মেহতা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/59x29m7n\/jqvge2qsgg625x30006November26.webp",
+        "source": "Prothom Alo",
+        "time": "2026-11-07 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/38g6sduz7l",
+        "category": "বিনোদন"
+    },
+    {
+        "title": "অযত্ন ও অবহেলায় জৌলুশ হারিয়ে ঘাস–পাতায় ছেয়ে গেছে নকিপুর জমিদারবাড়ি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/zrbm7b08\/Nakipur-1.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-07 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/y7ye76r92m",
+        "category": "জেলা"
+    },
+    {
+        "title": "লবণাক্ততা ও অনাবৃষ্টিতে নষ্ট হচ্ছে নোয়াখালীর আমনের খেত",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/2a0fjdi8\/WEB.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-07 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/rp8wn8f075",
+        "category": "bangladesh"
+    },
+    {
+        "title": "‘ইনশাআল্লাহ’ থেকে ‘আলহামদুলিল্লাহ’: আল-সাইদের এই উত্থান কীভাবে?",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/ewhxktq6\/midtermelection.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-07 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/gb8w4skrxs",
+        "category": "কলাম"
     },
     {
         "title": "সরে যেতে পারেন ট্রাম্পের কয়েক মন্ত্রী",
@@ -328,20 +368,20 @@
         "category": "physics"
     },
     {
-        "title": "বড়শি দিয়ে মাছ ধরতে পারলে মিলবে স্কলারশিপ ও লাখ টাকার পুরস্কার",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/qwi116bx\/789.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-07 01:00:00",
-        "newsUrl": "https:\/\/www.kishoralo.com\/feature\/86yubydvmv",
-        "category": "feature"
-    },
-    {
         "title": "৭ ব্যান্ডের ৭ ঘণ্টার কনসার্ট আজ",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/lwyixdrz\/86183411826876570883621148500792965680221103n.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-07 01:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/song\/ukct001hqs",
         "category": "গান"
+    },
+    {
+        "title": "বড়শি দিয়ে মাছ ধরতে পারলে মিলবে স্কলারশিপ ও লাখ টাকার পুরস্কার",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/qwi116bx\/789.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-07 01:00:00",
+        "newsUrl": "https:\/\/www.kishoralo.com\/feature\/86yubydvmv",
+        "category": "feature"
     },
     {
         "title": "তিশা–অথৈর কেউই মানেননি প্রস্তাব, শেষ পর্যন্ত কঠোর সিদ্ধান্ত",
@@ -358,5 +398,13 @@
         "time": "2026-11-06 16:37:47",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/9lng1mhdfz",
         "category": "জেলা"
+    },
+    {
+        "title": "সিলেট টেস্ট: ৩ উইকেটে ৮৮ রান নিয়ে তৃতীয় দিন শুরু করল বাংলাদেশ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/9pj53bv0\/DSC6813.JPG",
+        "source": "Prothom Alo",
+        "time": "2026-11-05 03:07:01",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/eulc1zj1os",
+        "category": "ক্রিকেট"
     }
 ]
