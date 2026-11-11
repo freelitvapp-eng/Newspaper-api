@@ -1,5 +1,37 @@
 [
     {
+        "title": "এটা গণতন্ত্র ও সামাজিক সম্প্রীতির পরিপন্থী",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2020-10\/1029114c-37fd-4c36-a816-595983984828\/editorial_5.png",
+        "source": "Prothom Alo",
+        "time": "2026-11-11 03:37:04",
+        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/editorial\/jsn5zh9w39",
+        "category": "সম্পাদকীয়"
+    },
+    {
+        "title": "সকালেই পড়ুন আলোচিত ৫ খবর",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2022-11\/038c380f-d321-4fc0-8c5a-9c098149b652\/a72ed02c-2824-4990-a7e2-e21dd136e1f2.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-11 03:34:42",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/grdv5toiwd",
+        "category": "বাংলাদেশ"
+    },
+    {
+        "title": "হামজার আশা, হামজার বিশ্বাস",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-10\/3mx1sjo0\/ff520ed1-c2a4-4045-afed-67d33429bf2e.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-11 03:30:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/football\/6c9jl584ow",
+        "category": "ফুটবল"
+    },
+    {
+        "title": "ময়মনসিংহের যে হাসপাতালে বহুমুখী সংকট",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-11\/cxukg3vo\/Capture.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-11 03:26:42",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/co8p4yqr24",
+        "category": "জেলা"
+    },
+    {
         "title": "বাংলাদেশি টিকটকারের ভিডিও ঘিরে বিতর্ক, গ্রিস থেকে ফেরত পাঠানো হলো ৫০ অভিবাসীকে",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/11\/11\/f066cd6dff65c2efeb2fe02017adff4f-6af3ddd55c1bf.jpg?jadewits_media_id=322055",
         "source": "Ittefaq",
@@ -88,14 +120,6 @@
         "category": "monobondu"
     },
     {
-        "title": "বাবার কাছে ৪ বছরের মাইমুনার প্রশ্ন, ‘মাকে ছাড়াই কি আমাকে থাকতে হবে’",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-10\/0welk5gr\/Untitled-9.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-11 03:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/pkl53b1uf1",
-        "category": "জেলা"
-    },
-    {
         "title": "শিশুশিল্পীর ইমেজ ভেঙে আকর্ষণীয় ডিভা হয়ে ওঠা কি সত্যিই কঠিন? দেখুন ১০টি ছবি ",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-11\/5bmd4ran\/dighi643.jpg",
         "source": "Prothom Alo",
@@ -126,6 +150,14 @@
         "time": "2026-11-11 03:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/8tqvoyswym",
         "category": "ক্রিকেট"
+    },
+    {
+        "title": "বাবার কাছে ৪ বছরের মাইমুনার প্রশ্ন, ‘মাকে ছাড়াই কি আমাকে থাকতে হবে’",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-10\/0welk5gr\/Untitled-9.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-11 03:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/pkl53b1uf1",
+        "category": "জেলা"
     },
     {
         "title": "হাসিবের ওপর হামলা: ছাত্রলীগ নেতা হাবিবসহ ১৫ জনের বিরুদ্ধে মামলা",
