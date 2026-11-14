@@ -40,6 +40,22 @@
         "category": "বিশ্ব সংবাদ"
     },
     {
+        "title": "খাবারেই সচেতনতা, ডায়াবেটিসে সুস্থতা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-13\/xokf1g1y\/Untitled-1.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-14 06:40:30",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/bfmuc9ib8o",
+        "category": "বাংলাদেশ"
+    },
+    {
+        "title": "গৃহায়ণ ও গণপূর্ত মন্ত্রণালয়ের অধীন হাউজিং অ্যান্ড বিল্ডিং রিসার্চ ইনস্টিটিউট",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2020-12\/614f1f56-0436-44d5-bd9e-5fdd0cbcf173\/451c7e8d-3819-4f50-80df-9f0604330e9b.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-14 06:38:18",
+        "newsUrl": "https:\/\/www.prothomalo.com\/chakri\/employment\/x8erulqvz1",
+        "category": "নিয়োগ"
+    },
+    {
         "title": "খুলনায় সন্ত্রাস-চাঁদাবাজ দমনে বিশেষ সাঁড়াশি যৌথ অভিযানের সিদ্ধান্ত",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/11\/14\/849e1aec81b94124b9747c8d57d7f83a-6af8000c71a60.jpg?jadewits_media_id=322696",
         "source": "Ittefaq",
@@ -512,14 +528,6 @@
         "category": "জেলা"
     },
     {
-        "title": "দীর্ঘসূত্রতা দূর করে দ্রুত চালু করুন",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2020-10\/1d63e6da-a8a2-4b30-a01c-0443c6229cd7\/editorial_3.png",
-        "source": "Prothom Alo",
-        "time": "2026-11-14 02:43:56",
-        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/editorial\/sx6659pnhl",
-        "category": "সম্পাদকীয়"
-    },
-    {
         "title": "২০২৭ শিক্ষাবর্ষে সরকারি-বেসরকারি স্কুলে ভর্তি, সরকারের যত নির্দেশনা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo\/import\/media\/2014\/12\/20\/03dc607468d7caeed241661ff71865a3-21.jpg",
         "source": "Prothom Alo",
@@ -584,11 +592,43 @@
         "category": "বাণিজ্য"
     },
     {
+        "title": "গোবর ছুড়ে ৩০০ বছরের অদ্ভুত দীপাবলি উৎসব!",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-12\/lkz011l9\/India-Cowdung.00025800.Still002.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-12 06:35:52",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/k4w4mqgou9",
+        "category": "International"
+    },
+    {
         "title": "২০০০ সাল থেকে ব্যালন ডি’অরজয়ী ফুটবলারদের তালিকা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-06\/5al3ida5\/WEB.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-07 05:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/video\/sports\/jqjr526h6r",
         "category": "Sports"
+    },
+    {
+        "title": "বাংলাদেশের যে গ্রামে তৈরি হয় শতকোটি ভিউয়ের ভিডিও",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/iwp78m84\/WEB.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-06 03:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/z37dwqwnef",
+        "category": "bangladesh"
+    },
+    {
+        "title": "যে প্রতিশ্রুতি দিয়ে যাত্রা শুরু প্রথম আলোর, তা ছাড়িয়ে গেছে: ম তামিম",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-05\/r1jjxsoy\/WEB.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-05 16:33:02",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/7pczpsgs7j",
+        "category": "bangladesh"
+    },
+    {
+        "title": "গাছ লাগানোই তাঁর নেশা, আশি পেরিয়েও থামেননি ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-04\/kvtakbnk\/WEB.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-05 04:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/y44y61nj8j",
+        "category": "bangladesh"
     }
 ]
