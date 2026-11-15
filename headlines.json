@@ -16,6 +16,14 @@
         "category": "খেলা"
     },
     {
+        "title": "উইন্ডোজ ১১ ব্যবহারের কিছু শর্টকাট",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-15\/0o3jixed\/Windows-11.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-15 07:45:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/otczgbc2e2",
+        "category": "প্রযুক্তি"
+    },
+    {
         "title": "শেখ হাসিনা দেশে ফিরলে তার দণ্ড কার্যকর হবে: রিজভী",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/11\/15\/d6a2c5330222ea3cc51a8fda94c608b2-6af9604e01e13.jpg?jadewits_media_id=322886",
         "source": "Ittefaq",
@@ -40,7 +48,7 @@
         "category": "বিশ্ব চলচ্চিত্র"
     },
     {
-        "title": "বাংলাদেশ–দক্ষিণ আফ্রিকা: টসে জিতে ব্যাটিংয়ে বাংলাদেশ",
+        "title": "বাংলাদেশ–দক্ষিণ আফ্রিকা: টসে জিতে ব্যাটিংয়ে বাংলাদেশ, মাহফিজুলের অভিষেক",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-15\/668msfzn\/OMT9245.JPG",
         "source": "Prothom Alo",
         "time": "2026-11-15 07:26:43",
@@ -73,7 +81,7 @@
     },
     {
         "title": "জাহাজভাঙায় বর্জ্য নিয়ন্ত্রণের বৈশ্বিক চুক্তি থেকে সরে আসছে বাংলাদেশ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-07-28\/l48iqwd9\/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%95%E0%A7%80-%E0%A6%9B%E0%A6%AC%E0%A6%BF",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-15\/abxqykpw\/WhatsApp-Image-2026-11-15-at-1.42.53-PM.jpeg",
         "source": "Prothom Alo",
         "time": "2026-11-15 07:18:31",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/vxwi8v8nky",
@@ -504,14 +512,6 @@
         "category": "জেলা"
     },
     {
-        "title": "পানি ছাড়া গরুর মাংস রান্না, বিক্রি হচ্ছে কেজি ৮৫০ টাকায়",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-14\/m0f85f39\/WEB.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-15 04:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/1dfbpqehiv",
-        "category": "bangladesh"
-    },
-    {
         "title": "কোন কাজে কোন এআই টুল ব্যবহার করবেন",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-14\/e3i2z9j6\/040A2887.jpg",
         "source": "Prothom Alo",
@@ -536,12 +536,12 @@
         "category": "রস+আলো"
     },
     {
-        "title": "শেষ মোগল সম্রাট",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-14\/vfiqmjgj\/Onnoalo-2.jpg",
+        "title": "পানি ছাড়া গরুর মাংস রান্না, বিক্রি হচ্ছে কেজি ৮৫০ টাকায়",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-14\/m0f85f39\/WEB.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-15 04:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/onnoalo\/treatise\/gfcr79i14t",
-        "category": "treatise"
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/1dfbpqehiv",
+        "category": "bangladesh"
     },
     {
         "title": "বাসায় বাথরুম, অফিসে ওয়াশরুম, জায়গা অনুযায়ী বাথরুমের নাম ভিন্ন কেন",
@@ -558,6 +558,14 @@
         "time": "2026-11-15 04:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/8yr8fgz72c",
         "category": "bangladesh"
+    },
+    {
+        "title": "শেষ মোগল সম্রাট",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-14\/vfiqmjgj\/Onnoalo-2.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-15 04:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/onnoalo\/treatise\/gfcr79i14t",
+        "category": "treatise"
     },
     {
         "title": "স্ত্রী–সন্তানের নামে ফ্ল্যাট–প্লট কিনলে আয়কর রিটার্নে দেখাবেন কীভাবে",
@@ -608,20 +616,20 @@
         "category": "সাইবারজগত"
     },
     {
-        "title": "ছয় খুন, ২৮ দিনের আতঙ্ক এবং এক ‘ভুতুড়ে’ বাড়ির জন্ম",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-14\/moyrnxug\/House.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-15 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/usa\/86j0bzo0s4",
-        "category": "যুক্তরাষ্ট্র"
-    },
-    {
         "title": "জলাশয় ঘিরে পাখিদের খাবারের খোঁজ",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-14\/43f69fgb\/1.-Rangamati-naturebirds15112026.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-15 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/kapsy7md2z",
         "category": "bangladesh"
+    },
+    {
+        "title": "ছয় খুন, ২৮ দিনের আতঙ্ক এবং এক ‘ভুতুড়ে’ বাড়ির জন্ম",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-14\/moyrnxug\/House.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-15 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/world\/usa\/86j0bzo0s4",
+        "category": "যুক্তরাষ্ট্র"
     },
     {
         "title": "বৈরালি মাছ নিয়ে তিস্তাপাড়ের ৯৮ বছরের দৌলত খাঁ",
@@ -648,7 +656,7 @@
         "category": "যুক্তরাষ্ট্র"
     },
     {
-        "title": "আইএইচটি ও ম্যাটসে ভর্তি পরীক্ষার ফল প্রকাশ",
+        "title": "আইএইচটি ও ম্যাটসে ভর্তি পরীক্ষার ফল প্রকাশ, ৪২৮৩ প্রার্থী প্রাথমিকভাবে নির্বাচিত",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2021-12\/10ae7556-5a1d-471c-9248-48f4ca10274a\/Mymensingh_DH0771_20211230_Mymensingh_Ruselt_PIC__1_.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-14 15:19:42",
@@ -661,14 +669,6 @@
         "source": "Prothom Alo",
         "time": "2026-05-04 02:00:00",
         "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/5s5wr6mj46",
-        "category": "লুক"
-    },
-    {
-        "title": "সিনেমায় আসতে কত দেরি, সুন্দরী? আকর্ষণীয় সব লুকে বলিউড পার্টিতে নজর কাড়ছেন এই স্টারকিড",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2025-10-24\/ewqqfjzu\/nysa1.jpg",
-        "source": "Prothom Alo",
-        "time": "2025-10-25 04:00:00",
-        "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/6a4kh9yvzr",
         "category": "লুক"
     },
     {
