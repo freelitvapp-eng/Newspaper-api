@@ -1,5 +1,21 @@
 [
     {
+        "title": "পঞ্চগড়ে জেঁকে বসছে শীত, এক দিনের ব্যবধানে তাপমাত্রা নেমেছে ১২.৫ ডিগ্রিতে",
+        "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/11\/19\/892c7de0e14f7aba1c330295c2e5071a-6afe5d61c3786.png?jadewits_media_id=323635",
+        "source": "Ittefaq",
+        "time": "2026-11-19 02:23:05",
+        "newsUrl": "https:\/\/www.ittefaq.com.bd\/821808\/%E0%A6%AA%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%97%E0%A7%9C%E0%A7%87-%E0%A6%9C%E0%A7%87%E0%A6%81%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A6%9B%E0%A7%87-%E0%A6%B6%E0%A7%80%E0%A6%A4-%E0%A6%8F%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87",
+        "category": "সারাদেশ"
+    },
+    {
+        "title": "লাইট পিঙ্ক থেকে শকিং পিঙ্ক—মিস ইউনিভার্সে মাহির ৮টি গোলাপি লুক",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-18\/o7spsgjf\/1.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-19 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/fashion\/qzcwu20ell",
+        "category": "ফ্যাশন"
+    },
+    {
         "title": "কম্পিউটার বাজারে আরজিবি র‍্যামের দাম বেড়েছে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-18\/sz1j5x99\/Computer-Bazar.Palo.jpeg",
         "source": "Prothom Alo",
@@ -14,14 +30,6 @@
         "time": "2026-11-19 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/ur8da38jcg",
         "category": "bangladesh"
-    },
-    {
-        "title": "লাইট পিঙ্ক থেকে শকিং পিঙ্ক—মিস ইউনিভার্সে মাহির ৮টি গোলাপি লুক",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-18\/o7spsgjf\/1.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-19 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/fashion\/qzcwu20ell",
-        "category": "ফ্যাশন"
     },
     {
         "title": "রস চিঠি",
@@ -80,28 +88,20 @@
         "category": "জাতীয়"
     },
     {
-        "title": "আকাশচুম্বী ভবনে মানুষের ভয় কাটানোর উপায় কী",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-18\/o38vrj10\/prothomalo-bangla2026-08-18uvq9a25w00.avif",
-        "source": "Prothom Alo",
-        "time": "2026-11-19 01:00:00",
-        "newsUrl": "https:\/\/www.bigganchinta.com\/cause\/gfelv7otex",
-        "category": "cause"
-    },
-    {
-        "title": "একের পর এক সিনেমা ফ্লপ, অভিনয় ছাড়ার কথা ভাবছেন লোপেজ ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-07-19\/qp4vi8mb\/jennifer_lopez_silvery_outfit_reuters.webp",
-        "source": "Prothom Alo",
-        "time": "2026-11-19 01:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/hollywood\/jtsxfdgehq",
-        "category": "হলিউড"
-    },
-    {
         "title": "আজ টিভিতে যা দেখবেন (১৯ নভেম্বর ২০২৬)",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-18\/bstm28hq\/WhatsApp-Image-2025-09-07-at-18.46.345cffd0da.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-19 01:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/sports\/yjianscqy2",
         "category": "খেলা"
+    },
+    {
+        "title": "আকাশচুম্বী ভবনে মানুষের ভয় কাটানোর উপায় কী",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-18\/o38vrj10\/prothomalo-bangla2026-08-18uvq9a25w00.avif",
+        "source": "Prothom Alo",
+        "time": "2026-11-19 01:00:00",
+        "newsUrl": "https:\/\/www.bigganchinta.com\/cause\/gfelv7otex",
+        "category": "cause"
     },
     {
         "title": "ব্রহ্মপুত্রের তীরে প্রাচীন বাণিজ্যকেন্দ্র দত্তের বাজার",
@@ -118,6 +118,14 @@
         "time": "2026-11-19 01:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/fun\/rw0920chx0",
         "category": "রস+আলো"
+    },
+    {
+        "title": "একের পর এক সিনেমা ফ্লপ, অভিনয় ছাড়ার কথা ভাবছেন লোপেজ ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-07-19\/qp4vi8mb\/jennifer_lopez_silvery_outfit_reuters.webp",
+        "source": "Prothom Alo",
+        "time": "2026-11-19 01:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/hollywood\/jtsxfdgehq",
+        "category": "হলিউড"
     },
     {
         "title": "ব্রহ্মপুত্রের তীরে প্রাচীন বাণিজ্যকেন্দ্র দত্তের বাজার",
@@ -206,13 +214,5 @@
         "time": "2026-11-18 21:23:45",
         "newsUrl": "https:\/\/www.ittefaq.com.bd\/821805\/%E2%80%98%E0%A6%86%E0%A6%B2%E0%A7%8B-%E0%A6%86%E0%A6%B8%E0%A6%AC%E0%A7%87%E0%A6%87%E2%80%99-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%A4%E0%A6%BF",
         "category": "বিনোদন"
-    },
-    {
-        "title": "চাঁদপুরে দীপু মনি ও সুজিত রায় নন্দীর বাসভবনে অগ্নিকাণ্ড",
-        "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/11\/19\/3aeca6fc32109d9199f3f8a9f4937356-6afe08058c489.jpg?jadewits_media_id=323625",
-        "source": "Ittefaq",
-        "time": "2026-11-18 20:59:00",
-        "newsUrl": "https:\/\/www.ittefaq.com.bd\/821797\/%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A7%81-%E0%A6%AE%E0%A6%A8%E0%A6%BF-%E0%A6%93-%E0%A6%B8%E0%A7%81%E0%A6%9C%E0%A6%BF%E0%A6%A4-%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%AD%E0%A6%AC%E0%A6%A8%E0%A7%87",
-        "category": "সারাদেশ"
     }
 ]
