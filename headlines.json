@@ -40,12 +40,36 @@
         "category": "রাজনীতি"
     },
     {
+        "title": "বাড়ির উঠানে বসে ফোনে মেয়ের সঙ্গে কথা বলছিলেন, মাথায় আঘাত করে বৃদ্ধার গয়না ছিনতাই",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/hn99gj2y\/MadaripurMurder.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-20 11:09:34",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/2etu70ii86",
+        "category": "জেলা"
+    },
+    {
+        "title": "‘ছেলের লাশ কাঁধে নিতে হলো, আমি এক হতভাগ্য বাবা’",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/rme6rbsk\/Tahmidul.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-20 11:02:58",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/4sjli7arl2",
+        "category": "জেলা"
+    },
+    {
         "title": "রোহিঙ্গা গণহত্যার দায়ে আইসিজের রায়কে ‘অন্যায়’ বললো মিয়ানমার",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/11\/20\/89a659d09be397636871ddaea5f53856-6b002754e82d8.jpg?jadewits_media_id=323901",
         "source": "Ittefaq",
         "time": "2026-11-20 11:00:21",
         "newsUrl": "https:\/\/www.ittefaq.com.bd\/822063\/%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%97%E0%A6%A3%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A6%95%E0%A7%87-%E2%80%98%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F%E2%80%99-%E0%A6%AC%E0%A6%B2%E0%A6%B2%E0%A7%8B",
         "category": "বিশ্ব সংবাদ"
+    },
+    {
+        "title": "মোহাম্মদ নাসিরউদ্দীন: প্রবাদপ্রতিম সাময়িকপত্রসেবী",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/3hk5gapv\/Onnoalo.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-20 11:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/onnoalo\/treatise\/5u8jgcb1oz",
+        "category": "treatise"
     },
     {
         "title": "ডার্ক ম্যাটারের জন্য পর্যায় সারণি তৈরির প্রস্তাব দিলেন বিজ্ঞানীরা",
@@ -520,14 +544,6 @@
         "category": "বাংলাদেশ"
     },
     {
-        "title": "তানজিনা হোসেনের গল্প—ট্রানজিট",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-19\/kiwrebjw\/12.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-20 07:00:00",
-        "newsUrl": "https:\/\/www.kishoralo.com\/golpo\/u5l7h5s98m",
-        "category": "golpo"
-    },
-    {
         "title": "৫০টি বিশ্ববিদ্যালয়কে নিয়ে ইস্পাহানি-প্রথম আলো ফুটবল",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-19\/wknpy8xk\/P-Alo-Inter-University-FootballTanvir191126-16.jpg",
         "source": "Prothom Alo",
@@ -542,5 +558,13 @@
         "time": "2026-11-19 01:45:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/21wlp7c2a6",
         "category": "ক্রিকেট"
+    },
+    {
+        "title": "এক দিনে কেন ২৪ ঘণ্টা, এক ঘণ্টায় কেন ৬০ মিনিট",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-02-24\/88njqs7n\/ChatGPT-Image-Feb-24-2026-080703-PM.png",
+        "source": "Prothom Alo",
+        "time": "2026-02-25 01:00:00",
+        "newsUrl": "https:\/\/www.bigganchinta.com\/space\/4p7i7mbs2c",
+        "category": "space"
     }
 ]
