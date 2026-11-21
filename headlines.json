@@ -224,14 +224,6 @@
         "category": "খবর"
     },
     {
-        "title": "বন্য হাতির দল পাহাড় ছেড়ে সমতলে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/7yckwir5\/01.JPG",
-        "source": "Prothom Alo",
-        "time": "2026-11-21 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/o9ka1665v6",
-        "category": "bangladesh"
-    },
-    {
         "title": "বন্ড–গার্ল হিসেবে আলোচনায়, কে এই জং হো-ইয়ন",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/iatzplu4\/jung-hoyeon-should-be-the-next-bond-girl-v0-vubhnh9loh2i1.webp",
         "source": "Prothom Alo",
@@ -256,6 +248,14 @@
         "category": "ইসলাম"
     },
     {
+        "title": "বন্য হাতির দল পাহাড় ছেড়ে সমতলে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/7yckwir5\/01.JPG",
+        "source": "Prothom Alo",
+        "time": "2026-11-21 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/o9ka1665v6",
+        "category": "bangladesh"
+    },
+    {
         "title": "ফুটবলে দেশসেরা জোড়গাছার মেয়েদের স্বপ্নের পথে অভাবের বাধা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/ebw9lkux\/pabnadh060720261120bera-jorgachha-school-1.jpg",
         "source": "Prothom Alo",
@@ -270,6 +270,22 @@
         "time": "2026-11-21 02:00:00",
         "newsUrl": "https:\/\/www.haal.fashion\/celeb\/style\/dp2oxilwfo",
         "category": "স্টাইল"
+    },
+    {
+        "title": "আলভেস এখন ধর্মপ্রচারক: কোটি টাকার জীবন পেছনে ফেলে সুখ খুঁজছেন মাত্র ১১৩ ইউরোতে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/00hfby7n\/WhatsApp-Image-2026-11-20-at-5.22.52-PM-1.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-11-21 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/football\/x1rpzpru35",
+        "category": "ফুটবল"
+    },
+    {
+        "title": "নতুন বিশ্বযুদ্ধ কড়া নাড়ছে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-18\/0pw1r4hx\/2026-10-27T233909Z517345334RC2XBOAQ1KULRTRMADP3UKRAINE-CRISIS-ATTACK-KHARKIV.JPG.webp",
+        "source": "Prothom Alo",
+        "time": "2026-11-21 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/1jcqowmnuo",
+        "category": "কলাম"
     },
     {
         "title": "অবিবাহিতদের ক্ষেত্রে নতুন পরিচয় ভবিষ্যৎ সম্ভাবনার ইঙ্গিত দিতে পারে",
@@ -294,22 +310,6 @@
         "time": "2026-11-21 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/fun\/wmtrp87dda",
         "category": "রস+আলো"
-    },
-    {
-        "title": "নতুন বিশ্বযুদ্ধ কড়া নাড়ছে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-18\/0pw1r4hx\/2026-10-27T233909Z517345334RC2XBOAQ1KULRTRMADP3UKRAINE-CRISIS-ATTACK-KHARKIV.JPG.webp",
-        "source": "Prothom Alo",
-        "time": "2026-11-21 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/1jcqowmnuo",
-        "category": "কলাম"
-    },
-    {
-        "title": "আলভেস এখন ধর্মপ্রচারক: কোটি টাকার জীবন পেছনে ফেলে সুখ খুঁজছেন মাত্র ১১৩ ইউরোতে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/00hfby7n\/WhatsApp-Image-2026-11-20-at-5.22.52-PM-1.jpeg",
-        "source": "Prothom Alo",
-        "time": "2026-11-21 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/football\/x1rpzpru35",
-        "category": "ফুটবল"
     },
     {
         "title": "পাশের বাড়ির মানুষগুলো ছিল রুশ গুপ্তচর!",
@@ -344,20 +344,20 @@
         "category": "feature"
     },
     {
-        "title": "‘দেওয়ান গাজীর কিসসা’ নিয়ে আসলে কী ঘটেছে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/bubxb23c\/905897418288108841085382562435561398579536743n.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-21 01:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/drama\/9qz2y5f87m",
-        "category": "নাটক"
-    },
-    {
         "title": "চোরের ক্যারিয়ারের প্রমোশন!",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-19\/uxk0u95t\/chor-web.jpg.jpeg",
         "source": "Prothom Alo",
         "time": "2026-11-21 01:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/fun\/btl7145sgj",
         "category": "রস+আলো"
+    },
+    {
+        "title": "‘দেওয়ান গাজীর কিসসা’ নিয়ে আসলে কী ঘটেছে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/bubxb23c\/905897418288108841085382562435561398579536743n.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-21 01:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/drama\/9qz2y5f87m",
+        "category": "নাটক"
     },
     {
         "title": "কোয়ান্টাম জগৎ: মাপার আগ পর্যন্ত কোয়ান্টাম কণাগুলো একাধিক অবস্থায় থাকতে পারে",
