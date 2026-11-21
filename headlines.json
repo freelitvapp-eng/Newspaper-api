@@ -1,5 +1,53 @@
 [
     {
+        "title": "জাতিসংঘের ই-গভর্নমেন্ট সূচকে তিন ধাপ এগোল বাংলাদেশ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-21\/sae50iq0\/United-Nations-logo.avif",
+        "source": "Prothom Alo",
+        "time": "2026-11-21 05:53:32",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/qkum65fn0j",
+        "category": "বাংলাদেশ"
+    },
+    {
+        "title": "শেখ হাসিনার লাশ দরকার, কারণ তিনি আন্দোলন গড়ে তুলতে চান: রিজভী",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-21\/m2a67v9u\/jessoredh055220261120img-20261120-wa0065.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-21 05:52:26",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/fwq3zflzrv",
+        "category": "জেলা"
+    },
+    {
+        "title": "রাজশাহী বিশ্ববিদ্যালয়ে নিষিদ্ধ ছাত্রলীগের সাবেক নেতাকে মারধরের ঘটনায় তদন্ত কমিটি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-21\/yt9y44ja\/RU.avif",
+        "source": "Prothom Alo",
+        "time": "2026-11-21 05:51:09",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/3caz55247n",
+        "category": "জেলা"
+    },
+    {
+        "title": "ক্ষমতা ছাড়ার মুখেও কি নেতানিয়াহু আবারও ইরান যুদ্ধে পা বাড়াবেন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/nwcbstb8\/WEB-Recovered.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-21 05:47:09",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/lvws93noda",
+        "category": "International"
+    },
+    {
+        "title": "রুপপুরে রুশ–বাংলা মিশেলে বদলেছে স্থানীয়দের জীবনযাত্রা, ‘বন্ধু’ ডাকেই সাড়া দেন একে অপরে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/18a28ie7\/WEB.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-21 05:45:42",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/vkqn4ti7hp",
+        "category": "bangladesh"
+    },
+    {
+        "title": " ভাবুক সম্রাট",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-21\/8wodbmfy\/Capture.PNG",
+        "source": "Prothom Alo",
+        "time": "2026-11-21 05:45:13",
+        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/oya0y8pgck",
+        "category": "রস+আলো"
+    },
+    {
         "title": "সশস্ত্র বাহিনী দিবসে শিখা অনির্বাণে প্রধানমন্ত্রীর শ্রদ্ধা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-21\/vq56cchb\/web.jpg",
         "source": "Prothom Alo",
@@ -168,20 +216,20 @@
         "category": "রাজনীতি"
     },
     {
-        "title": "লেখার সময় এআই টুল ব্যবহার করলে চিন্তা করার ক্ষমতা কমে যায়",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/hv0fa5xc\/AI.REUTERS.png",
-        "source": "Prothom Alo",
-        "time": "2026-11-21 05:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/artificial-intelligence\/1fdcty9eye",
-        "category": "এআই"
-    },
-    {
         "title": "সার্কেল ফেস্টের প্রথম সপ্তাহে আইফোন, পিএস৫ ও স্মার্টওয়াচ জিতলেন তিন গ্রাহক",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/vbn2kks7\/CIRKLE.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-21 05:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/9tqvf7ts4m",
         "category": "বাংলাদেশ"
+    },
+    {
+        "title": "লেখার সময় এআই টুল ব্যবহার করলে চিন্তা করার ক্ষমতা কমে যায়",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/hv0fa5xc\/AI.REUTERS.png",
+        "source": "Prothom Alo",
+        "time": "2026-11-21 05:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/artificial-intelligence\/1fdcty9eye",
+        "category": "এআই"
     },
     {
         "title": "শাড়ির জমিনে রামায়ণের গল্প, কীভাবে তৈরি হয় বালুচরী?",
@@ -256,6 +304,14 @@
         "category": "পাঠক-নাগরিক"
     },
     {
+        "title": "ক্ষমতা ছাড়ার মুখেও কি নেতানিয়াহু আবারও ইরান যুদ্ধে পা বাড়াবেন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/nwcbstb8\/WEB-Recovered.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-21 04:30:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/ifb35nwksr",
+        "category": "International"
+    },
+    {
         "title": "১১ পশ্চিমা দেশের মহড়ার মধ্যে রাশিয়ার ক্ষেপণাস্ত্র–ড্রোন আছড়ে পড়ল পোল্যান্ডে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-21\/0ic0rqm5\/Polands-airspac.jfif",
         "source": "Prothom Alo",
@@ -270,14 +326,6 @@
         "time": "2026-11-21 04:30:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/pa02cyz3sx",
         "category": "জেলা"
-    },
-    {
-        "title": "ক্ষমতা ছাড়ার মুখেও কি নেতানিয়াহু আবারও ইরান যুদ্ধে পা বাড়াবেন",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/nwcbstb8\/WEB-Recovered.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-21 04:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/ifb35nwksr",
-        "category": "International"
     },
     {
         "title": "রোহিঙ্গাদের নিয়ে রায় বাস্তবায়ন করবে কে",
@@ -328,36 +376,12 @@
         "category": "ফুটবল"
     },
     {
-        "title": "অন্তত ১৩১ বার ব্যবহার না করলে টোট ব্যাগ প্লাস্টিকের চেয়েও ক্ষতিকর হতে পারে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-19\/p1596zft\/04.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-21 04:00:00",
-        "newsUrl": "https:\/\/www.kishoralo.com\/feature\/0sas68rt1l",
-        "category": "feature"
-    },
-    {
         "title": "ভিনিসিয়ুস ব্রাজিলে সুখী, রিয়ালে সেই সুখ ফিরবে কবে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/iuc7swq5\/WhatsApp-Image-2026-11-20-at-12.13.22-PM.jpeg",
         "source": "Prothom Alo",
         "time": "2026-11-21 04:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/sports\/football\/gdtik533c0",
         "category": "ফুটবল"
-    },
-    {
-        "title": "অ্যানথ্রপিকের প্রায় সব কর্মীই এখন কোটিপতি",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/4fma7maa\/anthropic.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-21 04:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/usa\/4n0k8wgzo7",
-        "category": "যুক্তরাষ্ট্র"
-    },
-    {
-        "title": "কক্সবাজারের বিজনেস আইডিয়া",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-19\/osht0kqu\/cox-web.jpg.jpeg",
-        "source": "Prothom Alo",
-        "time": "2026-11-21 04:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/nvrqnqxek5",
-        "category": "রস+আলো"
     },
     {
         "title": "দেশের টিভি সম্প্রচারের অতীত বর্তমান",
@@ -384,12 +408,36 @@
         "category": "bangladesh"
     },
     {
+        "title": "অন্তত ১৩১ বার ব্যবহার না করলে টোট ব্যাগ প্লাস্টিকের চেয়েও ক্ষতিকর হতে পারে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-19\/p1596zft\/04.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-21 04:00:00",
+        "newsUrl": "https:\/\/www.kishoralo.com\/feature\/0sas68rt1l",
+        "category": "feature"
+    },
+    {
+        "title": "কক্সবাজারের বিজনেস আইডিয়া",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-19\/osht0kqu\/cox-web.jpg.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-11-21 04:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/nvrqnqxek5",
+        "category": "রস+আলো"
+    },
+    {
         "title": "লেহেঙ্গায় আবেদন ছড়াচ্ছেন চিরহরিৎ মালাইকা",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/j8krhlz9\/hero-gold-A-vertical-780x1140.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-21 04:00:00",
         "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/3wsx7x3niu",
         "category": "লুক"
+    },
+    {
+        "title": "অ্যানথ্রপিকের প্রায় সব কর্মীই এখন কোটিপতি",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-20\/4fma7maa\/anthropic.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-21 04:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/world\/usa\/4n0k8wgzo7",
+        "category": "যুক্তরাষ্ট্র"
     },
     {
         "title": "রুপপুরে রুশ–বাংলা মিশেলে বদলেছে স্থানীয়দের জীবনযাত্রা, ‘বন্ধু’ ডাকেই সাড়া দেন একে অপরে",
@@ -646,14 +694,6 @@
         "time": "2026-11-21 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/world\/usa\/q392vro5k9",
         "category": "যুক্তরাষ্ট্র"
-    },
-    {
-        "title": "স্যরি, নিপাতনে সিদ্ধ—ঘুষ অথবা চাঁদা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2023-06\/a3ae6c5f-c20e-4532-86e2-462b6a6e132a\/92dc09d9-2115-415b-b0e6-39ae7226f82d.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-21 01:50:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/84ujpbu025",
-        "category": "কলাম"
     },
     {
         "title": "বিচার ও সত্যের জয়: জেনোসাইডে দোষী সাব্যস্ত মিয়ানমার",
