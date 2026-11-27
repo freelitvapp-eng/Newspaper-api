@@ -16,20 +16,28 @@
         "category": "খেলা"
     },
     {
-        "title": "‘ভাই তাড়াতাড়ি আয়, মা যেন কেমন করছে’, হাসপাতালে পৌঁছানোর আগেই সব শেষ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/ukiv9gsr\/00-3.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 03:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/pgdo0732et",
-        "category": "জেলা"
-    },
-    {
         "title": "শ্রমিকদের বাড়িভাড়া বাড়ানো হলে ব্যবস্থা নেবে সরকার",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/h42bh9qt\/AUDIO-NEWS-THUMB-UP-01.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-27 03:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/2pavrqqrhi",
         "category": "bangladesh"
+    },
+    {
+        "title": "পাত্র চাই!",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/2obmp01e\/PATRO-web.jpg.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 03:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/rcwil8v8at",
+        "category": "রস+আলো"
+    },
+    {
+        "title": "চাঁদের মাটিতে আলু চাষ, মহাকাশে খাবার নিয়ে থাকবে না শঙ্কা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/g0gqwwky\/lunartaters20261125224441.webp",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 03:00:00",
+        "newsUrl": "https:\/\/www.bigganchinta.com\/space\/0j1twmqydv",
+        "category": "space"
     },
     {
         "title": "ছাই দিয়ে আঁকা ছবি থেকে সোনালি মুরগি, আজকের ‘ইত্যাদি’তে যত চমক",
@@ -48,14 +56,6 @@
         "category": "feature"
     },
     {
-        "title": "পাত্র চাই!",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/2obmp01e\/PATRO-web.jpg.jpeg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 03:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/rcwil8v8at",
-        "category": "রস+আলো"
-    },
-    {
         "title": "দক্ষিণ আফ্রিকার ড্রেসিংরুমে ‘বাবাদের রাজত্ব’",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/5sdy6o0d\/image-1-64.webp",
         "source": "Prothom Alo",
@@ -64,12 +64,12 @@
         "category": "ক্রিকেট"
     },
     {
-        "title": "চাঁদের মাটিতে আলু চাষ, মহাকাশে খাবার নিয়ে থাকবে না শঙ্কা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/g0gqwwky\/lunartaters20261125224441.webp",
+        "title": "‘ভাই তাড়াতাড়ি আয়, মা যেন কেমন করছে’, হাসপাতালে পৌঁছানোর আগেই সব শেষ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/ukiv9gsr\/00-3.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-27 03:00:00",
-        "newsUrl": "https:\/\/www.bigganchinta.com\/space\/0j1twmqydv",
-        "category": "space"
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/pgdo0732et",
+        "category": "জেলা"
     },
     {
         "title": "যুক্তরাষ্ট্রে ঝড়ে বিদ্যুৎবিচ্ছিন্ন ৮ লাখের বেশি গ্রাহক, বাতিল ৪০০ ফ্লাইট",
@@ -152,14 +152,6 @@
         "category": "নিয়োগ"
     },
     {
-        "title": "২০ হাজার টাকার কমে স্মার্টফোন কেনার আগে যে ৮টি বিষয় জানতে হবে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/nk2ct1ws\/Smartphone.Palo.png",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/advice\/5qn7wr5f0p",
-        "category": "টিপস"
-    },
-    {
         "title": "শীতকাল সমাচার",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-25\/2w8tty5o\/2-page-comic-temp.jpg",
         "source": "Prothom Alo",
@@ -182,6 +174,30 @@
         "time": "2026-11-27 02:00:00",
         "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/n50npzfli7",
         "category": "লুক"
+    },
+    {
+        "title": "সৈকতে বালুর ভাস্কর্য ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/l03hfz9t\/1.-Coxs-Bazartourism-beach-carnivaltourismartworkclimate-change27112026.jfif",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/uob0sg8anw",
+        "category": "bangladesh"
+    },
+    {
+        "title": "২০ হাজার টাকার কমে স্মার্টফোন কেনার আগে যে ৮টি বিষয় জানতে হবে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/nk2ct1ws\/Smartphone.Palo.png",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/advice\/5qn7wr5f0p",
+        "category": "টিপস"
+    },
+    {
+        "title": "ঘরে ভালো মুমিনুল বাইরে কেন অন্য রকম",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/x6oxg9ao\/946051-01-02.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/l45zrqwfam",
+        "category": "ক্রিকেট"
     },
     {
         "title": "দিয়াবাড়ির বউবাজার কেন এত ভাইরাল?",
@@ -214,22 +230,6 @@
         "time": "2026-11-27 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/video\/international\/6zym99co9c",
         "category": "International"
-    },
-    {
-        "title": "সৈকতে বালুর ভাস্কর্য ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/l03hfz9t\/1.-Coxs-Bazartourism-beach-carnivaltourismartworkclimate-change27112026.jfif",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/uob0sg8anw",
-        "category": "bangladesh"
-    },
-    {
-        "title": "ঘরে ভালো মুমিনুল বাইরে কেন অন্য রকম",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/x6oxg9ao\/946051-01-02.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/l45zrqwfam",
-        "category": "ক্রিকেট"
     },
     {
         "title": "শুনানিতে বাংলাদেশকে অন্যায্য বিষয়গুলো তুলে ধরতে হবে",
