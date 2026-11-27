@@ -1,11 +1,27 @@
 [
     {
+        "title": " জুমার দিনে মুমিনের বিশেষ ৪ আমল",
+        "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/11\/27\/94d929bd87341396716c02ab017a6f7a-6b08fde5cc724.jpg?jadewits_media_id=325103",
+        "source": "Ittefaq",
+        "time": "2026-11-27 03:51:25",
+        "newsUrl": "https:\/\/www.ittefaq.com.bd\/823215\/%C2%A0%E0%A6%9C%E0%A7%81%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A7%AA-%E0%A6%86%E0%A6%AE%E0%A6%B2",
+        "category": "ধর্ম"
+    },
+    {
         "title": "‘টেস্টের এক ইনিংসে ৫০০ রান করবে বৈভব’",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/11\/27\/a124d1602b3db1d544dc76f21cebb0ac-6b08fc117e97c.jpg?jadewits_media_id=325102",
         "source": "Ittefaq",
         "time": "2026-11-27 03:44:06",
         "newsUrl": "https:\/\/www.ittefaq.com.bd\/823214\/%E2%80%98%E0%A6%9F%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95-%E0%A6%87%E0%A6%A8%E0%A6%BF%E0%A6%82%E0%A6%B8%E0%A7%87-%E0%A7%AB%E0%A7%A6%E0%A7%A6-%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A7%88%E0%A6%AD%E0%A6%AC%E2%80%99",
         "category": "খেলা"
+    },
+    {
+        "title": "তেভেজের বিদায়ী ম্যাচে মেসির খেলা নিশ্চিত, রোনালদোর কী খবর",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-27\/ffrqypm4\/642301655271121033917427668353570176923636568n.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 03:42:03",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/football\/n6aqzjjuw8",
+        "category": "ফুটবল"
     },
     {
         "title": "রাজধানীতে কয়েক ঘণ্টার ব্যবধানে তিন বাসে আগুন",
@@ -16,20 +32,20 @@
         "category": "রাজধানী"
     },
     {
+        "title": "খুলনায় নভেম্বরের ২৫ দিনেই ১৫ বার গুলি, ছয়জন নিহত, আতঙ্ক",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/xzg6wt7b\/Khulna.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 03:33:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/dbl7dg6lqf",
+        "category": "জেলা"
+    },
+    {
         "title": "সব পক্ষকে দায়িত্বশীল আচরণ করতে হবে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2020-10\/1029114c-37fd-4c36-a816-595983984828\/editorial_5.png",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2020-10\/1d63e6da-a8a2-4b30-a01c-0443c6229cd7\/editorial_3.png",
         "source": "Prothom Alo",
         "time": "2026-11-27 03:30:42",
         "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/editorial\/bqvw27oiut",
         "category": "সম্পাদকীয়"
-    },
-    {
-        "title": "ভোরের আলোয় যে বিলে ফুটে থাকা লাল শাপলা দেখতে আসছেন পর্যটকেরা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/t1dooyim\/WEB.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 03:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/x1p0owwyzh",
-        "category": "bangladesh"
     },
     {
         "title": "ভোরের আলোয় যে বিলে ফুটে থাকা লাল শাপলা দেখতে আসছেন পর্যটকেরা",
@@ -46,6 +62,14 @@
         "time": "2026-11-27 03:30:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/business\/stjm7udywr",
         "category": "বাণিজ্য"
+    },
+    {
+        "title": "ভোরের আলোয় যে বিলে ফুটে থাকা লাল শাপলা দেখতে আসছেন পর্যটকেরা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/t1dooyim\/WEB.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 03:30:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/x1p0owwyzh",
+        "category": "bangladesh"
     },
     {
         "title": "শিক্ষক ছাড়া উচ্চশিক্ষা চলবে কীভাবে",
@@ -104,22 +128,6 @@
         "category": "খেলা"
     },
     {
-        "title": "দক্ষিণ আফ্রিকার ড্রেসিংরুমে ‘বাবাদের রাজত্ব’",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/5sdy6o0d\/image-1-64.webp",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 03:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/wws9idzbn0",
-        "category": "ক্রিকেট"
-    },
-    {
-        "title": "‘ভাই তাড়াতাড়ি আয়, মা যেন কেমন করছে’, হাসপাতালে পৌঁছানোর আগেই সব শেষ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/ukiv9gsr\/00-3.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 03:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/pgdo0732et",
-        "category": "জেলা"
-    },
-    {
         "title": "ছাই দিয়ে আঁকা ছবি থেকে সোনালি মুরগি, আজকের ‘ইত্যাদি’তে যত চমক",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/19g7ke4n\/IMG3610.JPG",
         "source": "Prothom Alo",
@@ -158,6 +166,22 @@
         "time": "2026-11-27 03:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/fun\/rcwil8v8at",
         "category": "রস+আলো"
+    },
+    {
+        "title": "দক্ষিণ আফ্রিকার ড্রেসিংরুমে ‘বাবাদের রাজত্ব’",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/5sdy6o0d\/image-1-64.webp",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 03:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/wws9idzbn0",
+        "category": "ক্রিকেট"
+    },
+    {
+        "title": "‘ভাই তাড়াতাড়ি আয়, মা যেন কেমন করছে’, হাসপাতালে পৌঁছানোর আগেই সব শেষ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/ukiv9gsr\/00-3.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 03:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/pgdo0732et",
+        "category": "জেলা"
     },
     {
         "title": "যুক্তরাষ্ট্রে ঝড়ে বিদ্যুৎবিচ্ছিন্ন ৮ লাখের বেশি গ্রাহক, বাতিল ৪০০ ফ্লাইট",
@@ -248,6 +272,22 @@
         "category": "রস+আলো"
     },
     {
+        "title": "সৈকতে বালুর ভাস্কর্য ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/l03hfz9t\/1.-Coxs-Bazartourism-beach-carnivaltourismartworkclimate-change27112026.jfif",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/uob0sg8anw",
+        "category": "bangladesh"
+    },
+    {
+        "title": "জুমার বয়ানকে অর্থবহ করতে ইমামের ৫ করণীয়",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/rcnbn9ah\/pexels-a-darmel-8164535.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/religion\/islam\/lupgmo586x",
+        "category": "ইসলাম"
+    },
+    {
         "title": "শুভ্র লেহেঙ্গায় রাজকীয় কেয়া পায়েল",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/7ft1lhs4\/929690457184864637471138292288998664176176847n.jpg",
         "source": "Prothom Alo",
@@ -304,52 +344,12 @@
         "category": "International"
     },
     {
-        "title": "সৈকতে বালুর ভাস্কর্য ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/l03hfz9t\/1.-Coxs-Bazartourism-beach-carnivaltourismartworkclimate-change27112026.jfif",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/uob0sg8anw",
-        "category": "bangladesh"
-    },
-    {
-        "title": "জুমার বয়ানকে অর্থবহ করতে ইমামের ৫ করণীয়",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/rcnbn9ah\/pexels-a-darmel-8164535.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/religion\/islam\/lupgmo586x",
-        "category": "ইসলাম"
-    },
-    {
-        "title": "শুনানিতে বাংলাদেশকে অন্যায্য বিষয়গুলো তুলে ধরতে হবে",
-        "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/11\/27\/a5b3b8237c198cf9e104d4a2015e562e-6b08926fac843.jpg?jadewits_media_id=325087",
-        "source": "Ittefaq",
-        "time": "2026-11-27 02:00:00",
-        "newsUrl": "https:\/\/www.ittefaq.com.bd\/823199\/%E0%A6%B6%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF%C2%A0%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%9F%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%A7%E0%A6%B0%E0%A6%A4%E0%A7%87",
-        "category": "অর্থনীতি"
-    },
-    {
         "title": "ফ্যামিলি কার্ডে ভাতার আওতায় ৭৪ হাজার পরিবার",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-08-06\/lxd03oxq\/Family_Card.avif",
         "source": "Prothom Alo",
         "time": "2026-11-27 01:33:07",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/5moxigkkqp",
         "category": "বাংলাদেশ"
-    },
-    {
-        "title": "মানবজাতির প্রাচীন গুহাচিত্রগুলো মুছে যাচ্ছে, কারণ জানালেন প্রত্নতাত্ত্বিকেরা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/vwkt54lr\/asi-11.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 01:00:00",
-        "newsUrl": "https:\/\/www.kishoralo.com\/feature\/r86h7lgqde",
-        "category": "feature"
-    },
-    {
-        "title": "একসময়ের খুব কাছের মানুষের সঙ্গে যোগাযোগ নেই? এই ১০টি হৃদয়ছোঁয়া মেসেজ দূর করতে পারে বহুদিনের দূরত্ব",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/ivkpfuv6\/message7568.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 01:00:00",
-        "newsUrl": "https:\/\/www.haal.fashion\/lifestyle\/relationships\/cbykzr69i9",
-        "category": "সম্পর্ক"
     },
     {
         "title": "অর্ণবের কনসার্ট থেকে ‘দেলুপি’ ছুটির দিনের যত আয়োজন",
@@ -360,6 +360,22 @@
         "category": "বিনোদন"
     },
     {
+        "title": "আজ টিভিতে যা দেখবেন (২৭ নভেম্বর ২০২৬)",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/k96uaof3\/WhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 01:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/kwak2c2ufa",
+        "category": "খেলা"
+    },
+    {
+        "title": "মানবজাতির প্রাচীন গুহাচিত্রগুলো মুছে যাচ্ছে, কারণ জানালেন প্রত্নতাত্ত্বিকেরা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/vwkt54lr\/asi-11.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 01:00:00",
+        "newsUrl": "https:\/\/www.kishoralo.com\/feature\/r86h7lgqde",
+        "category": "feature"
+    },
+    {
         "title": "একটি স্বনির্ভর পেশার নাম ভিক্ষাবৃত্তি!",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/fou3mhyk\/vikkha-web.jpg.jpeg",
         "source": "Prothom Alo",
@@ -368,12 +384,12 @@
         "category": "রস+আলো"
     },
     {
-        "title": "আজ টিভিতে যা দেখবেন (২৭ নভেম্বর ২০২৬)",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/k96uaof3\/WhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg",
+        "title": "একসময়ের খুব কাছের মানুষের সঙ্গে যোগাযোগ নেই? এই ১০টি হৃদয়ছোঁয়া মেসেজ দূর করতে পারে বহুদিনের দূরত্ব",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/ivkpfuv6\/message7568.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-27 01:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/kwak2c2ufa",
-        "category": "খেলা"
+        "newsUrl": "https:\/\/www.haal.fashion\/lifestyle\/relationships\/cbykzr69i9",
+        "category": "সম্পর্ক"
     },
     {
         "title": "মৃত্যুর আগে ব্রুস লির শেষ কয়েক ঘণ্টা, যে রহস্যের জট খোলেনি আজও",
