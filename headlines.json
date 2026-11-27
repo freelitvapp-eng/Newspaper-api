@@ -1,5 +1,21 @@
 [
     {
+        "title": "অভিভাবক হিসেবে আমরাও তো সবকিছুর উত্তর জানি না, সে ক্ষেত্রে করণীয় কী?",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-25\/fsnfl69s\/Dr.-rahenul-1.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 05:38:00",
+        "newsUrl": "https:\/\/trust.prothomalo.com\/activities\/drug-abuse\/2oux6yeqd2",
+        "category": "মাদকবিরোধী আন্দোলন"
+    },
+    {
+        "title": "নিষিদ্ধ ছাদ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/h9y18300\/%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%9B%E0%A6%BE%E0%A6%A6-%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%A8.png",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 05:30:00",
+        "newsUrl": "https:\/\/www.bondhushava.com\/writings\/5yl285e5ol",
+        "category": "writings"
+    },
+    {
         "title": "ঢাকা-গোপালগঞ্জসহ ছয় জেলায় ১১৩ প্লাটুন বিজিবি মোতায়েন",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/11\/27\/6ec0ebc7e159d5f85980e6b394bc08d6-6b0914bda46f0.jpg?jadewits_media_id=325115",
         "source": "Ittefaq",
@@ -48,30 +64,6 @@
         "category": "লাইফস্টাইল"
     },
     {
-        "title": "পণ্য রপ্তানি আয় কমলেও সেবা রপ্তানি আয় আশা জাগাচ্ছে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-02-27\/o6ds0ncp\/Bangladesh_Bank.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 05:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/business\/economics\/1x7v6yaotf",
-        "category": "অর্থনীতি"
-    },
-    {
-        "title": "আবর্জনার কলোনি থেকে সবুজের আবাস",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/5fi0gjdb\/WEB.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 05:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/y3243uqq4e",
-        "category": "bangladesh"
-    },
-    {
-        "title": "জুনিয়র সায়েন্স অলিম্পিয়াডে অংশ নিতে বুলগেরিয়া যাচ্ছে ছয় সদস্যের বাংলাদেশ দল",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/nc6i08ld\/IJSO-2026-Team.png",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 05:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/science\/tl0ic15gsf",
-        "category": "বিজ্ঞান"
-    },
-    {
         "title": "ব্যাট হাতে যাঁরা বোলারদের সবচেয়ে প্রিয়, তালিকায় দুই বাংলাদেশি",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/59qjlprc\/337283.webp",
         "source": "Prothom Alo",
@@ -94,6 +86,30 @@
         "time": "2026-11-27 05:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/bangladesh\/district\/7yggod8xnq",
         "category": "জেলা"
+    },
+    {
+        "title": "পণ্য রপ্তানি আয় কমলেও সেবা রপ্তানি আয় আশা জাগাচ্ছে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-02-27\/o6ds0ncp\/Bangladesh_Bank.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 05:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/business\/economics\/1x7v6yaotf",
+        "category": "অর্থনীতি"
+    },
+    {
+        "title": "আবর্জনার কলোনি থেকে সবুজের আবাস",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/5fi0gjdb\/WEB.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 05:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/y3243uqq4e",
+        "category": "bangladesh"
+    },
+    {
+        "title": "জুনিয়র সায়েন্স অলিম্পিয়াডে অংশ নিতে বুলগেরিয়া যাচ্ছে ছয় সদস্যের বাংলাদেশ দল",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/nc6i08ld\/IJSO-2026-Team.png",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 05:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/science\/tl0ic15gsf",
+        "category": "বিজ্ঞান"
     },
     {
         "title": "ইউরোপে আঘাত হানতে সক্ষম ইরানের ক্ষেপণাস্ত্র, ‘পারমাণবিক ধ্বংসযজ্ঞের’ হুঁশিয়ারি ট্রাম্পের",
@@ -224,6 +240,14 @@
         "category": "স্টাইল"
     },
     {
+        "title": "মোদি ক্ষমতায় না থাকলেও কি ভারত–ইসরায়েল সম্পর্ক অটুট থাকবে",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/dv3k90kf\/Minister-Benjamin-Netanyahu.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 04:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/world\/india\/cq0gu7z02x",
+        "category": "ভারত"
+    },
+    {
         "title": "বিড়ালের লেজে হাত দিলেই খেপে যায় কেন",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-07-23\/9zcihp8x\/photo_1727953285946_d9f8ac476aac.avif",
         "source": "Prothom Alo",
@@ -254,14 +278,6 @@
         "time": "2026-11-27 04:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/r8sj9qx0qi",
         "category": "bangladesh"
-    },
-    {
-        "title": "মোদি ক্ষমতায় না থাকলেও কি ভারত–ইসরায়েল সম্পর্ক অটুট থাকবে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/dv3k90kf\/Minister-Benjamin-Netanyahu.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 04:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/india\/cq0gu7z02x",
-        "category": "ভারত"
     },
     {
         "title": "যুক্তরাষ্ট্রে প্রায় ১০ লাখ গ্রাহক বিদ্যুৎহীন, ৪৪০টি ফ্লাইট বাতিল",
@@ -480,30 +496,6 @@
         "category": "International"
     },
     {
-        "title": "ঘরে ভালো মুমিনুল বাইরে কেন অন্য রকম",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/x6oxg9ao\/946051-01-02.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/l45zrqwfam",
-        "category": "ক্রিকেট"
-    },
-    {
-        "title": "সৈকতে বালুর ভাস্কর্য ",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/l03hfz9t\/1.-Coxs-Bazartourism-beach-carnivaltourismartworkclimate-change27112026.jfif",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 02:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/uob0sg8anw",
-        "category": "bangladesh"
-    },
-    {
-        "title": "শুভ্র লেহেঙ্গায় রাজকীয় কেয়া পায়েল",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/7ft1lhs4\/929690457184864637471138292288998664176176847n.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 02:00:00",
-        "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/n50npzfli7",
-        "category": "লুক"
-    },
-    {
         "title": "২০ হাজার টাকার কমে স্মার্টফোন কেনার আগে যে ৮টি বিষয় জানতে হবে",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/nk2ct1ws\/Smartphone.Palo.png",
         "source": "Prothom Alo",
@@ -534,6 +526,30 @@
         "time": "2026-11-27 02:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/column\/3l68inwxsw",
         "category": "কলাম"
+    },
+    {
+        "title": "ঘরে ভালো মুমিনুল বাইরে কেন অন্য রকম",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/x6oxg9ao\/946051-01-02.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/cricket\/l45zrqwfam",
+        "category": "ক্রিকেট"
+    },
+    {
+        "title": "সৈকতে বালুর ভাস্কর্য ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/l03hfz9t\/1.-Coxs-Bazartourism-beach-carnivaltourismartworkclimate-change27112026.jfif",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 02:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/photo\/bangladesh\/uob0sg8anw",
+        "category": "bangladesh"
+    },
+    {
+        "title": "শুভ্র লেহেঙ্গায় রাজকীয় কেয়া পায়েল",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/7ft1lhs4\/929690457184864637471138292288998664176176847n.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 02:00:00",
+        "newsUrl": "https:\/\/www.haal.fashion\/celeb\/look\/n50npzfli7",
+        "category": "লুক"
     },
     {
         "title": "ফ্যামিলি কার্ডে ভাতার আওতায় ৭৪ হাজার পরিবার",
