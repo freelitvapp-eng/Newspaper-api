@@ -16,6 +16,22 @@
         "category": "বিশ্ব সংবাদ"
     },
     {
+        "title": "ভাবুক সম্রাট",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-27\/lnqxgfh6\/Capture.PNG",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 07:27:51",
+        "newsUrl": "https:\/\/www.prothomalo.com\/fun\/y9d0504duq",
+        "category": "রস+আলো"
+    },
+    {
+        "title": "র‍্যানসমওয়্যার হামলা হলেও দ্রুত স্বাভাবিক হয়েছে খুচরা বিক্রি: সফোস",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-27\/8amyy8or\/Sophos.png",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 07:20:58",
+        "newsUrl": "https:\/\/www.prothomalo.com\/technology\/cyberworld\/098u8hpa13",
+        "category": "সাইবারজগত"
+    },
+    {
         "title": "দেশের সব মাদ্রাসার জন্য জরুরি নির্দেশনা",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2026\/11\/27\/24c2425969eb8ba6ce0c4163ab632dce-6b092b54a7123.jpg?jadewits_media_id=325128",
         "source": "Ittefaq",
@@ -392,6 +408,14 @@
         "category": "feature"
     },
     {
+        "title": "সৌদি থেকে ফিরে গোবর দিয়েই গড়লেন আয়ের উৎস",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/kzq89nvk\/WEB.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-27 04:00:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/q00ylwata3",
+        "category": "bangladesh"
+    },
+    {
         "title": "বাংলার বন্ড",
         "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-25\/v7rc129h\/Untitled-1-16.jpg",
         "source": "Prothom Alo",
@@ -414,14 +438,6 @@
         "time": "2026-11-27 04:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/lifestyle\/style\/fcqfcs2mdd",
         "category": "স্টাইল"
-    },
-    {
-        "title": "সৌদি থেকে ফিরে গোবর দিয়েই গড়লেন আয়ের উৎস",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/kzq89nvk\/WEB.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 04:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/q00ylwata3",
-        "category": "bangladesh"
     },
     {
         "title": "বিশাল আকৃতির ষাঁড়, রঙিন পাখি, সব কিন্তু বিক্রির জন্য নয় ",
@@ -478,46 +494,6 @@
         "time": "2026-11-27 03:30:42",
         "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/editorial\/bqvw27oiut",
         "category": "সম্পাদকীয়"
-    },
-    {
-        "title": "ভোরের আলোয় যে বিলে ফুটে থাকা লাল শাপলা দেখতে আসছেন পর্যটকেরা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/t1dooyim\/WEB.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 03:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/1g2ggu40ud",
-        "category": "bangladesh"
-    },
-    {
-        "title": "দামি চালে বাড়তি খরচ, স্বস্তি মুরগি–ডিমে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/r3q93njx\/Untitled-10.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 03:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/business\/stjm7udywr",
-        "category": "বাণিজ্য"
-    },
-    {
-        "title": "ভোরের আলোয় যে বিলে ফুটে থাকা লাল শাপলা দেখতে আসছেন পর্যটকেরা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/t1dooyim\/WEB.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 03:30:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/video\/bangladesh\/x1p0owwyzh",
-        "category": "bangladesh"
-    },
-    {
-        "title": "শিক্ষক ছাড়া উচ্চশিক্ষা চলবে কীভাবে",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2020-10\/1029114c-37fd-4c36-a816-595983984828\/editorial_5.png",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 03:28:10",
-        "newsUrl": "https:\/\/www.prothomalo.com\/opinion\/editorial\/6brv6x7q30",
-        "category": "সম্পাদকীয়"
-    },
-    {
-        "title": "কুয়েতে সামরিক স্থাপনায় হামলা চালানোর কথা অস্বীকার ইরানের, যৌথ তদন্তের প্রস্তাব",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-27\/2e4cx341\/Abbas-Araqchi.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-27 03:23:28",
-        "newsUrl": "https:\/\/www.prothomalo.com\/world\/middle-east\/qv4bto4xwc",
-        "category": "মধ্যপ্রাচ্য"
     },
     {
         "title": "কেউ ভবনের ছাদে, কেউ গাছের ডালে, ৩৭ বছর পরও ‘ইত্যাদি’ ঘিরে সেই উচ্ছ্বাস",
