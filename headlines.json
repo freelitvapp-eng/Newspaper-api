@@ -1,5 +1,21 @@
 [
     {
+        "title": "মার্কিন শুল্ক আরোপ হলে চাপে \nপড়তে পারে দেশের তিন খাত ",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-27\/6tq1emtc\/Capture.PNG",
+        "source": "Prothom Alo",
+        "time": "2026-11-28 01:33:41",
+        "newsUrl": "https:\/\/www.prothomalo.com\/business\/economics\/qypxtjl85y",
+        "category": "অর্থনীতি"
+    },
+    {
+        "title": "মেসির ভোট পেয়েছিলেন রিয়াল মাদ্রিদের এক খেলোয়াড়, রোনালদোর ভোট পেয়েছিলেন বার্সেলোনার একজন",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2024-03\/3818a658-41aa-471e-a3e6-700b3e104d0a\/Messi_Ronaldo_Collage__8_.jpeg",
+        "source": "Prothom Alo",
+        "time": "2026-11-28 01:30:00",
+        "newsUrl": "https:\/\/www.prothomalo.com\/sports\/football\/mo6a8vbboh",
+        "category": "ফুটবল"
+    },
+    {
         "title": "নির্দোষ মানুষ আর কত যুদ্ধের বোঝা বহিবে?",
         "imageUrl": "https:\/\/cdn.ittefaqbd.com\/contents\/cache\/images\/300x300x1\/uploads\/media\/2025\/01\/13\/930b67d35c3d5b85482546b121685121-6784d15773bfa.jpg?jadewits_media_id=205192",
         "source": "Ittefaq",
@@ -8,12 +24,12 @@
         "category": "মতামত"
     },
     {
-        "title": "শীতে বাড়ে কোষ্ঠকাঠিন্য: লাইফস্টাইলের পরিবর্তনে এড়ানো যায় এই সমস্যা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-27\/13fx5mhi\/cons-2.jpg",
+        "title": "হুট করেই আলোচনায়, কে এই পূর্ণিমা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-27\/jf55igxv\/9034049302059049108131654997252347615558253n.jpg",
         "source": "Prothom Alo",
         "time": "2026-11-28 01:00:00",
-        "newsUrl": "https:\/\/www.haal.fashion\/lifestyle\/well-being\/am0d7dvi9w",
-        "category": "কুশল"
+        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/tv\/clmzmnubb5",
+        "category": "টেলিভিশন"
     },
     {
         "title": "খরার মধ্যেও টিকে থাকবে চা গাছ, সম্ভাবনা দেখাচ্ছে বাকৃবি ও বিটিআরআইয়ের গবেষণা",
@@ -22,22 +38,6 @@
         "time": "2026-11-28 01:00:00",
         "newsUrl": "https:\/\/www.bigganchinta.com\/biology\/kx2ddw9kb8",
         "category": "biology"
-    },
-    {
-        "title": "সেপটিক ট্যাংকে কী গ্যাস থাকে, এই গ্যাস থেকে কীভাবে নিরাপদ রাখা যায়",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/g90pkjsz\/septic-tank-care.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-28 01:00:00",
-        "newsUrl": "https:\/\/www.kishoralo.com\/feature\/058y4uozoz",
-        "category": "feature"
-    },
-    {
-        "title": "হুট করেই আলোচনায়, কে এই পূর্ণিমা",
-        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-27\/jf55igxv\/9034049302059049108131654997252347615558253n.jpg",
-        "source": "Prothom Alo",
-        "time": "2026-11-28 01:00:00",
-        "newsUrl": "https:\/\/www.prothomalo.com\/entertainment\/tv\/clmzmnubb5",
-        "category": "টেলিভিশন"
     },
     {
         "title": "এআই যখন এআইয়ের চাকরি খায়!",
@@ -54,6 +54,22 @@
         "time": "2026-11-28 01:00:00",
         "newsUrl": "https:\/\/www.prothomalo.com\/sports\/0nygo191kw",
         "category": "খেলা"
+    },
+    {
+        "title": "সেপটিক ট্যাংকে কী গ্যাস থাকে, এই গ্যাস থেকে কীভাবে নিরাপদ রাখা যায়",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-26\/g90pkjsz\/septic-tank-care.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-28 01:00:00",
+        "newsUrl": "https:\/\/www.kishoralo.com\/feature\/058y4uozoz",
+        "category": "feature"
+    },
+    {
+        "title": "শীতে বাড়ে কোষ্ঠকাঠিন্য: লাইফস্টাইলের পরিবর্তনে এড়ানো যায় এই সমস্যা",
+        "imageUrl": "https:\/\/media.prothomalo.com\/prothomalo-bangla\/2026-11-27\/13fx5mhi\/cons-2.jpg",
+        "source": "Prothom Alo",
+        "time": "2026-11-28 01:00:00",
+        "newsUrl": "https:\/\/www.haal.fashion\/lifestyle\/well-being\/am0d7dvi9w",
+        "category": "কুশল"
     },
     {
         "title": "যুক্তরাষ্ট্রে প্রত্যেক শিশুকে স্পেসএক্সের দুটি করে শেয়ার দেবেন ইলন মাস্ক",
